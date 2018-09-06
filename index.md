@@ -4,7 +4,13 @@ permalink: /videos/standards-and-benefits/
 layout: default
 ---
 
-{% include video-player.html yt-id="20SHvU2PKsM" %}
+{% include video-player.html 
+           yt-id="20SHvU2PKsM" 
+           captions="/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt|en|English Captions"
+           subtitles="/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ar.vtt|ar|Arabic Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.de.vtt|de|German Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.es.vtt|es|Spanish Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.fr.vtt|fr|French Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.gj.vtt|gj|Gujarati Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.hn.vtt|hn|Hindi Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.kn.vtt|kn|Kannada Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ko.vtt|ko|Korean Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ml.vtt|ml|Malayalam Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.mr.vtt|mr|Marathi Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.nl.vtt|nl|Dutch Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.pt-br.vtt|pt-br|Portuguese(Br) Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.tl.vtt|tl|Tagalog/Filipino Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.zh.vtt|zh|Chinese Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI_ja.vtt|ja|Japanese Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.it.vtt|it|Italian Subtitles"
+           %}
+
+
 
 This video is also available at [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM).
 
