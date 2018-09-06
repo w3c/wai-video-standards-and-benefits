@@ -62,9 +62,9 @@ Perspectives web page](https://www.w3.org/WAI/perspectives/) and select
 <table>
   <thead>
     <tr>
-      <th>Seq.</th>
+      <th width="5%">Seq.</th>
       <th>Audio</th>
-      <th>Visual</th>
+      <th width="30%">Visual</th>
     </tr>
   </thead>
   <tbody>
