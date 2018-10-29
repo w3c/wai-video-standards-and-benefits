@@ -2,6 +2,9 @@
 title: "Video Introduction to Web Accessibility and W3C Standards"
 permalink: /videos/standards-and-benefits/
 layout: default
+github:
+  repository: w3c/wai-video-standards-and-benefits
+  path: 'index.md'
 ---
 
 {% include video-player.html 
