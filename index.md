@@ -5,6 +5,9 @@ layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
   path: 'index.md'
+footer: > # Text in footer in HTML
+  <p><strong>Date:</strong> Updated 18 December 2018. First published 4 December 2017. </p>
+  <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
 ---
 
 {% include video-player.html 
