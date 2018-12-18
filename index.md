@@ -48,8 +48,7 @@ For more information, see:
 ## Permission to Use Video {#permission}
 
 You may use this video if you include a link to this page. More
-information is available in the [W3C Intellectual Rights
-FAQ](https://www.w3.org/Consortium/Legal/IPR-FAQ-20000620).
+information is available in the [Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/using-wai-material/).
 
 ## Audio Description {#ad}
 
@@ -66,7 +65,7 @@ or you can select one of the videos on the [Web Accessibility
 Perspectives web page](https://www.w3.org/WAI/perspectives/) and select
 "Enable Audio Description".
 
-## Transcript with Visuals {#transcript}
+## Transcript with Description {#transcript}
 
 <table>
   <thead>
