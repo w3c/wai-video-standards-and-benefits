@@ -215,7 +215,7 @@ w3.org/WAI</td>
 
 To get translations in the captions area in the bottom of the video:
 
-1. Select "Captions".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' alt="">
+1. Select <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Captions".
 
 2. Select the language.
 
