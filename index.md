@@ -20,12 +20,12 @@ footer: > # Text in footer in HTML
 
 
 This video information is available:
-* **In different languages as subtitles**. Instructions [to see translations](#translations) are below.
+* **In different languages as subtitles**. [Instructions to see translations](#translations) are below.
 * On YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
 {% comment %}
 * On the W3C website: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
 {% endcomment %}
-* As a **[Transcript with Description](#transcript)** below.
+* As a **[Transcript with Description of Visuals](#transcript)** below.
 
 ## Learn More {#moreinfo}
 
@@ -45,7 +45,7 @@ This video does not include audio description because the visuals only support t
 
 If you want examples of videos with audio description, see [Web Accessibility Perspectives - Audio Described (YouTube playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), or you can select one of the videos on the [Web Accessibility Perspectives web page](https://www.w3.org/WAI/perspectives/) and select "Enable Audio Description".
 
-## Transcript with Description {#transcript}
+## Transcript with Description of Visuals {#transcript}
 
 <table>
   <thead>
