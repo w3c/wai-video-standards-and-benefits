@@ -1,7 +1,8 @@
 ---
+# translation notes are after the "#" character in this first section
 title: "Video Introduction to Web Accessibility and W3C Standards" # translate this
 last_updated: 2020-11-11 # update date of this translation
-translator: "@@" # replace @@ with name(s)
+translator: "@@" # replace @@ with name or names separated with a comma
 contributors: "@@" # replace @@ with name(s) or delete this line
 permalink: /videos/standards-and-benefits/ # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
@@ -14,7 +15,7 @@ feedbackmail: wai@w3.org
 footer: > # translate the words below; do NOT change the dates.
   <p><strong>Date:</strong> Updated 20 December 2018. First published 4 December 2017. </p>
   <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
-
+# end of translation notes
 ---
 
 {% include video-player.html 
