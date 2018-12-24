@@ -1,6 +1,7 @@
 ---
 # translation notes are after the "#" character in this first section
 title: "Vidéo : introduction à l’accessibilité web et aux standards du W3C" # translate this
+title_html: "Vidéo&#8239;: introduction à l’accessibilité web et aux standards du W3C" # translate this
 last_updated: 2018-12-24 # update date of this translation
 translator: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
 contributors: "@@" # replace @@ with name(s) or delete this line
