@@ -1,20 +1,20 @@
 ---
 # translation notes are after the "#" character in this first section
-title: "Video Introduction to Web Accessibility and W3C Standards" # translate this
-last_updated: 2020-11-11 # update date of this translation
-translator: "@@" # replace @@ with name or names separated with a comma
+title: "Vidéo : introduction à l’accessibilité web et aux standards du W3C" # translate this
+last_updated: 2018-12-24 # update date of this translation
+translator: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
 contributors: "@@" # replace @@ with name(s) or delete this line
-permalink: /videos/standards-and-benefits/ # Add the language shortcode; for example: /videos/standards-and-benefits/zh
+permalink: /videos/standards-and-benefits/fr # Add the language shortcode; for example: /videos/standards-and-benefits/zh
 ref: /videos/standards-and-benefits/ # do NOT change this
-lang: en # Translated language shortcode
+lang: fr # Translated language shortcode
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.md' # Add the language shortcode after index; for example, index.zh.md
+  path: 'index.fr.md' # Add the language shortcode after index; for example, index.zh.md
 feedbackmail: wai@w3.org
 footer: > # translate the words below; do NOT change the dates.
-  <p><strong>Date:</strong> Updated 20 December 2018. First published 4 December 2017. </p>
-  <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
+  <p><strong>Date&#8239;:</strong> Updated 20 December 2018. First published 4 December 2017. </p>
+  <p>Direction de projet&#8239;: <a hreflang="en" href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a hreflang="en" href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a hreflang="en" href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a hreflang="en" href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Capture et montage de la vidéo&#8239;: Ulrich Grimm, av-design GmbH.</p>
 # end of translation notes
 ---
 
@@ -26,181 +26,181 @@ footer: > # translate the words below; do NOT change the dates.
 
 
 
-This video information is available:
-* **In different languages as subtitles**. [Instructions to see translations](#translations) are below.
-* On YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
+Cette vidéo est disponible&#8239;:
+* **Dans différentes langues et sous-titres** Voir ci-dessous les [instructions pour voir les traductions](#translations).
+* [Sur Youtube](https://www.youtube.com/watch?v=20SHvU2PKsM)
 {% comment %}
-* On the W3C website: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
+* [Sur le site du W3C](http://media.w3.org/@@)
 {% endcomment %}
-* As a **[Text Transcript with Description of Visuals](#transcript)** below.
+* Sous forme de **[retranscription avec description des visuels](#transcript)** ci-dessous.
 
-## Learn More {#moreinfo}
+## En savoir plus {#moreinfo}
 
-For more information, see:
+Pour plus d’information, voir&#8239;:
 
--   [**Introduction to Web Accessibility**](https://www.w3.org/WAI/intro/accessibility)
--   [**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspectives/) — videos and information on specific accessibility topics.
--   [**WAI website**](https://www.w3.org/WAI/) — to find a wide range of resources on different aspects of web accessibility [standards]( https://www.w3.org/WAI/standards-guidelines/), [education]( https://www.w3.org/WAI/teach-advocate/), [testing/evaluation]( https://www.w3.org/WAI/test-evaluate/), [project management, and policy]( https://www.w3.org/WAI/planning/).
+- [**Introduction à l’accessibilité web**](https://www.w3.org/WAI/intro/accessibility){: hreflang="en"} (en anglais)
+- [**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorez l’impact et les bénéfices pour tous](https://www.w3.org/WAI/perspectives/){: hreflang="en"} (en anglais) — vidéos et informations sur des sujets spécifiques d’accessibilité.
+- [**Le site de WAI** (<i lang="en">Web Accessibility Initiative</i>, Initiative pour l’accessibilité du Web)](https://www.w3.org/WAI/){: hreflang="en"} (en anglais) — pour trouver un grand nombre de ressources sur de nombreux aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/){: hreflang="en"} (en anglais), [éducation](https://www.w3.org/WAI/teach-advocate/){: hreflang="en"} (en anglais), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/){: hreflang="en"} (en anglais), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/){: hreflang="en"} (en anglais).
 
-## Permission to Use Video {#permission}
+## Permission d’utiliser cette vidéo {#permission}
 
-You may use this video if you include a link to this page. More information is available in [Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/using-wai-material/).
+Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur [Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/using-wai-material/){: lang="en"}{: hreflang="en"} (en anglais).
 
-## Audio Description {#ad}
+## Audio-description {#ad}
 
-This video does not include audio description because the visuals only support the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. The Transcript with Description below includes descriptions of the supporting visuals.
+Cette vidéo ne comprend pas d’audio-description parce que les visuels ne servent qu’à soutenir le discours et ne fournissent pas d’informations complémentaires. Dans ce cas, une audio-description serait plus gênante qu’utile pour la plupart des visiteurs, y compris les personnes ne pouvant pas voir les images. La transcription avec description ci-dessous fournit des descriptions des visuels utilisés en support.
 
-If you want examples of videos with audio description, see [Web Accessibility Perspectives - Audio Described (YouTube playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), or you can select one of the videos on the [Web Accessibility Perspectives web page](https://www.w3.org/WAI/perspectives/) and select "Enable Audio Description".
+Si vous voulez des exemples de vidéos audio-décrites, consultez [La <i lang="en">playlist</i> sur Youtube « Perspectives sur l’accessibilité web »](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-) ; vous pouvez aussi sélectionner une des vidéos de la page [Perspectives sur l’accessibilité web](https://www.w3.org/WAI/perspectives/), et sélectionner « Activer l’audio-description ».
 
-## Text Transcript with Description of Visuals {#transcript}
+## Transcription textuelle avec description des visuels {#transcript}
 
 <table>
   <thead>
     <tr>
       <th>Audio</th>
-      <th>Visual</th>
+      <th>Visuel</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Hi! My name is Shadi Abou-Zahra. I'm the Accessibility Strategy and Technology Specialist at W3C, the World Wide Web Consortium, and today I'd like to tell you about web accessibility.</td>
-      <td>Web Accessibility<br>
-        [Shadi speaking]</td>
+      <td>Bonjour&#8239;! Je suis Shadi Abou-Zahra. Je suis le Spécialiste Technologie et Stratégie pour l’Accessibilité au W3C, le <i lang="en">World Wide Web Consortium</i>, et aujourd’hui j’aimerais vous parler d’accessibilité web.</td>
+      <td>Accessibilité web<br>
+        [Shadi parle]</td>
     </tr>
     <tr>
-      <td>The Web is for many people an essential part of daily life.</td>
-      <td>People in an Internet cafe</td>
+      <td>Le Web représente pour beaucoup d’entre nous une partie essentielle de la vie quotidienne.</td>
+      <td>Des gens dans un café internet</td>
     </tr>
     <tr>
-      <td>At work.</td>
-      <td>Someone in an office using a computer</td>
+      <td>Au travail.</td>
+      <td>Une personne au bureau travaille sur un ordinateur</td>
     </tr>
     <tr>
-      <td>At home.</td>
+      <td>À la maison.</td>
       <td>Someone sitting in a sofa using a laptop</td>
     </tr>
     <tr>
-      <td>And on the road.</td>
-      <td>Someone using a mobile phone while walking</td>
+      <td>Et en déplacement.</td>
+      <td>Une personne utilise un téléphone mobile en marchant</td>
     </tr>
     <tr>
-      <td>Web accessibility means that people with disabilities can use the Web equally.</td>
-      <td>[Shadi speaking]</td>
+      <td>L’accessibilité web permet, même avec un handicap, d’utiliser le Web comme tout le monde.</td>
+      <td>[Shadi parle]</td>
     </tr>
     <tr>
-      <td>For example, somebody who cannot use their arms, and uses a mouthstick to type.</td>
-      <td>Someone using a mouthstick to type</td>
+      <td>Par exemple une personne n’ayant pas l’usage de ses bras a recours à une baguette buccale pour taper au clavier.</td>
+      <td>Une personne tape avec une baguetet buccale</td>
     </tr>
     <tr>
-      <td>Or someone who cannot hear well, and uses captions to watch videos.</td>
-      <td>Someone using a hearing aid</td>
+      <td>Quelqu’un qui n’entend pas forcément bien utilise des sous-titres pour regarder des vidéos.</td>
+      <td>Une personne porte une aide auditive</td>
     </tr>
     <tr>
-      <td>Or someone who cannot see well, and uses a screen reader to read aloud what's on the screen.</td>
-      <td>Someone using a screen reader</td>
+      <td>Quelqu’un qui ne voit pas bien utilise un lecteur d’écran pour vocaliser ce qui se passe à l’écran.</td>
+      <td>Une personne utilise un lecteur d’écran</td>
     </tr>
     <tr>
-      <td>Accessibility has many benefits.</td>
-      <td>[Shadi speaking]</td>
+      <td>L’accessibilité comporte de nombreux bénéfices.</td>
+      <td>[Shadi parle]</td>
     </tr>
     <tr>
-      <td>For example, captions benefit anyone in a loud or in a quite environment.</td>
-      <td>Someone watching a video with captions in an office</td>
+      <td>Par exemple, les sous-titres sont utiles à tous, dans un environnement bruyant ou pas.</td>
+      <td>Une personne au bureau regarde une vidéo avec des sous-titres</td>
     </tr>
     <tr>
-      <td>And good color contrast works better when there is glare.</td>
-      <td>Someone looking at a mobile phone with glare on the screen</td>
+      <td>Et un bon contraste de couleur est plus utilisable en cas de lumière vive.</td>
+      <td>Une personne regarde un téléphone mobile, un reflet est visible sur l’écran</td>
     </tr>
     <tr>
-      <td>Also people with age-related impairments, such as reduced dexterity, benefit.</td>
-      <td>Someone with tremors using a mouse with difficulty</td>
+      <td>De plus, elle atténue les problèmes liés à l’âge, une baisse de dextérité par exemple.</td>
+      <td>Une personne qui tremble utilise une souris avec difficulté</td>
     </tr>
     <tr>
-      <td>In fact, everyone has a better user experience with an improved layout and design.</td>
-      <td>Two people smiling happily at a well-designed website</td>
+      <td>En fait, le design accessible améliore l’expérience utilisateur pour tout le monde.</td>
+      <td>Deux personnes sourient devant un site web bien conçu</td>
     </tr>
     <tr>
-      <td>A lot of accessibility can be built into the underlying code of websites and applications.</td>
-      <td>[Shadi speaking]</td>
+      <td>On peut injecter beaucoup d’accessibilité directement dans le code des sites web et des applications.</td>
+      <td>[Shadi parle]</td>
     </tr>
     <tr>
-      <td>Web technologies from W3C, such as HTML, provide many accessibility features.</td>
-      <td>HTML code of a web page</td>
+      <td>Les technologies web du W3C, telles qu’HTML, permettent la mise en œuvre de nombreuses solutions d’accessibilité.</td>
+      <td>Code HTML d’une page web</td>
     </tr>
     <tr>
-      <td>For example, to provide textual descriptions for images, which are read aloud by screen readers and also used by search engines.</td>
-      <td>Example code</td>
+      <td>Par exemple, des méthodes pour fournir des alternatives textuelles aux images, qui sont vocalisées par les lecteurs d’écran et aussi utilisées par les moteurs de recherche.</td>
+      <td>Code d’exemple</td>
     </tr>
     <tr>
-      <td>Also headings, labels, and other code supports accessibility and improves the quality overall.</td>
-      <td>Example code</td>
+      <td>De plus les titres, les étiquettes de formulaires, et autres balises aident à l’accessibilité et améliorent globalement la qualité.</td>
+      <td>Code d’exemple</td>
     </tr>
     <tr>
-      <td>Good authoring tools, such as wikis, content management systems, and code editors, help create accessible code - either automatically or with input from the author.</td>
-      <td>Example authoring tool used to create web content</td>
+      <td>Les bons outils de production de contenu, (wikis, gestionnaires de contenu, éditeurs de code), aident à créer du code accessible, automatiquement ou en faisant intervenir l’auteur.</td>
+      <td>Exemple de manipulation d’un outil de création de contenu web</td>
     </tr>
     <tr>
-      <td>Also web browsers, media players, and apps need to support accessibility features.</td>
-      <td>Example web browser used to show web content</td>
+      <td>De même les navigateurs, les lecteurs multimédia et les applications doivent prendre en charge l’accessibilité.</td>
+      <td>Exemple de navigateur web utilisé pour afficher du contenu web</td>
     </tr>
     <tr>
-      <td>W3C provides standards to help make the Web accessible, which are internationally recognized by governments and businesses.</td>
-      <td>[Shadi speaking]</td>
+      <td>Le W3C fournit des standards pour aider à rendre le Web accessible, qui sont reconnus internationalement par les gouvernements et les entreprises.</td>
+      <td>[Shadi parle]</td>
     </tr>
     <tr>
-      <td>Most well-known is the Web Content Accessibility Guidelines - WCAG. WCAG is also ISO 40500, and adopted in the European standard called EN 301 549. It is built around four core principles:</td>
-      <td>Web Content Accessibility Guidelines - WCAG; ISO 40500; EN 301 549</td>
+      <td>Les plus connus sont les Recommandations de Contenus Web Accessibles (WCAG). Les WCAG sont aussi le standard ISO 40500, et elles ont été adoptées dans le standard européen nommé EN 301 549. Elles s’articulent autour de quatre grands principes&#8239;:</td>
+      <td><i lang="en">Web Content Accessibility Guidelines</i> - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
-      <td>First, Perceivable - for example, so people can see the content, or hear it.</td>
-      <td>Someone typing on their tablet computer and listening to it with headphones</td>
+      <td>Un&#8239;: Perceptible. Par exemple, on doit pouvoir voir le contenu ou l’entendre.</td>
+      <td>Une personne tape sur sa tablette et écoute dans un casque audio</td>
     </tr>
     <tr>
-      <td>Operable - for example, so people can use the computer by typing, or by voice.</td>
-      <td>Someone speaking to their computer</td>
+      <td>Opérable. On doit pouvoir utiliser l’ordinateur avec un clavier comme avec la voix, par exemple.</td>
+      <td>Une personne parle à son ordinateur</td>
     </tr>
     <tr>
-      <td>Understandable - for example, so people get clear and simple language.</td>
-      <td>Two people looking confused at the computer screen with a dense website</td>
+      <td>Compréhensible. Par exemple le texte doit être facile à lire et à comprendre.</td>
+      <td>Deux personnes regardent avec un air perplexe un écran présentant un site web dense</td>
     </tr>
     <tr>
-      <td>And Robust - so people can use different assistive technologies.</td>
-      <td>Someone using screen magnification on a large computer screen</td>
+      <td>Et Robuste, afin qu’on puisse utiliser différentes technologies d’assistance.</td>
+      <td>Une personne utilise une loupe logicielle sur un grand écran d’ordinateur</td>
     </tr>
     <tr>
-      <td>Besides WCAG, W3C also provides the Authoring Tool Accessibility Guidelines - ATAG, which defines requirements for code management systems, code editors, and other software.</td>
-      <td>Authoring Tool Accessibility Guidelines - ATAG</td>
+      <td>En plus des WCAG, W3C fournit aussi les Recommandations d’Accessibilité des Outils de Production (ATAG), qui définissent des exigences pour les gestionnaires de contenu, les éditeurs de codes et d’autres logiciels.</td>
+      <td><i lang="en">Authoring Tool Accessibility Guidelines</i> - ATAG</td>
     </tr>
     <tr>
-      <td>And the User Agent Accessibility Guidelines - UAAG, defines requirements for web browsers and media players.</td>
-      <td>User Agent Accessibility Guidelines - UAAG</td>
+      <td>Et les Recommandations d’Accessibilité des Agents Utilisateurs (UAAG), définissent des exigences pour les navigateurs et les lecteurs multimédia.</td>
+      <td><i lang="en">User Agent Accessibility Guidelines</i> - UAAG</td>
     </tr>
     <tr>
-      <td>There are over one billion people with disabilities, or about 15-20% of the population. The UN Convention on the Rights of Persons with Disabilities defines that access to information, including the Web, as a human right. Most countries around the world have ratified this UN convention, and several have adopted binding policies too. Yet regardless of any laws and regulations, implementing the accessibility standards is essential for people with disabilities, and useful for all.</td>
-      <td>[Shadi speaking]</td>
+      <td>Plus d’un milliard de personnes ont un handicap, soit 15 à 20 % de la population. La convention des Nations Unies sur les Droits des Personnes Handicapées stipule que l’accès à l’information, y compris au Web, est un droit humain. La plupart des pays du monde a ratifié cette convention de l’ONU et plusieurs d’entre eux ont légiféré sur le sujet. Mais même sans lois ni règlements, intégrer les standards de l’accessibilité est une nécessité pour les personnes handicapées, et est utile à tous.</td>
+      <td>[Shadi parle]</td>
     </tr>
     <tr>
-      <td>For more information on web accessibility, visit w3.org/WAI</td>
-      <td>W3C Web Accessibility Initiative<br>
+      <td>Pour plus d’informations sur l’accessibilité web, visitez [w3.org/WAI](https://w3.org/WAI)</td>
+      <td>W3C <i lang="en">Web Accessibility Initiative</i><br>
 w3.org/WAI</td>
     </tr>
   </tbody>
 </table>
 
-## Translations {#translations}
+## Traductions {#translations}
 
-To get translations in the captions area in the bottom of the video:
+Pour afficher les sous-titres traduits dans le bas de la vidéo&#8239;:
 
-1. Select <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Captions".
+1. Choisissez <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> <i lang="en">“Captions”</i>.
 
-2. Select the language.
+2. Choisissez la langue.
 
-To get translations in a separate transcript area:
+Pour afficher une autre langue dans une zone de transcription distincte&#8239;:
 
-1. Select "Show transcript".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. Choisissez <i lang="en">“Show transcript”</i>.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Use the Language drop-down to select subtitles.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Utilisez la liste déroulante “Language” pour sélectionner la transcription.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
-### Translate into Other Languages
+### Traduire dans d’autres langues
 
-We welcome additional translations of the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}). Please send translated VTT files to <wai@w3.org>.
+Les traductions additionnelles du fichier [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}) sont les bienvenues. Merci d’envoyer vos fichiers VTT traduits à <wai@w3.org>.
