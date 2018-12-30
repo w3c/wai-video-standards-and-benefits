@@ -4,7 +4,7 @@ https://www.w3.org/WAI/videos/standards-and-benefits.html
 preview: @@
 
 ## Translation Notes
-* If the [player is available in the translated language](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages), then translate the words from the video player interface. Help us remember to change the player language. :-)
+* If the [player is available in the translated language](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages), then translate the words from the video player interface. The player will automatically switch to the language once we have it implemented.
 * If the [player is **not** available in the translated language](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages), under the "Translations" heading:
    * Do not translate the following words from the video player interface; leave them in English:
      * “Captions”
