@@ -58,7 +58,7 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <i lang="e
 <table>
   <thead>
     <tr>
-      <th>Audio</th>
+      <th width="65%">Audio</th>
       <th>Visuel</th>
     </tr>
   </thead>
