@@ -57,7 +57,7 @@ If you want examples of videos with audio description, see [Web Accessibility Pe
 <table>
   <thead>
     <tr>
-      <th>Audio</th>
+      <th width="70%">Audio</th>
       <th>Visual</th>
     </tr>
   </thead>
