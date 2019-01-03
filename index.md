@@ -1,21 +1,21 @@
 ---
-# translation notes are after the "#" character in this first section
-title: "Video Introduction to Web Accessibility and W3C Standards" # translate this
-last_updated: 2020-11-11 # update date of this translation
-translator: "@@" # replace @@ with name or names separated with a comma
-contributors: "@@" # replace @@ with name(s) or delete this line
-permalink: /videos/standards-and-benefits/ # Add the language shortcode; for example: /videos/standards-and-benefits/fr
-ref: /videos/standards-and-benefits/ # do NOT change this
-lang: en # Translated language shortcode
+# Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
+title: "Video Introduction to Web Accessibility and W3C Standards"   # Do not translate "title:". Do translate the text after "title:".
+lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2020-11-11   # Put the date of this translation
+translator: "@@"   # Replace @@ with name or names separated with a comma
+contributors: "@@"   # Replace @@ with name(s) or delete this line
+permalink: /videos/standards-and-benefits/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
 github:
-  repository: w3c/wai-video-standards-and-benefits
-  path: 'index.md' # Add the language shortcode after index; for example, index.fr.md
-feedbackmail: wai@w3.org
-footer: > # translate the words below; do NOT change the dates.
-  <p><strong>Date:</strong> Updated 20 December 2018. First published 4 December 2017. </p>
-  <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
-# end of translation notes
+   repository: w3c/wai-video-standards-and-benefits
+   path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
+   <p><strong>Date:</strong> Updated 20 December 2018. First published 4 December 2017. </p>
+   <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
+# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
+# end of translation instructions
 ---
 
 {% include video-player.html 
