@@ -10,4 +10,4 @@ preview: https://w3c.github.io/wai-video-standards-and-benefits/videos/standards
      * "Captions"
      * "Show transcript"
      * "Language" _in this sentence: Use the Language drop-down to select subtitles._
-   * Mark up the English words with the language attribute: "`<span lang="en">Captions</span>`".
+   * Mark up the English words with the language attribute: "`<span lang="en">Captions</span>`". 
