@@ -50,7 +50,7 @@ footer: > # translate the words below; do NOT change the dates.
 
 本视频不包含音频描述，因为视频只支持音频，不提供额外的信息。在这种情况下，对大多数人来说，包括那些看不到图像的人来说，音频描述与其说是有用，不如说是会让人分心。下面的文字说明包含了对辅助视觉效果的描述。
 
-如果您想要带有音频描述的视频示例，请参见[网页无障碍愿景 - 音频描述 (YouTube播放列表)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), 或者您可以从 [网页无障碍愿景网页中](https://www.w3.org/WAI/perspectives/)中选择一个视频，然后选择“音频描述可见”。
+如果您想要带有音频描述的视频示例，请参见[网页无障碍愿景 - 音频描述 (YouTube播放列表)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), 或者您可以从 [网页无障碍愿景网页](https://www.w3.org/WAI/perspectives/)中选择一个视频，然后选择“音频描述可见”。
 
 ## 带有视觉描述的文本记录 {#transcript}
 
