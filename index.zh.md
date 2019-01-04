@@ -1,20 +1,20 @@
 ---
 # translation notes are after the "#" character in this first section
-title: "Video Introduction to Web Accessibility and W3C Standards" # translate this
-last_updated: 2020-11-11 # update date of this translation
-translator: "@@" # replace @@ with name or names separated with a comma
-contributors: "@@" # replace @@ with name(s) or delete this line
-permalink: /videos/standards-and-benefits/ # Add the language shortcode; for example: /videos/standards-and-benefits/fr
+title: "网页无障碍和W3C标准的介绍视频" # translate this
+last_updated: 2019-01-04 # update date of this translation
+translator: "Ruoxi Ran" # replace @@ with name or names separated with a comma
+
+permalink: /videos/standards-and-benefits/zh # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
 lang: en # Translated language shortcode
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.md' # Add the language shortcode after index; for example, index.fr.md
+  path: 'index.zh.md' # Add the language shortcode after index; for example, index.fr.md
 feedbackmail: wai@w3.org
 footer: > # translate the words below; do NOT change the dates.
-  <p><strong>Date:</strong> Updated 20 December 2018. First published 4 December 2017. </p>
-  <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
+  <p><strong>日期:</strong> 2018年12月20日更新。首次出发布于2017年12月4日。 </p>
+  <p>项目主管： <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. 参与者： <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. 摄像师和视频编辑： Ulrich Grimm, av-design GmbH.</p>
 # end of translation notes
 ---
 
@@ -26,181 +26,181 @@ footer: > # translate the words below; do NOT change the dates.
 
 
 
-This video information is available:
-* **In different languages as subtitles**. [Instructions to see translations](#translations) are below.
-* On YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
+该视频资料可供参考：
+* **以不同的语言作为字幕**. [查看翻译说明](#translations) 在该网页下方.
+* 在YouTube中： [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
 {% comment %}
-* On the W3C website: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
+* 在W3C网站中: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
 {% endcomment %}
-* As a **[Text Transcript with Description of Visuals](#transcript)** below.
+* 作为 **[带有视觉描述的文本记录](#transcript)** 在该网页下方。
 
-## Learn More {#moreinfo}
+## 了解更多 {#moreinfo}
 
-For more information, see:
+有关详情，请参阅：
 
--   [**Introduction to Web Accessibility**](https://www.w3.org/WAI/intro/accessibility)
--   [**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone](https://www.w3.org/WAI/perspectives/) — videos and information on specific accessibility topics.
--   [**WAI website**](https://www.w3.org/WAI/) — to find a wide range of resources on different aspects of web accessibility [standards]( https://www.w3.org/WAI/standards-guidelines/), [education]( https://www.w3.org/WAI/teach-advocate/), [testing/evaluation]( https://www.w3.org/WAI/test-evaluate/), [project management, and policy]( https://www.w3.org/WAI/planning/).
+-   [**网页无障碍介绍**](https://www.w3.org/WAI/intro/accessibility)
+-   [**网页无障碍愿景视频**: 探索对每个人的影响和好处](https://www.w3.org/WAI/perspectives/) — 关于特定无障碍主题的视频和信息.
+-   [**WAI网站**](https://www.w3.org/WAI/) — 从不同方面寻求有关网页无障碍的[标准]( https://www.w3.org/WAI/standards-guidelines/), [教育]( https://www.w3.org/WAI/teach-advocate/), [测试/评价]( https://www.w3.org/WAI/test-evaluate/), [项目管理, 和政策]( https://www.w3.org/WAI/planning/)的资源.
 
-## Permission to Use Video {#permission}
+## 使用视频的权限 {#permission}
 
-You may use this video if you include a link to this page. More information is available in [Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/using-wai-material/).
+如果你包含这个页面的链接，那么你就可以使用该视频。 更多信息可在 [使用WAI相关资料:注明出处即可使用](https://www.w3.org/WAI/about/using-wai-material/)中找到。
 
-## Audio Description {#ad}
+## 音频描述 {#ad}
 
-This video does not include audio description because the visuals only support the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. The Transcript with Description below includes descriptions of the supporting visuals.
+本视频不包含音频描述，因为视频只支持音频，不提供额外的信息。在这种情况下，对大多数人来说，包括那些看不到图像的人来说，音频描述与其说是有用，不如说是会让人分心。下面的文字说明包含了对辅助视觉效果的描述。
 
-If you want examples of videos with audio description, see [Web Accessibility Perspectives - Audio Described (YouTube playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), or you can select one of the videos on the [Web Accessibility Perspectives web page](https://www.w3.org/WAI/perspectives/) and select "Enable Audio Description".
+如果您想要带有音频描述的视频示例，请参见[网页无障碍愿景 - 音频描述 (YouTube播放列表)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), 或者您可以从 [网页无障碍愿景网页中](https://www.w3.org/WAI/perspectives/)中选择一个视频，然后选择“音频描述可见”。
 
-## Text Transcript with Description of Visuals {#transcript}
+## 带有视觉描述的文本记录 {#transcript}
 
 <table>
   <thead>
     <tr>
-      <th width="65%">Audio</th>
-      <th>Visual</th>
+      <th width="65%">音频描述</th>
+      <th>视觉描述</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Hi! My name is Shadi Abou-Zahra. I'm the Accessibility Strategy and Technology Specialist at W3C, the World Wide Web Consortium, and today I'd like to tell you about web accessibility.</td>
-      <td>Web Accessibility<br>
-        [Shadi speaking]</td>
+      <td>大家好，我是Shadi Abou-Zahra。 是来自W3C的无障碍策略及技术专家，W3C是万维网联盟的缩写，今天我想和大家分享什么是网页无障碍。</td>
+      <td>网页无障碍<br>
+        [Shadi正在讲话]</td>
     </tr>
     <tr>
-      <td>The Web is for many people an essential part of daily life.</td>
-      <td>People in an Internet cafe</td>
+      <td>网页在我们日常生活中是非常重要的一部分。</td>
+      <td>人们在网吧里</td>
     </tr>
     <tr>
-      <td>At work.</td>
-      <td>Someone in an office using a computer</td>
+      <td>在工作中。</td>
+      <td>有人在办公室里用电脑</td>
     </tr>
     <tr>
-      <td>At home.</td>
-      <td>Someone sitting in a sofa using a laptop</td>
+      <td>在家里。</td>
+      <td>有人坐在沙发上用笔记本电脑</td>
     </tr>
     <tr>
-      <td>And on the road.</td>
-      <td>Someone using a mobile phone while walking</td>
+      <td>在路上。</td>
+      <td>有人在行走时使用手机</td>
     </tr>
     <tr>
-      <td>Web accessibility means that people with disabilities can use the Web equally.</td>
-      <td>[Shadi speaking]</td>
+      <td>网页无障碍可以让残障人士也能和大多数人一样，平等地使用网页。</td>
+      <td>[Shadi正在讲话]</td>
     </tr>
     <tr>
-      <td>For example, somebody who cannot use their arms, and uses a mouthstick to type.</td>
-      <td>Someone using a mouthstick to type</td>
+      <td>比如，一些不方便使用手臂的人，可以使用“嘴棒”去打字。</td>
+      <td>有人使用“嘴棒”打字</td>
     </tr>
     <tr>
-      <td>Or someone who cannot hear well, and uses captions to watch videos.</td>
-      <td>Someone using a hearing aid</td>
+      <td>或者有听力障碍的人，可以通过字幕去观看视频内容。</td>
+      <td>有人在使用助听器</td>
     </tr>
     <tr>
-      <td>Or someone who cannot see well, and uses a screen reader to read aloud what's on the screen.</td>
-      <td>Someone using a screen reader</td>
+      <td>或者一些视力不好的人，可以使用读屏器读取屏幕中的内容。</td>
+      <td>有人在使用读屏器</td>
     </tr>
     <tr>
-      <td>Accessibility has many benefits.</td>
-      <td>[Shadi speaking]</td>
+      <td>无障碍有很多好处。</td>
+      <td>[Shadi正在讲话]</td>
     </tr>
     <tr>
-      <td>For example, captions benefit anyone in a loud or in a quite environment.</td>
-      <td>Someone watching a video with captions in an office</td>
+      <td>比如，字幕可以为身处嘈杂或者安静环境中的人提供阅读便利。</td>
+      <td>有人在办公室中观看带有字幕的视频</td>
     </tr>
     <tr>
-      <td>And good color contrast works better when there is glare.</td>
-      <td>Someone looking at a mobile phone with glare on the screen</td>
+      <td>合理的颜色对比度对在刺眼屏幕上的阅读起到了很好的缓解。</td>
+      <td>有人盯着手机屏幕在看/td>
     </tr>
     <tr>
-      <td>Also people with age-related impairments, such as reduced dexterity, benefit.</td>
-      <td>Someone with tremors using a mouse with difficulty</td>
+      <td>同样也适用于与年龄相关的障碍，比如，机敏度下降人群。</td>
+      <td>有颤抖病的人用鼠标有困难</td>
     </tr>
     <tr>
-      <td>In fact, everyone has a better user experience with an improved layout and design.</td>
-      <td>Two people smiling happily at a well-designed website</td>
+      <td>事实上，每个人都可以从改良的网页布局和设计中获得更好的用户体验。</td>
+      <td>两个人看着一个精心设计的网站开心地笑着</td>
     </tr>
     <tr>
-      <td>A lot of accessibility can be built into the underlying code of websites and applications.</td>
-      <td>[Shadi speaking]</td>
+      <td>许多无障碍可以建立在网站和应用程序的底层代码中。</td>
+      <td>[Shadi正在讲话]</td>
     </tr>
     <tr>
-      <td>Web technologies from W3C, such as HTML, provide many accessibility features.</td>
-      <td>HTML code of a web page</td>
+      <td>来自W3C的网页技术，如HTML，可以支持很多无障碍特性。</td>
+      <td>一个网页的HTML代码</td>
     </tr>
     <tr>
-      <td>For example, to provide textual descriptions for images, which are read aloud by screen readers and also used by search engines.</td>
-      <td>Example code</td>
+      <td>比如，为图片提供文本替代，这样可以让读屏器读出来也可以在搜索引擎中得到应用。</td>
+      <td>代码的例子</td>
     </tr>
     <tr>
-      <td>Also headings, labels, and other code supports accessibility and improves the quality overall.</td>
-      <td>Example code</td>
+      <td>标题，标签，以及一些其他代码也都可以支持无障碍。从而提升网页的质量。</td>
+      <td>代码的例子</td>
     </tr>
     <tr>
-      <td>Good authoring tools, such as wikis, content management systems, and code editors, help create accessible code - either automatically or with input from the author.</td>
-      <td>Example authoring tool used to create web content</td>
+      <td>好的网页创作工具，例如网页百科，内容管理系统，代码编辑器，可以帮助建立无障碍的代码，无论是自动生成的代码还是由创作者输入的代码。</td>
+      <td>用于创建网页内容的示例创作工具</td>
     </tr>
     <tr>
-      <td>Also web browsers, media players, and apps need to support accessibility features.</td>
-      <td>Example web browser used to show web content</td>
+      <td>同样，网页浏览器，媒体播放器，应用程序也需要支持无障碍特性。</td>
+      <td>示例网页浏览器，用于显示网页内容</td>
     </tr>
     <tr>
-      <td>W3C provides standards to help make the Web accessible, which are internationally recognized by governments and businesses.</td>
-      <td>[Shadi speaking]</td>
+      <td>W3C提供的标准，让网页无障碍在世界范围内，得到了各国政府和企业的认可。</td>
+      <td>[Shadi正在讲话]</td>
     </tr>
     <tr>
-      <td>Most well-known is the Web Content Accessibility Guidelines - WCAG. WCAG is also ISO 40500, and adopted in the European standard called EN 301 549. It is built around four core principles:</td>
-      <td>Web Content Accessibility Guidelines - WCAG; ISO 40500; EN 301 549</td>
+      <td>最广为人知的标准是网页内容无障碍指南-WCAG。WCAG是ISO 40500标准，也被欧洲标准所采纳，称之为EN 301 549。它由四个核心原则构成：</td>
+      <td>网页内容无障碍指南 - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
-      <td>First, Perceivable - for example, so people can see the content, or hear it.</td>
-      <td>Someone typing on their tablet computer and listening to it with headphones</td>
+      <td>可感知性 - 例如，人们可以看到或者听到网页内容。</td>
+      <td>有人在平板电脑上打字，戴着耳机听</td>
     </tr>
     <tr>
-      <td>Operable - for example, so people can use the computer by typing, or by voice.</td>
-      <td>Someone speaking to their computer</td>
+      <td>可操作性 - 例如，人们可以通过打字或者声音控制来使用电脑。</td>
+      <td>有人对着电脑说话</td>
     </tr>
     <tr>
-      <td>Understandable - for example, so people get clear and simple language.</td>
-      <td>Two people looking confused at the computer screen with a dense website</td>
+      <td>可理解性 - 例如，人们可以获取到清楚简单的语言。</td>
+      <td>两个人困惑地看着电脑屏幕和一个密集的网站</td>
     </tr>
     <tr>
-      <td>And Robust - so people can use different assistive technologies.</td>
-      <td>Someone using screen magnification on a large computer screen</td>
+      <td>鲁棒性 - 人们可以使用不同的辅助技术浏览网页。</td>
+      <td>有人用屏幕放大器看屏幕</td>
     </tr>
     <tr>
-      <td>Besides WCAG, W3C also provides the Authoring Tool Accessibility Guidelines - ATAG, which defines requirements for code management systems, code editors, and other software.</td>
-      <td>Authoring Tool Accessibility Guidelines - ATAG</td>
+      <td>除了WCAG，W3C也提供了无障碍创作工具指南-ATAG，该指南定义了内容管理系统，代码编辑器和其他软件的开发需求。</td>
+      <td>无障碍创作工具指南 - ATAG</td>
     </tr>
     <tr>
-      <td>And the User Agent Accessibility Guidelines - UAAG, defines requirements for web browsers and media players.</td>
-      <td>User Agent Accessibility Guidelines - UAAG</td>
+      <td>用户代理无障碍指南 - UAAG，定义了对浏览器和媒体播放器的需求。</td>
+      <td>用户代理无障碍指南 - UAAG</td>
     </tr>
     <tr>
-      <td>There are over one billion people with disabilities, or about 15-20% of the population. The UN Convention on the Rights of Persons with Disabilities defines that access to information, including the Web, as a human right. Most countries around the world have ratified this UN convention, and several have adopted binding policies too. Yet regardless of any laws and regulations, implementing the accessibility standards is essential for people with disabilities, and useful for all.</td>
-      <td>[Shadi speaking]</td>
+      <td>目前全球有超过10亿的残障人士，约占总人口数量的15-20%。《联合国残疾人权利公约》规定获得信息是一项人权，其中包括了网页信息。世界上大多数国家批准了这项联合国公约，也有一些国家将其定为一项具有约束力的政策。除了法律以及政策约束，实施无障碍标准对于残障人士来说是必不可少的，对所有人而言都是意义重大的。</td>
+      <td>[Shadi正在讲话]</td>
     </tr>
     <tr>
-      <td>For more information on web accessibility, visit w3.org/WAI</td>
-      <td>W3C Web Accessibility Initiative<br>
+      <td>有关网页无障碍的更多信息，请访问w3.org/WAI</td>
+      <td>W3C网页无障碍工作组<br>
 w3.org/WAI</td>
     </tr>
   </tbody>
 </table>
 
-## Translations {#translations}
+## 翻译 {#translations}
 
-To get translations in the captions area in the bottom of the video:
+要获得视频底部字幕区域的翻译:
 
-1. Select <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Captions".
+1. 选择 <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "字幕".
 
-2. Select the language.
+2. 选择语言.
 
-To get translations in a separate transcript area:
+要在单独的文本区域获得翻译:
 
-1. Select "Show transcript".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. 选择 "显示文本".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Use the Language drop-down to select subtitles.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. 使用语言下拉菜单选择字幕。<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
 ### Translate into Other Languages
 
-We welcome additional translations of the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}). Please send translated VTT files to <wai@w3.org>.
+我们欢迎更多的[VTT 文档]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})翻译. 请将翻译后的VTT文件发送至 <wai@w3.org>.
