@@ -44,7 +44,7 @@ Para más información:
 
 Puede usar este video si incluye un enlace a esta página. Hay más información disponible en [Uso del material de WAI: permiso para usar con reconocimiento](https://www.w3.org/WAI/about/using-wai-material/).
 
-## Descripción de audio {#ad}
+## Descripción de audio {#audio-description}
 
 Este video no incluye una descripción del audio porque las imágenes son de apoyo al audio y no proporcionan información adicional. En este caso, la descripción de audio distraería y no sería útil para la mayoría de las personas, incluidas las personas que no pueden ver las imágenes. La Transcripción con Descripción, mostrada a continuación, incluye descripciones de las imágenes de apoyo.
 

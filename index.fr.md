@@ -47,7 +47,7 @@ Pour plus d’information, voir&#8239;:
 
 Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur [Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/using-wai-material/){: lang="en"}{: hreflang="en"} (en anglais).
 
-## Audio-description {#ad}
+## Audio-description {#audio-description}
 
 Cette vidéo ne comprend pas d’audio-description parce que les visuels ne servent qu’à soutenir le discours et ne fournissent pas d’informations complémentaires. Dans ce cas, une audio-description serait plus gênante qu’utile pour la plupart des visiteurs, y compris les personnes ne pouvant pas voir les images. La transcription avec description ci-dessous fournit des descriptions des visuels utilisés en support.
 

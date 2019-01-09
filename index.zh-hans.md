@@ -46,7 +46,7 @@ footer: > # translate the words below; do NOT change the dates.
 
 如果你包含这个页面的链接，那么你就可以使用该视频。 更多信息可在 [使用WAI相关资料:注明出处即可使用](https://www.w3.org/WAI/about/using-wai-material/)中找到。
 
-## 音频描述 {#ad}
+## 音频描述 {#audio-description}
 
 本视频不包含音频描述，因为视频只支持音频，不提供额外的信息。在这种情况下，对大多数人来说，包括那些看不到图像的人来说，音频描述与其说是有用，不如说是会让人分心。下面的文字说明包含了对辅助视觉效果的描述。
 
