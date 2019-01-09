@@ -4,9 +4,9 @@ title: "网页无障碍和W3C标准的介绍视频" # translate this
 last_updated: 2019-01-04 # update date of this translation
 translator: "Ruoxi Ran" # replace @@ with name or names separated with a comma
 
-permalink: /videos/standards-and-benefits/zh # Add the language shortcode; for example: /videos/standards-and-benefits/fr
+permalink: /videos/standards-and-benefits/zh-hans # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
-lang: zh # Translated language shortcode
+lang: zh-hans # Translated language shortcode
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
