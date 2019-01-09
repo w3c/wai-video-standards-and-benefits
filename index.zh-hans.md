@@ -64,8 +64,7 @@ footer: > # translate the words below; do NOT change the dates.
   <tbody>
     <tr>
       <td>大家好，我是Shadi Abou-Zahra。 是来自W3C的无障碍策略及技术专家，W3C是万维网联盟的缩写，今天我想和大家分享什么是网页无障碍。</td>
-      <td>网页无障碍<br>
-        [Shadi正在讲话]</td>
+      <td>网页无障碍<br>[Shadi正在讲话]</td>
     </tr>
     <tr>
       <td>网页在我们日常生活中是非常重要的一部分。</td>
@@ -109,7 +108,7 @@ footer: > # translate the words below; do NOT change the dates.
     </tr>
     <tr>
       <td>合理的颜色对比度对在刺眼屏幕上的阅读起到了很好的缓解。</td>
-      <td>有人盯着手机屏幕在看/td>
+      <td>有人盯着手机屏幕在看</td>
     </tr>
     <tr>
       <td>同样也适用于与年龄相关的障碍，比如，机敏度下降人群。</td>
