@@ -5,7 +5,7 @@ preview: https://w3c.github.io/wai-video-standards-and-benefits/videos/standards
 
 ## Translation Notes
 
-This resource is ready for translation.
+This resource is ready for translation. <br>**_(In January 2019 we are finalizing a new process for translations. Until it is complete, please coordinate all translations with shawn@w3.org Thanks.)_**
 
 * If the [player is available in the translated language](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages), then translate the words from the video player interface. The player will automatically switch to the language once we have it implemented.
 * If the [player is **not** available in the translated language](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages), under the "Translations" heading:
