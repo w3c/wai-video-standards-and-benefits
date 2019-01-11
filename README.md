@@ -11,7 +11,7 @@ preview: https://w3c.github.io/wai-video-standards-and-benefits/videos/standards
 
 * If the _**is**_ available in the translated language, the player will automatically switch to the language (once we have it implemented). Therefore, you should translate the words from the video player interface. Please also:
    * Make a new image to replace https://www.w3.org/WAI/content-images/wai-video-standards-and-benefits/show-language.png
-   * Name it show-language-[language code].png for example: _**show-language.fr.png**_
+   * Name it show-language.[language code].png for example: _**show-language.fr.png**_
    * Upload it to the [content-images folder](https://github.com/w3c/wai-video-standards-and-benefits/tree/master/content-images/wai-video-standards-and-benefits)
       * Select "Upload files"
       * Drag or choose the file
