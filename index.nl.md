@@ -187,13 +187,13 @@ w3.org/WAI</td>
 
 Om vertalingen weer te geven in de ruimte voor ondertitels onderaan de video:
 
-1. Kies <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Captions".
+1. Kies <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "ondertiteling".
 
 2. Kies de taal.
 
 Om de vertalingen weer te geven in een apart veld voor transcripties:
 
-1. Kies "Show transcript".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. Kies "Toon transcript".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
 2. Gebruik het Taal-menu om de ondertiteling te kiezen.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
