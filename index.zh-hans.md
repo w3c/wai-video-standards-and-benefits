@@ -3,14 +3,13 @@
 title: "网页无障碍和W3C标准的介绍视频" # translate this
 last_updated: 2019-01-04 # update date of this translation
 translator: "Ruoxi Ran" # replace @@ with name or names separated with a comma
-
 permalink: /videos/standards-and-benefits/zh-hans # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
 lang: zh-hans # Translated language shortcode
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.zh.md' # Add the language shortcode after index; for example, index.fr.md
+  path: 'index.zh-hans.md' # Add the language shortcode after index; for example, index.fr.md
 feedbackmail: wai@w3.org
 footer: > # translate the words below; do NOT change the dates.
   <p><strong>日期:</strong> 2018年12月20日更新。首次出发布于2017年12月4日。 </p>

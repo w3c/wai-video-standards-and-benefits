@@ -2,9 +2,9 @@
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: "Video Introduction to Web Accessibility and W3C Standards"   # Do not translate "title:". Do translate the text after "title:".
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2020-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translator: "@@"   # Replace @@ with name or names separated with a comma
-contributors: "@@"   # Replace @@ with name(s) or delete this line
+last_updated: 2018-11-11   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+# translator: "@@"   # Replace @@ with name or names separated with a comma
+# contributors: "@@"   # Replace @@ with name(s) or delete this line
 permalink: /videos/standards-and-benefits/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
