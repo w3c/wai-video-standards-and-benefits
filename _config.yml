@@ -22,6 +22,8 @@ exclude:
   - "README.md"
   - "w3c.json"
 
+published: true
+
 # Build settings
 markdown: kramdown
 kramwdown:
