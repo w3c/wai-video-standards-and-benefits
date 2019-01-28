@@ -46,7 +46,7 @@ Sie können dieses Video verwenden, wenn Sie einen Link zu dieser Seite hinzufü
 
 Dieses Video enthält keine Audiodeskription, da das Bildmaterial lediglich das Audio unterstützt und keine zusätzlichen Informationen liefert. In diesem Fall wäre die Audiodeskription für die meisten Menschen, einschließlich jener, die die Bilder nicht sehen können, mehr ablenkend als nützlich. Das untenstehende Transkript enthält Beschreibungen des unterstützenden Bildmaterials.
 
-Beispiele für Videos mit Audiodeskription finden Sie unter [Web-Accessibility-Perspektiven – Audiodeskription (YouTube-Playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Alternativ können Sie eins der Videos auf der Seite [Web-Accessibility-Perspektiven](https://www.w3.org/WAI/perspectives/) ansehen und „Enable Audio Description“ auswählen.
+Beispiele für Videos mit Audiodeskription finden Sie unter [Web-Accessibility-Perspektiven – Audiodeskription (YouTube-Playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Alternativ können Sie eins der Videos auf der Seite [Web-Accessibility-Perspektiven](https://www.w3.org/WAI/perspectives/) ansehen und „{% include t.html t="Enable Audio Description" %}“ auswählen.
 
 ## Transkript mit Beschreibung des Bildmaterials {#transcript}
 
@@ -54,7 +54,7 @@ Beispiele für Videos mit Audiodeskription finden Sie unter [Web-Accessibility-P
   <thead>
     <tr>
       <th width="65%">Audio</th>
-      <th>Visual</th>
+      <th>Bild</th>
     </tr>
   </thead>
   <tbody>
