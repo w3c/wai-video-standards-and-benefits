@@ -25,7 +25,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 
 Dieses Video ist verfügbar:
-* **mit Untertiteln in verschiedenen Sprachen**. Eine [Anleitung zur Anzeige der Überstzungen](#translations) finden Sie unten.
+* **mit Untertiteln in verschiedenen Sprachen**. Eine [Anleitung zur Anzeige der Übersetzungen](#translations) finden Sie unten.
 * auf YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
 {% comment %}
 * auf der W3C-Website: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
