@@ -35,8 +35,8 @@ Dieses Video ist verfügbar:
 ## Weitere Informationen {#moreinfo}
 
 -   [**Einführung in die Web-Accessibility**](https://www.w3.org/WAI/intro/accessibility)
--   [**Web-Accessibility-Perspektiven (Videos)**: Über die Bedeutung und den Nutzen für alle](https://www.w3.org/WAI/perspectives/) — Videos and Informationen zu spezifischen Accessibility-Themen.
--   [**WAI-Website**](https://www.w3.org/WAI/) — Eine breite Palette von Ressourcen zu verschiedenen Aspekten der Web-Accessibility [Standards]( https://www.w3.org/WAI/standards-guidelines/), [Bildung]( https://www.w3.org/WAI/teach-advocate/), [Tests/Evaluierungen]( https://www.w3.org/WAI/test-evaluate/), [Projektmanagement und Regeln]( https://www.w3.org/WAI/planning/).
+-   [**Web-Accessibility-Perspektiven (Videos)**: Über die Bedeutung und den Nutzen für alle](https://www.w3.org/WAI/perspectives/):<br> Videos and Informationen zu spezifischen Accessibility-Themen.
+-   [**WAI-Website**](https://www.w3.org/WAI/) — Eine breite Palette von Ressourcen zu verschiedenen Aspekten der Web-Accessibility:<br> [Standards]( https://www.w3.org/WAI/standards-guidelines/), [Bildung]( https://www.w3.org/WAI/teach-advocate/), [Tests/Evaluierungen]( https://www.w3.org/WAI/test-evaluate/), [Projektmanagement und Regeln]( https://www.w3.org/WAI/planning/).
 
 ## Verwendung des Videos {#permission}
 
