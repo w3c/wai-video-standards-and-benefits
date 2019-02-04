@@ -17,11 +17,10 @@ footer: > # Text in footer in HTML
 
 {% include video-player.html 
            yt-id="20SHvU2PKsM" 
-           captions="/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt|en|Engelse ondertiteling"
-           subtitles="/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ar.vtt|ar|Arabische ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.de.vtt|de|Duitse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.es.vtt|es|Spaanse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.fr.vtt|fr|Franse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.gj.vtt|gj|Gujarati ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.hn.vtt|hn|Hindi ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.kn.vtt|kn|Kannada ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ko.vtt|ko|Koreaanse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ml.vtt|ml|Malayalam ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.mr.vtt|mr|Marathi ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.nl.vtt|nl|Nederlandse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.pt-br.vtt|pt-br|Portugese (Br) ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.tl.vtt|tl|Tagalog/Filipijnse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.zh.vtt|zh|Chinese ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ja.vtt|ja|Japanse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.it.vtt|it|Italiaanse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.hu.vtt|hu|Hongaarse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.el.vtt|el|Griekse ondertiteling"
+           path="/content-images/wai-video-standards-and-benefits/"
+           captions="W3C_INTRO_SFHI.vtt|en"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kn.vtt|kn,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|mls,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl|default,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.tl.vtt|tl,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el"
            %}
-
-
 
 Informatie over deze video is beschikbaar
 * **In verschillende talen als ondertiteling**. [Instructies om de vertalingen te zien](#translations) staan hieronder.
