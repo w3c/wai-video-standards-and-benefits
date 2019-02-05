@@ -12,7 +12,7 @@ github:
    repository: w3c/wai-video-standards-and-benefits
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-   <p><strong>Date:</strong> Updated 20 December 2018. First published 4 December 2017. </p>
+   <p><strong>Date:</strong> Updated 5 Fenruary 2019. First published 4 December 2017. </p>
    <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 # end of translation instructions
@@ -29,9 +29,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 This video information is available:
 * **In different languages as subtitles**. [Instructions to see translations](#translations) are below.
 * On YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
-{% comment %}
-* On the W3C website: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
-{% endcomment %}
+* On the W3C website: [http://media.w3.org/wai/accessibility-intro/intro.mp4](http://media.w3.org/wai/accessibility-intro/intro.mp4)
 * As a **[Text Transcript with Description of Visuals](#transcript)** below.
 
 ## Learn More {#moreinfo}
