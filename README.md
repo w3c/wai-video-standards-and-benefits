@@ -5,7 +5,7 @@ preview: https://w3c.github.io/wai-video-standards-and-benefits/videos/standards
 
 ## Translation Notes
 
-(In January 2019 we are finalizing a new process for translations. Until it is complete, please coordinate all translations with shawn@w3.org Thanks.)
+(In February 2019 we are finalizing a new process for translations. Until it is complete, please coordinate all translations with shawn@w3.org Thanks.)
 
 **Check if the [player is available in your translated language](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages).**
 
