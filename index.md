@@ -25,9 +25,9 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
            %}
 
 This video information is available:
-* **In different languages as subtitles** &mdash; [Instructions to see translations](#translations) are below
+* **In different languages as subtitles** — [Instructions to see translations](#translations) are below
 * On YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* On the W3C website &mdash; video: [http://media.w3.org/wai/accessibility-intro/intro.mp4](http://media.w3.org/wai/accessibility-intro/intro.mp4), list of subtitle files (VTT): [http://media.w3.org/wai/accessibility-intro/](http://media.w3.org/wai/accessibility-intro/)
+* On the W3C website — video: [http://media.w3.org/wai/accessibility-intro/intro.mp4](http://media.w3.org/wai/accessibility-intro/intro.mp4), list of subtitle files (VTT): [http://media.w3.org/wai/accessibility-intro/](http://media.w3.org/wai/accessibility-intro/)
 * As a **[Text Transcript with Description of Visuals](#transcript)** below
 
 ## Learn More {#moreinfo}
