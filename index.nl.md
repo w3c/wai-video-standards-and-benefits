@@ -1,5 +1,6 @@
 ---
 title: "Video-introductie over Web-toegankelijkheid en W3C-standaarden"
+nav_title: "Video-introductie" # A short title that is used in the navigation
 lang: nl
 last_updated: 2019-01-10
 translator: Bert Bos

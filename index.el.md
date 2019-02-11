@@ -1,6 +1,7 @@
 ---
 # translation notes are after the "#" character in this first section
 title: "Εισαγωγικό Βίντεο για την Προσβασιμότητα στον Παγκόσμιο Ιστό (Web Accessibility) και τα Πρότυπα του W3C" # translate this
+# nav_title: "" # A short title that is used in the navigation
 last_updated: 2019-01-10 # update date of this translation
 translator: "@pkoutsod" # replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/el # Add the language shortcode; for example: /videos/standards-and-benefits/fr
