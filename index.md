@@ -29,6 +29,9 @@ This video information is available:
 * **In different languages as subtitles** — [Instructions to see translations](#translations) are below
 * On YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
 * On the W3C website — video: [http://media.w3.org/wai/accessibility-intro/intro.mp4](http://media.w3.org/wai/accessibility-intro/intro.mp4), list of subtitle files (VTT): [http://media.w3.org/wai/accessibility-intro/](http://media.w3.org/wai/accessibility-intro/)
+{% comment %}
+# For translations, replace "list of subtitle files (VTT): [http://media.w3.org/wai/accessibility-intro/](http://media.w3.org/wai/accessibility-intro/)", with "[language] subtitle file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)"
+{% endcomment %}
 * As a **[Text Transcript with Description of Visuals](#transcript)** below
 
 ## Learn More {#moreinfo}
