@@ -29,7 +29,9 @@ This video information is available:
 * **In different languages as subtitles** — [Instructions to see translations](#translations) are below
 * On YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
 * On the W3C website — video: [http://media.w3.org/wai/accessibility-intro/intro.mp4](http://media.w3.org/wai/accessibility-intro/intro.mp4), English captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt), list of other language VTT files: [http://media.w3.org/wai/accessibility-intro/](http://media.w3.org/wai/accessibility-intro/)
-{% comment %}# For translations, replace "English captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with "[language] captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[land code].vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)"
+{% comment %}# For translations, replace:
+"English captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with:
+"[language] captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)"
 {% endcomment %}
 * As a **[Text Transcript with Description of Visuals](#transcript)** below
 
