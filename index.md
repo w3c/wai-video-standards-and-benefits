@@ -13,7 +13,7 @@ github:
    repository: w3c/wai-video-standards-and-benefits
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-   <p><strong>Date:</strong> Updated 6 February 2019. First published 4 December 2017. </p>
+   <p><strong>Date:</strong> Updated 20 February 2019. First published 4 December 2017. </p>
    <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
@@ -28,9 +28,8 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 This video information is available:
 * **In different languages as subtitles** — [Instructions to see translations](#translations) are below
 * On YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* On the W3C website — video: [http://media.w3.org/wai/accessibility-intro/intro.mp4](http://media.w3.org/wai/accessibility-intro/intro.mp4), list of subtitle files (VTT): [http://media.w3.org/wai/accessibility-intro/](http://media.w3.org/wai/accessibility-intro/)
-{% comment %}
-# For translations, replace "list of subtitle files (VTT): [http://media.w3.org/wai/accessibility-intro/](http://media.w3.org/wai/accessibility-intro/)", with "[language] subtitle file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)"
+* On the W3C website — video: [http://media.w3.org/wai/accessibility-intro/intro.mp4](http://media.w3.org/wai/accessibility-intro/intro.mp4), English captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt), list of other language VTT files: [http://media.w3.org/wai/accessibility-intro/](http://media.w3.org/wai/accessibility-intro/)
+{% comment %}# For translations, replace "English captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with "[language] captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[land code].vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)"
 {% endcomment %}
 * As a **[Text Transcript with Description of Visuals](#transcript)** below
 
