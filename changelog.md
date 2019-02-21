@@ -18,7 +18,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## 21 February 2019
 
-* Changed all 4 bullets after "This video information is available" to:
+* Changed all 4 bullets under the video, after "This video information is available" to:
 <blockquote>
 `* **In different languages** — [Instructions to see subtitles and transcripts](#translations) are below`<br>
 `* As a **[Text Transcript with Description of Visuals](#transcript)** below`<br>
