@@ -1,6 +1,6 @@
 ---
-title: "[DRAFT in-progress] Changelog for Video Introduction to Web Accessibility and W3C Standards"
-title_html: 'Changelog for <a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a>'
+title: "Changelog for Video Introduction to Web Accessibility and W3C Standards"
+title_html: '[DRAFT in-progress] Changelog for <a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a>'
 nav_title: "Changelog"
 lang: en
 last_updated: 2019-12-21
