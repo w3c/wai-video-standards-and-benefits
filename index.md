@@ -3,7 +3,7 @@
 title: "Video Introduction to Web Accessibility and W3C Standards"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video Introduction" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-02-20   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-02-21   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
 # contributors: "@@"   # Replace @@ with name(s) or delete this line
 permalink: /videos/standards-and-benefits/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
@@ -26,14 +26,14 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
            %}
 
 This video information is available:
-* **In different languages as subtitles** — [Instructions to see translations](#translations) are below
-* On YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* On the W3C website — video: [http://media.w3.org/wai/accessibility-intro/intro.mp4](http://media.w3.org/wai/accessibility-intro/intro.mp4), English captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt), list of other language VTT files: [http://media.w3.org/wai/accessibility-intro/](http://media.w3.org/wai/accessibility-intro/)
-{% comment %}# For translations, replace:
-"English captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with:
-"[language] captions/subtitles file (VTT): [http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)"
-{% endcomment %}
+* **In different languages** — [Instructions to see subtitles and transcripts](#translations) are below
 * As a **[Text Transcript with Description of Visuals](#transcript)** below
+* [On YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* On a W3C server — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt), [list of other language files](http://media.w3.org/wai/accessibility-intro/)
+{% comment %}# For translations, replace:
+"[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
+"[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
+{% endcomment %}
 
 ## Learn More {#moreinfo}
 
@@ -190,6 +190,10 @@ w3.org/WAI</td>
 
 ## Translations {#translations}
 
+Translations are available as subtitles and transcripts.
+{% comment %}# For translations: The sentence above will change when we publish the translations. In your translation, please replace the paragraph above with: "There are some translations of this entire web page. They are linked at the top of this page.<br>There are **more translations of just the video**. They are available as subtitles and transcripts."
+{% endcomment %}
+
 To get translations in the captions area in the bottom of the video:
 
 1. Select <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Captions".
@@ -204,4 +208,4 @@ To get translations in a separate transcript area:
 
 ### Translate into Other Languages
 
-We welcome additional translations of the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}). Please send translated VTT files to <wai@w3.org>.
+We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to to <wai@w3.org>. If you might want to translate this entire web page or others, please see [Translating WAI Resources](https://www.w3.org/WAI/about/translating/).
