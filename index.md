@@ -208,4 +208,4 @@ To get translations in a separate transcript area:
 
 ### Translate into Other Languages
 
-We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to to <wai@w3.org>. If you might want to translate this entire web page or others, please see [Translating WAI Resources](https://www.w3.org/WAI/about/translating/).
+We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see [Translating WAI Resources](https://www.w3.org/WAI/about/translating/).
