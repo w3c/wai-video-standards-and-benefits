@@ -20,9 +20,9 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 * Changed all 4 bullets after "This video information is available:".
 
-* Changed paragraph under [Translate into Other Languages heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translate-into-other-languages)
+* Changed paragraph under [Translate into Other Languages heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translate-into-other-languages).
 
-* Added sentence/paragraph under [Translations heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translations) <br>(Translators: Please see the comments for what to translate to be ready for publication.)
+* Added sentence/paragraph under [Translations heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translations). <br>(Translators: Please see the comments for what to translate to be ready for publication.)
 
 * Added to meta-data: `nav_title: "Video Introduction" # A short title that is used in the navigation`<br>(Translators: Please provide a transation of "Video Introduction", or confirm the one we put in there.)
 
