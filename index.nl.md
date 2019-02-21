@@ -11,8 +11,9 @@ github:
   repository: w3c/wai-video-standards-and-benefits
   path: 'index.nl.md'
 feedbackmail: wai@w3.org
+changelog: /videos/standards-and-benefits/changelog/
 footer: > # Text in footer in HTML
-  <p><strong>Datum:</strong> Bijgewerkt 29 december 2018. Eerste publicatie 4 december 2017.</p>
+  <p><strong>Datum:</strong> Bijgewerkt 29 december 2018. Eerste publicatie 4 december 2017. CHANGELOG.</p>
   <p>Project-leider: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Bijdragen: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Video-opnames en -bewerking: Ulrich Grimm, av-design GmbH.</p>
 ---
 

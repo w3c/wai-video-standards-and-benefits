@@ -12,8 +12,9 @@ layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
    path: 'index.de.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+changelog: /videos/standards-and-benefits/changelog/
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-   <p><strong>Datum:</strong> Aktualisiert am 20. Dezember 2018. Erstmals veröffentlicht am 4. Dezember 2017. </p>
+   <p><strong>Datum:</strong> Aktualisiert am 20. Dezember 2018. Erstmals veröffentlicht am 4. Dezember 2017. CHANGELOG.</p>
    <p>Projektleiter: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Mitwirkende: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videofilmer und -editor: Ulrich Grimm, av-design GmbH.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---

@@ -12,8 +12,9 @@ github:
   repository: w3c/wai-video-standards-and-benefits
   path: 'index.zh-hans.md' # Add the language shortcode after index; for example, index.fr.md
 feedbackmail: wai@w3.org
+changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
-  <p><strong>日期:</strong> 2018年12月20日更新。首次出发布于2017年12月4日。 </p>
+  <p><strong>日期:</strong> 2018年12月20日更新。首次出发布于2017年12月4日。 CHANGELOG。</p>
   <p>项目主管： <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. 参与者： <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. 摄像师和视频编辑： Ulrich Grimm, s.</p>
 # end of translation notes
 ---

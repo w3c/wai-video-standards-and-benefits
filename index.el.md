@@ -12,8 +12,9 @@ github:
   repository: w3c/wai-video-standards-and-benefits
   path: 'index.el.md' # Add the language shortcode after index; for example, index.fr.md
 feedbackmail: wai@w3.org
+changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
-  <p><strong>Ημερομηνία:</strong> Ενημερώθηκε 20 Δεκεμβρίου 2018. Πρώτη δημοσίευση 4 Δεκεμβρίου 2017. </p>
+  <p><strong>Ημερομηνία:</strong> Ενημερώθηκε 20 Δεκεμβρίου 2018. Πρώτη δημοσίευση 4 Δεκεμβρίου 2017. CHANGELOG.</p>
   <p>Επικεφαλής του έργου: <a href="https://www.w3.org/People/shadi/"><span lang="en">Shadi Abou-Zahra</span></a>. Συνεισφέροντες: <a href="https://www.w3.org/People/Shawn/"><span lang="en">Shawn Lawton Henry</span></a>, <a href="https://www.w3.org/People/Brewer/"><span lang="en">Judy Brewer</span></a>, <a href="https://www.w3.org/People/yatil/"><span lang="en">Eric Eggert</span></a>. Εικονοληψία και επεξεργασία βίντεο: <span lang="en">Ulrich Grimm, av-design GmbH</span>.</p>
 # end of translation notes
 ---

@@ -12,8 +12,9 @@ github:
   repository: w3c/wai-video-standards-and-benefits
   path: 'index.es.md'
 feedbackmail: wai@w3.org
+changelog: /videos/standards-and-benefits/changelog/
 footer: >
-  <p><strong>Fecha:</strong> Actualizado 20 December 2018. Publicado inicialmente el 4 de diciembre de 2017. </p>
+  <p><strong>Fecha:</strong> Actualizado 20 December 2018. Publicado inicialmente el 4 de diciembre de 2017. CHANGELOG.</p>
   <p>Director del proyecto: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Colaboradores: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Grabación y edición del vídeo: Ulrich Grimm, av-design GmbH.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 # end of translation instructions
