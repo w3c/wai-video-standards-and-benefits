@@ -20,7 +20,7 @@ _This changelog includes Markdown syntax to faciliate updating translations._
 
 ## 21 February 2019
 
-* Changed all 4 bullets under the video, after "This video information is available" to:
+* **Changed all 4 bullets under the video, after "This video information is available"** to:
 <blockquote>
 `* **In different languages** — [Instructions to see subtitles and transcripts](#translations) are below`<br>
 `* As a **[Text Transcript with Description of Visuals](#transcript)** below`<br>
@@ -32,18 +32,18 @@ _This changelog includes Markdown syntax to faciliate updating translations._
 {% endcomment %}`
    </blockquote>
 
-* Changed paragraph under [Translate into Other Languages heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translate-into-other-languages) to:
+* **Changed paragraph under [Translate into Other Languages heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translate-into-other-languages)** to:
 <blockquote>
 We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see [Translating WAI Resources](https://www.w3.org/WAI/about/translating/).
    </blockquote>
 
-* Added sentence/paragraph under [Translations heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translations):
+* **Added sentence/paragraph under [Translations heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translations)**:
 <blockquote>
 Translations are available as subtitles and transcripts.<br>
 `{% comment %}# For translations: The sentence above will change when we publish the translations. In your translation, please replace the paragraph above with: "There are some translations of this entire web page. They are linked at the top of this page.<br>There are **more translations of just the video**. They are available as subtitles and transcripts."<br>
 {% endcomment %}`
    </blockquote>
 
-* Added to meta-data: `nav_title: "Video Introduction" # A short title that is used in the navigation`<br>(Translators: Please provide a transation of "Video Introduction", or confirm the one we put in there.)
+* **Added to meta-data**: `nav_title: "Video Introduction" # A short title that is used in the navigation`<br>(Translators: Please provide a transation of "Video Introduction", or confirm the one we put in there.)
 
 * Added link to changelog in the page footer.<br>(Translators: You do not need to do anything for this; it is added automatically.)
