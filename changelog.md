@@ -38,8 +38,8 @@ We welcome additional translations. If you translate the [VTT file]({{ "/content
 * Added sentence/paragraph under [Translations heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translations):
 <blockquote>
 Translations are available as subtitles and transcripts.<br>
-{% comment %}# For translations: The sentence above will change when we publish the translations. In your translation, please replace the paragraph above with: "There are some translations of this entire web page. They are linked at the top of this page.<br>There are **more translations of just the video**. They are available as subtitles and transcripts."<br>
-{% endcomment %}
+`{% comment %}# For translations: The sentence above will change when we publish the translations. In your translation, please replace the paragraph above with: "There are some translations of this entire web page. They are linked at the top of this page.<br>There are **more translations of just the video**. They are available as subtitles and transcripts."<br>
+{% endcomment %}`
    </blockquote>
 
 * Added to meta-data: `nav_title: "Video Introduction" # A short title that is used in the navigation`<br>(Translators: Please provide a transation of "Video Introduction", or confirm the one we put in there.)
