@@ -1,6 +1,6 @@
 ---
 title: "Changelog for Video Introduction to Web Accessibility and W3C Standards"
-title_html: '[DRAFT in-progress] Changelog for <a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a>'
+title_html: 'Changelog for <a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a>'
 nav_title: "Changelog"
 lang: en
 last_updated: 2019-12-21
@@ -14,6 +14,8 @@ changelog: /videos/standards-and-benefits/changelog/
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
    <p><strong>Date:</strong> Updated 21 February 2019. First published 4 December 2017. CHANGELOG.</p>
    <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
+doc-note-message: >
+  <p><strong>Note: Text color in this page will be fixed before it is published in early March 2019.</a></p>
 ---
 
 _This changelog includes Markdown syntax to faciliate updating translations._
