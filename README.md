@@ -9,7 +9,7 @@ preview: https://w3c.github.io/wai-video-standards-and-benefits/videos/standards
 
 * **If the _is_ available in the translated language**, the player will automatically switch to the language. Therefore, you should translate the words from the video player interface. Please also update the images per the instructions below. _If you are not able to update the images, let us know._
    * Make a new images to replace https://www.w3.org/WAI/content-images/wai-video-standards-and-benefits/show-language.png and https://www.w3.org/WAI/content-images/wai-video-standards-and-benefits/show-transcript.png
-   * Name them show-language.[language code].png and show-transcript.[language code].png for example: _**show-language.fr.png**_ and show-transcript.fr.png
+   * Name them show-language.[language code].png and show-transcript.[language code].png for example: `show-language.fr.png` and `show-transcript.fr.png`
    * Upload them to the [content-images folder](https://github.com/w3c/wai-video-standards-and-benefits/tree/master/content-images/wai-video-standards-and-benefits)
       * Select "Upload files"
       * Drag or choose the files
