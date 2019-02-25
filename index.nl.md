@@ -25,12 +25,14 @@ footer: > # Text in footer in HTML
            %}
 
 Informatie over deze video is beschikbaar
-* **In verschillende talen als ondertiteling**. [Instructies om de vertalingen te zien](#translations) staan hieronder.
-* Op YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
-{% comment %}
-* Op de W3C-website: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
+* **In verschillende talen** — [Instructies om de vertalingen te zien](#translations) staan hieronder
+* Als een **[transcriptie met beschrijving van de beelden](#transcript)** hieronder
+* [Op YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* Op een W3C-website — [video (formaat: MP4, groottee: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Nederlandse ondertitels (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.nl.vtt), [lijst van anderes talen](http://media.w3.org/wai/accessibility-intro/)
+{% comment %}# For translations, replace:
+"[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
+"[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
 {% endcomment %}
-* Als een **[transcriptie met beschrijving van de beelden](#transcript)** hieronder.
 
 ## Meer informatie vinden {#moreinfo}
 
@@ -186,6 +188,8 @@ w3.org/WAI</td>
 
 ## Vertalingen {#translations}
 
+Er zijn vertalingen van deze complete Web-pagina. Ze zijn gelinkt bovenaan deze pagina.<br> Er zijn **meer vertalingen van alleen de video**. Ze zijn beschikbaar als ondertitels en transcripties.
+
 Om vertalingen weer te geven in de ruimte voor ondertitels onderaan de video:
 
 1. Kies <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "ondertiteling".
@@ -200,5 +204,5 @@ Om de vertalingen weer te geven in een apart veld voor transcripties:
 
 ### Vertalen in andere talen
 
-We verwelkomen nieuwe vertalingen van het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}). Zend vertaalde VTT-bestanden naar <wai@w3.org>.
+We verwelkomen nieuwe vertalingen. Als u het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}) vertaalt, zend het naar <public-wai-translations @w3.org>. Als u deze hele pagina of andere pagina's wilt vertalen, kijk dan op <a lang=en href="https://www.w3.org/WAI/about/translating/" >Translating WAI Resources</a>.
 
