@@ -28,7 +28,7 @@ Informatie over deze video is beschikbaar
 * **In verschillende talen** — [Instructies om de vertalingen te zien](#translations) staan hieronder
 * Als een **[transcriptie met beschrijving van de beelden](#transcript)** hieronder
 * [Op YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* Op een W3C-website — [video (formaat: MP4, groottee: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Nederlandse ondertitels (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.nl.vtt), [lijst van anderes talen](http://media.w3.org/wai/accessibility-intro/)
+* Op een W3C-website — [video (formaat: MP4, groottee: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Nederlandse ondertitels (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.nl.vtt), [lijst van andere talen](http://media.w3.org/wai/accessibility-intro/)
 {% comment %}# For translations, replace:
 "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
 "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
