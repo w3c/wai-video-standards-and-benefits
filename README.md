@@ -5,6 +5,8 @@ preview: https://w3c.github.io/wai-video-standards-and-benefits/videos/standards
 
 ## Translation Notes
 
+A file with highlighting to show what to translate and what to change is at: https://docs.google.com/document/d/1oVOIXH5mVvJSmznyWVU4A4N7E6vCOeHvYbpdAJvpbU0/edit
+
 **Check if the [player is available in your translated language](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages).**
 
 * **If the _is_ available in the translated language**, the player will automatically switch to the language. Therefore, you should translate the words from the video player interface. Please also update the images per the instructions below. _If you are not able to update the images, let us know._
