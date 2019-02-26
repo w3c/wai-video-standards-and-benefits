@@ -27,12 +27,12 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
            %}
 
 Dieses Video ist verfügbar:
-* **mit Untertiteln in verschiedenen Sprachen**. Eine [Anleitung zur Anzeige der Übersetzungen](#translations) finden Sie unten.
-* auf YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
-{% comment %}
-* auf der W3C-Website: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
-{% endcomment %}
+
+* **in verschiedenen Sprachen** — [Anleitung zur Anzeige der Untertitel und Transkripte](#translations) finden Sie unten.
 * als **[Transkript mit Beschreibung des Bildmaterials](#transcript)** unten.
+* [auf YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* auf einem W3C-Server — [Video (Dateiformat: MP4, Dateigröße: 28 MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Deutsche Untertitel (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.de.vtt), [Liste anderer Sprachen](http://media.w3.org/wai/accessibility-intro/)
+
 
 ## Weitere Informationen {#moreinfo}
 
@@ -188,6 +188,8 @@ w3.org/WAI</td>
 
 ## Übersetzungen {#translations}
 
+Es sind verschiedene Übersetzungen dieser gesamten Seite verfügbar. Diese sind am Kopf der Seite verlinkt.<br>Es gibt **weitere Übersetzungen nur für das Video**. Diese sind als Untertitel und Transkripte verfügbar.
+
 Übersetzung im Untertitelbereich am unteren Rand des Videos anzeigen:
 
 1. <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> „Untertitel” auswählen.
@@ -202,4 +204,4 @@ w3.org/WAI</td>
 
 ### Übersetzungen in andere Sprachen
 
-Wir freuen uns über weitere Übersetzungen der [VTT-Datei]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}). Bitte senden Sie übersetzte VTT-Dateien an <wai@w3.org>.
+Wir freuen uns über weitere Übersetzungen. Wenn Sie die [VTT-Datei](/wai-video-standards-and-benefits/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt) übersetzen, senden Sie sie bitte an <public-wai-translations@w3.org>. Falls Sie diese gesamte Seite oder andere übersetzen möchten, lesen Sie bitte [Translating WAI Resources](https://www.w3.org/WAI/about/translating/).
