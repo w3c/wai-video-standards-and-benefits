@@ -14,8 +14,6 @@ changelog: /videos/standards-and-benefits/changelog/
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
    <p><strong>Date:</strong> Updated 21 February 2019. First published 4 December 2017. CHANGELOG.</p>
    <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
-doc-note-message: >
-  <p>Note: Text color in this page will be fixed before it is published.</a></p>
 ---
 
 _This changelog includes Markdown syntax to faciliate updating translations._
