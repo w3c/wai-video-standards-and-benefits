@@ -39,9 +39,9 @@ This video information is available:
 
 For more information, see:
 
--   {% include link.html to="/intro/accessibility/" text="**Introduction to Web Accessibility**" %}
--   {% include link.html to="/perspectives/" text="**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone" %} — videos and information on specific accessibility topics.
--   {% include link.html to="/" text="**WAI website**" %} — to find a wide range of resources on different aspects of web accessibility {% include link.html to="/standards-guidelines/" text="standards" %}, {% include link.html to="/teach-advocate/" text="education" %}, {% include link.html to="/test-evaluate/" text="testing/evaluation" %}, {% include link.html to="/planning/" text="project management, and policy" %}.
+* {% include link.html to="/intro/accessibility/" text="**Introduction to Web Accessibility**" %}
+* {% include link.html to="/perspectives/" text="**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone" %} — videos and information on specific accessibility topics.
+* {% include link.html to="/" text="**WAI website**" %} — to find a wide range of resources on different aspects of web accessibility {% include link.html to="/standards-guidelines/" text="standards" %}, {% include link.html to="/teach-advocate/" text="education" %}, {% include link.html to="/test-evaluate/" text="testing/evaluation" %}, {% include link.html to="/planning/" text="project management, and policy" %}.
 
 ## Permission to Use Video {#permission}
 
