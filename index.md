@@ -105,7 +105,7 @@ If you want examples of videos with audio description, see [Web Accessibility Pe
       <td>[Shadi speaking]</td>
     </tr>
     <tr>
-      <td>For example, captions benefit anyone in a loud or in a quite environment.</td>
+      <td>For example, captions benefit anyone in a loud or in a quiet environment.</td>
       <td>Someone watching a video with captions in an office</td>
     </tr>
     <tr>
