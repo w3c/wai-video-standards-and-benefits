@@ -29,8 +29,8 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 * **на разных языках** — [Инструкции, как просматривать субтитры и стенограммы](#translations) ниже
 * как **[текстовая стенограмма с описанием визуальных эффектов](#transcript)**ниже
-* [на YouTube](https://www.youtube.com/watch? v = 20SHv U2PKsM)
-* На сервере W3C — [видео (формат файла: MP4, размер файла: 28 МБ)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Файл русских субтитров (VTT))](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ru.vtt), [список других языковых файлов](http://media.w3.org/wai/accessibility-intro/)
+* [на YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* На сервере W3C — [видео (формат файла: MP4, размер файла: 28 МБ)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Файл русских субтитров (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ru.vtt), [список других языковых файлов](http://media.w3.org/wai/accessibility-intro/)
 {% comment%} # В переводе замените: «[Файл титров на английском языке (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)» с переводом: "[[ваш язык] файл субтитров (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI. [lang code] .vtt)".
 {% endcomment%}
 
@@ -39,14 +39,14 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 Подробнее см .:
 
 * {% include link.html to="/intro/accessibility/" text="**Введение в веб-доступность**"%}
-* {% include link.html to="/perspectives/" text="**Видео о перспективах доступности веб-сайтов **: Узнайте о влиянии и преимуществах для всех"%} — видео и информация по конкретным темам о доступности.
+* {% include link.html to="/perspectives/" text="**Видео о перспективах доступности веб-сайтов**: Узнайте о влиянии и преимуществах для всех"%} — видео и информация по конкретным темам о доступности.
 * {% include link.html to="/" text="**веб-сайт WAI**"%} — узнайте о ресурсах по различным аспектам доступности веб-сайтов {% include link.html to="/standard-guidelines/" text ="@@standards"%}, {% include link.html to ="/teach-advocate/" text ="@@education"%}, {% include link.html to ="/test-evaluate/" text="тестирование / оценка"%}, {% include link.html to="/planning/" text="управление проектом и политика"%}.
 
 ## Разрешение на использование видео {#permission}
 
 Вы можете использовать это видео, если укажете ссылку на эту страницу. Дополнительная информация доступна в {% include link.html to="/about/using-wai-material/" text="Использование материалов WAI: разрешение на использование с указанием источника"%}.
 
-## Описание аудио {# audio-description}
+## Описание аудио {#audio-description}
 
 Это видео не содержит аудио описания, поскольку визуальные элементы поддерживают только аудио и не предоставляют дополнительную информацию. В этом случае  аудио описание будет больше отвлекать, чем помогать большинству пользователей, включая людей, которые не могут видеть визуальную информацию. Ниже приведена стенограмма с описанием вспомогательных визуальных элементов.
 
@@ -203,4 +203,4 @@ w3.org/WAI</td>
 
 ### Перевести на другие языки
 
-Мы приветствуем дополнительные переводы. Если вы переводите [файл VTT ({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), отправьте его по адресу <public-wai-translations@w3.org>.Если вы хотите перевести всю эту веб-страницу или другие, см. [Перевод ресурсов WAI](https://www.w3.org/WAI/about/translating/).
+Мы приветствуем дополнительные переводы. Если вы переводите [файл VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), отправьте его по адресу <public-wai-translations@w3.org>.Если вы хотите перевести всю эту веб-страницу или другие, см. [Перевод ресурсов WAI](https://www.w3.org/WAI/about/translating/).

@@ -28,7 +28,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 * **言語** — [字幕の使用説明書](#translations)は下記の通りです
 * は **[画像の説明文](#transcript)**下記の通り
 * [YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* W3C — [MP4、28MB](http://media.w3.org/wai/accessibility-intro/intro.mp4), [日本語字幕 (VTT)],(http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt), [他言語翻訳](http://media.w3.org/wai/accessibility-intro/)
+* W3C — [MP4、28MB](http://media.w3.org/wai/accessibility-intro/intro.mp4), [日本語字幕 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt), [他言語翻訳](http://media.w3.org/wai/accessibility-intro/)
 {% comment %}# For translations, replace:
 "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
 "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
