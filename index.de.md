@@ -200,7 +200,7 @@ Es sind verschiedene Übersetzungen dieser gesamten Seite verfügbar. Diese sind
 
 1. „Transkript anzeigen” auswählen.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Untertitel in der Sprachauswahl auswählen.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Untertitel in der Sprachauswahl auswählen.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.de.png" | relative_url }}' alt="">
 
 ### Übersetzungen in andere Sprachen
 
