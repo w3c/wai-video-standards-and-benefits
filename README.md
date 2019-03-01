@@ -9,8 +9,8 @@ A file with highlighting to show what to translate and what to change is at: htt
 
 **Check if the [player is available in your translated language](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages).**
 
-* **If the _is_ available in the translated language**, the player will automatically switch to the language. Therefore, you should translate the words from the video player interface. Please also update the images per the instructions below. _If you are not able to update the images, let us know._
-   * Make a new images to replace https://www.w3.org/WAI/content-images/wai-video-standards-and-benefits/show-language.png and https://www.w3.org/WAI/content-images/wai-video-standards-and-benefits/show-transcript.png
+* **If the _is_ available in the translated language**, the player will automatically switch to the language. Therefore, you should translate the words from the video player interface. Please also update the images per the instructions below.<br>_If you are not able to update the images, let us know._
+   * Make a new images to replace https://www.w3.org/WAI/content-images/wai-video-standards-and-benefits/show-language.png and https://www.w3.org/WAI/content-images/wai-video-standards-and-benefits/show-transcript.png<br>The color of the light blue arrow and circle is #6FF
    * Name them show-language.[language code].png and show-transcript.[language code].png for example: `show-language.fr.png` and `show-transcript.fr.png`
    * Upload them to the [content-images folder](https://github.com/w3c/wai-video-standards-and-benefits/tree/master/content-images/wai-video-standards-and-benefits)
       * Select "Upload files"
