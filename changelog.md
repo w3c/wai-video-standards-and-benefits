@@ -18,6 +18,10 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 _This changelog includes Markdown syntax to faciliate updating translations._
 
+## To be published
+
+* Fixed typo "quite"->"quiet":<br>from: <q>For example, captions benefit anyone in a loud or in a quite environment.</q><br>&nbsp;&nbsp;&nbsp;&nbsp;to: <q>For example, captions benefit anyone in a loud or in a quiet environment.</q>
+
 ## 21 February 2019
 
 * **Changed all 4 bullets under the video, after "This video information is available"** to:
