@@ -194,15 +194,15 @@ w3.org/WAI</td>
 
 要获得视频底部字幕区域的翻译:
 
-1. 选择 <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "字幕".
+1. 选择 <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> <span lang="en">"Captions"</span>.
 
 2. 选择语言.
 
 要在单独的文本区域获得翻译:
 
-1. 选择 "显示文本".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. 选择 <span lang="en">"Show Transcript"</span>.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. 使用语言下拉菜单选择字幕。<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. 使用 <span lang="en">"Language"</span> 下拉菜单选择字幕。<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
 ### 翻译成其他语言
 
