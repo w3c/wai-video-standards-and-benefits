@@ -1,8 +1,9 @@
 ---
 # translation notes are after the "#" character in this first section
 title: "网页无障碍和W3C标准的介绍视频" # translate this
+nav_title: "视频介绍" # A short title that is used in the navigation
 # nav_title: "" # A short title that is used in the navigation
-last_updated: 2019-01-04 # update date of this translation
+last_updated: 2019-03-04 # update date of this translation
 translator: "Ruoxi Ran" # replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/zh-hans # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
@@ -29,12 +30,11 @@ footer: > # translate the words below; do NOT change the dates.
 
 
 该视频资料可供参考：
-* **以不同的语言作为字幕**. [查看翻译说明](#translations) 在该网页下方.
-* 在YouTube中： [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
-{% comment %}
-* 在W3C网站中: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
-{% endcomment %}
-* 作为 **[带有视觉描述的文本记录](#transcript)** 在该网页下方。
+
+* **以其他不同语言** — [字幕来观看视频的说明](#translations) 在下方
+* 作为**[带有视觉描述的文本记录](#transcript)** 如下
+* [在YouTube中](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* 在W3C服务器中  — [视频(文件格式： MP4，文件大小：28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4)， [日文字幕文件 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt)，[其他语言列表](http://media.w3.org/wai/accessibility-intro/)
 
 ## 了解更多 {#moreinfo}
 
@@ -190,6 +190,8 @@ w3.org/WAI</td>
 
 ## 翻译 {#translations}
 
+其他语言的网页的翻译。它们的链接在页面的顶部。<br>有 **更多的与视频有关的翻译**。它们提供了字幕和文本记录。
+
 要获得视频底部字幕区域的翻译:
 
 1. 选择 <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "字幕".
@@ -202,6 +204,6 @@ w3.org/WAI</td>
 
 2. 使用语言下拉菜单选择字幕。<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
-### Translate into Other Languages
+### 翻译成其他语言
 
-我们欢迎更多的[VTT 文档]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})翻译. 请将翻译后的VTT文件发送至 <wai@w3.org>.
+我们欢迎更多的翻译。如果你翻译 [VTT 文件]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})，请发送至 public-wai-translations@w3.org。如果你想翻译整个网页或其他内容，请参见 [WAI的资源翻译](https://www.w3.org/WAI/about/translating/)。
