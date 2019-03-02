@@ -2,7 +2,7 @@
 title: "Video-introductie over Web-toegankelijkheid en W3C-standaarden"
 nav_title: "Video-introductie" # A short title that is used in the navigation
 lang: nl
-last_updated: 2019-01-10
+last_updated: 2019-02-25
 translator: Bert Bos
 permalink: /videos/standards-and-benefits/nl
 ref: /videos/standards-and-benefits/
