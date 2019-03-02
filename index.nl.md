@@ -200,9 +200,9 @@ Om de vertalingen weer te geven in een apart veld voor transcripties:
 
 1. Kies "Toon transcript".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Gebruik het Taal-menu om de ondertiteling te kiezen.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Gebruik het Taal-menu om de ondertiteling te kiezen.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.nl.png" | relative_url }}' alt="">
 
 ### Vertalen in andere talen
 
-We verwelkomen nieuwe vertalingen. Als u het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}) vertaalt, zend het naar <public-wai-translations @w3.org>. Als u deze hele pagina of andere pagina's wilt vertalen, kijk dan op <a lang=en href="https://www.w3.org/WAI/about/translating/" >Translating WAI Resources</a>.
+We verwelkomen nieuwe vertalingen. Als u het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}) vertaalt, zend het naar <public-wai-translations@w3.org>. Als u deze hele pagina of andere pagina's wilt vertalen, kijk dan op <a lang=en href="https://www.w3.org/WAI/about/translating/">Translating WAI Resources</a>.
 
