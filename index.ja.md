@@ -201,7 +201,7 @@ w3.org/WAI</td>
 
 1. "字幕を見る"を選択.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. ドロップダウンで選択した字幕の言語を使用する<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. ドロップダウンで選択した字幕の言語を使用する<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.ja.png" | relative_url }}' alt="">
 
 ### 多言語の翻訳
 
