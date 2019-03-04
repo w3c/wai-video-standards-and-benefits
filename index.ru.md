@@ -202,4 +202,4 @@ w3.org/WAI</td>
 
 ### Перевести на другие языки
 
-Мы приветствуем дополнительные переводы. Если вы переводите [файл VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), отправьте его по адресу <public-wai-translations@w3.org>. Если вы хотите перевести всю эту веб-страницу или другие, см. [Перевод ресурсов WAI](https://www.w3.org/WAI/about/translating/).
+Мы приветствуем дополнительные переводы. Если вы переводите [файл VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), отправьте его по адресу <public-wai-translations@w3.org>. Если вы хотите перевести всю эту веб-страницу или другие, см. {% include link.html to="/about/translating/" text="Перевод ресурсов WAI"%}.
