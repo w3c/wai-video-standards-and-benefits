@@ -41,7 +41,7 @@ Cette vidéo est disponible&#8239;:
 Pour plus d’information, voir&#8239;:
 
 * {% include link.html to="/intro/accessibility/" text="**Introduction à l’accessibilité web**" %}
-* {% include link.html to="/perspectives/" text="**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorez l’impact et les bénéfices pour tous" %} — vidéos et informations sur des sujets spécifiques d’accessibilité.
+* {% include link.html to="/perspective-videos/" text="**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorez l’impact et les bénéfices pour tous" %} — vidéos et informations sur des sujets spécifiques d’accessibilité.
 * {% include link.html to="/" text="**Le site de WAI** (<i lang='en'>Web Accessibility Initiative</i>, Initiative pour l’accessibilité du Web)" %} — pour trouver un grand nombre de ressources sur de nombreux aspects de l’accessibilité web&#8239;: {% include link.html to="/standards-guidelines/" text="standards" %}, {% include link.html to="/teach-advocate/" text="éducation" %}, {% include link.html to="/test-evaluate/" text="tests/évaluation" %}, {% include link.html to="/planning/" text="pilotage de projets, et politique" %}.
 
 ## Permission d’utiliser cette vidéo {#permission}

@@ -39,7 +39,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 その他詳細：
 
 -   {% include link.html to="/intro/accessibility/" text="**ウェブアクセシビリティの紹介**" %}
--   {% include link.html to="/perspectives/" text="**ウェブアクセシビリティとは**：すべての人に対する影響とその価値" %} ー本動画と情報は特定のアクセシビリティ要件に特化しています
+-   {% include link.html to="/perspective-videos/" text="**ウェブアクセシビリティとは**：すべての人に対する影響とその価値" %} ー本動画と情報は特定のアクセシビリティ要件に特化しています
 -   {% include link.html to="/" text="**WAIウェブサイト**" %}ーウェブアクセシビリティの異なる様々な状況を幅広くサポートするために {% include link.html to="/standards-guidelines/" text="標準" %}, {% include link.html to="/teach-advocate/" text="教育" %}, {% include link.html to="/test-evaluate/" text="テスト／評価" %}, {% include link.html to="/planning/" text="プロジェクト管理と指針" %}.
 
 ## 本動画使用許可 {#permission}
@@ -50,7 +50,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 本動画は動画のみをサポートし音声描写を含んでいないため、視覚に難しさを持つ人や多くの人にとって物足りない音声情報である可能性がありますが、シナリオが視覚をサポートします。
 
-音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から ー 音声 (YouTubeプレイリスト)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)、{% include link.html to="/perspectives/" text="ウェブアクセシビリティの観点から" %}、”音声描写を有効化するために”を参照下さい
+音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から ー 音声 (YouTubeプレイリスト)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)、{% include link.html to="/perspective-videos/" text="ウェブアクセシビリティの観点から" %}、”音声描写を有効化するために”を参照下さい
 
 ## 視覚に対する説明文 {#transcript}
 

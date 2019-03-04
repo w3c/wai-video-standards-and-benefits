@@ -38,19 +38,19 @@ Informatie over deze video is beschikbaar
 
 Voor meer informatie, zie:
 
--   [**Introductie over Web-toegankelijkheid**](https://www.w3.org/WAI/intro/accessibility)
--   [**Video gezichtspunten op Web-toegankelijkheid**: Ontdek de invloed op en voordelen voor iedereen](https://www.w3.org/WAI/perspectives/) — video's en informatie over specifieke toegankelijkheidsonderwerpen.
--   [**WAI website**](https://www.w3.org/WAI/) — om een breed scala aan hulpbronnen te vinden over verschillende aspecten van web-toegankelijkheid [standaarden]( https://www.w3.org/WAI/standards-guidelines/), [onderwijs]( https://www.w3.org/WAI/teach-advocate/), [testen/evaluatie]( https://www.w3.org/WAI/test-evaluate/), [project-beheer, en beleid]( https://www.w3.org/WAI/planning/).
+-   {% include link.html to="/intro/accessibility/" text="**Introductie over Web-toegankelijkheid**" %}
+-   {% include link.html to="/perspective-videos/" text="**Video gezichtspunten op Web-toegankelijkheid**: Ontdek de invloed op en voordelen voor iedereen" %} — video's en informatie over specifieke toegankelijkheidsonderwerpen.
+-   {% include link.html to="/" text="**WAI website**" %} — om een breed scala aan hulpbronnen te vinden over verschillende aspecten van web-toegankelijkheid {% include link.html to="/standards-guidelines/" text="standaarden" %}, {% include link.html to="/teach-advocate/" text="onderwijs" %}, {% include link.html to="/test-evaluate/" text="testen/evaluatie" %}, {% include link.html to="/planning/" text="project-beheer, en beleid" %}.
 
 ## Permissie om de video te gebruiken {#permission}
 
-U mag deze video gebruiken als u een link naar deze pagina bijsluit. Meer informatie is beschikbaar in [WAI-materiaal gebruiken: gebruik toegestaan met naamsvermelding](https://www.w3.org/WAI/about/using-wai-material/).
+U mag deze video gebruiken als u een link naar deze pagina bijsluit. Meer informatie is beschikbaar in {% include link.html to="/about/using-wai-material/" fallback="WAI-materiaal gebruiken: gebruik toegestaan met naamsvermelding" %}.
 
 ## Audiodescriptie {#audio-description}
 
 Deze video bevat geen audiodescriptie, omdat de beelden alleen het geluid ondersteunen en geen aanvullende informatie bieden. In dit geval zou de audiodescriptie voor de meeste mensen eerder afleiden dan van nut zijn, ook voor mensen die de beelden niet kunnen zien. De transcriptie met beschrijving hieronder bevat beschrijvingen van de ondersteunende beelden.
 
-Als u voorbeelden wilt van video's met audiodescriptie, zie dan [Gezichtspunten op Web-toegankelijkheid - Audio beschreven (Youtube-afspeellijst)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), of u kunt één van de video's kiezen op de [webpagina over Gezichtspunten op Web-toegankelijkheid](https://www.w3.org/WAI/perspectives/) en "audiodescriptie aanzetten" selecteren.
+Als u voorbeelden wilt van video's met audiodescriptie, zie dan [Gezichtspunten op Web-toegankelijkheid - Audio beschreven (Youtube-afspeellijst)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), of u kunt één van de video's kiezen op de [webpagina over Gezichtspunten op Web-toegankelijkheid](https://www.w3.org/WAI/perspective-videos/) en "audiodescriptie aanzetten" selecteren.
 
 ## Transcriptie met beschrijving van de beelden {#transcript}
 
@@ -204,5 +204,5 @@ Om de vertalingen weer te geven in een apart veld voor transcripties:
 
 ### Vertalen in andere talen
 
-We verwelkomen nieuwe vertalingen. Als u het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}) vertaalt, zend het naar <public-wai-translations@w3.org>. Als u deze hele pagina of andere pagina's wilt vertalen, kijk dan op <a lang=en href="https://www.w3.org/WAI/about/translating/">Translating WAI Resources</a>.
+We verwelkomen nieuwe vertalingen. Als u het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}) vertaalt, zend het naar <public-wai-translations@w3.org>. Als u deze hele pagina of andere pagina's wilt vertalen, kijk dan op {% include link.html to="/about/translating/" fallback="Translating WAI Resources" %}.
 
