@@ -40,13 +40,13 @@ Cette vidéo est disponible&#8239;:
 
 Pour plus d’information, voir&#8239;:
 
-- [**Introduction à l’accessibilité web**](https://www.w3.org/WAI/intro/accessibility){: hreflang="en"} (en anglais)
-- [**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorez l’impact et les bénéfices pour tous](https://www.w3.org/WAI/perspectives/){: hreflang="en"} (en anglais) — vidéos et informations sur des sujets spécifiques d’accessibilité.
-- [**Le site de WAI** (<i lang="en">Web Accessibility Initiative</i>, Initiative pour l’accessibilité du Web)](https://www.w3.org/WAI/){: hreflang="en"} (en anglais) — pour trouver un grand nombre de ressources sur de nombreux aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/){: hreflang="en"} (en anglais), [éducation](https://www.w3.org/WAI/teach-advocate/){: hreflang="en"} (en anglais), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/){: hreflang="en"} (en anglais), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/){: hreflang="en"} (en anglais).
+* {% include link.html to="/intro/accessibility/" text="**Introduction à l’accessibilité web**" %}
+* {% include link.html to="/perspectives/" text="**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorez l’impact et les bénéfices pour tous" %} — vidéos et informations sur des sujets spécifiques d’accessibilité.
+* {% include link.html to="/" text="**Le site de WAI** (<i lang='en'>Web Accessibility Initiative</i>, Initiative pour l’accessibilité du Web)" %} — pour trouver un grand nombre de ressources sur de nombreux aspects de l’accessibilité web&#8239;: {% include link.html to="/standards-guidelines/" text="standards" %}, {% include link.html to="/teach-advocate/" text="éducation" %}, {% include link.html to="/test-evaluate/" text="tests/évaluation" %}, {% include link.html to="/planning/" text="pilotage de projets, et politique" %}.
 
 ## Permission d’utiliser cette vidéo {#permission}
 
-Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur [Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/using-wai-material/){: lang="en"}{: hreflang="en"} (en anglais).
+Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur {% include link.html to="/about/using-wai-material/" fallback="Using WAI Material: Permission to Use with Attribution" %}{%comment%}[Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/using-wai-material/){: lang="en"}{: hreflang="en"} (en anglais){%endcomment%}.
 
 ## Audio-description {#audio-description}
 
