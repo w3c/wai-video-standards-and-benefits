@@ -38,7 +38,7 @@ footer: > # translate the words below; do NOT change the dates.
 
 * **{% include link.html to="/intro/accessibility/" fallback="Εισαγωγή στην Προσβασιμότητα στον Παγκόσμιο Ιστό" %}**
 * {% include link.html to="/perspective-videos/" fallback="**Βίντεο με Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό**: Εξερευνήστε τον Αντίκτυπο και τα Οφέλη για Όλους" %} — βίντεο και πληροφορίες σχετικά με συγκεκριμένα θέματα προσβασιμότητας.
-* **{% include link.html to="/" fallback="Ιστότοπος του <span lang='en'>WAI</span>" %}** — για να βρείτε ένα ευρύ φάσμα πηγών για διάφορες πτυχές της προσβασιμότητας στον Παγκόσμιο Ιστό όπως για: {% include link.html to="/standards-guidelines/" text="πρότυπα" %}, {% include link.html to="/teach-advocate/" text="εκπαίδευση" %}, {% include link.html to="/test-evaluate/" text="δοκιμή (<span lang="en">testing</span>) / αξιολόγηση" %}, {% include link.html to="/planning/" text="διαχείριση έργου και πολιτική" %}.
+* **{% include link.html to="/" fallback="Ιστότοπος του <span lang='en'>WAI</span>" %}** — για να βρείτε ένα ευρύ φάσμα πηγών για διάφορες πτυχές της προσβασιμότητας στον Παγκόσμιο Ιστό όπως για: {% include link.html to="/standards-guidelines/" text="πρότυπα" %}, {% include link.html to="/teach-advocate/" text="εκπαίδευση" %}, {% include link.html to="/test-evaluate/" text="δοκιμή (<span lang='en'>testing</span>) / αξιολόγηση" %}, {% include link.html to="/planning/" text="διαχείριση έργου και πολιτική" %}.
 
 ## Δικαίωμα Χρήσης Βίντεο {#permission}
 
@@ -48,7 +48,7 @@ footer: > # translate the words below; do NOT change the dates.
 
 Αυτό το βίντεο δεν περιλαμβάνει περιγραφή ήχου, επειδή τα οπτικά στοιχεία υποστηρίζουν μόνο τον ήχο και δεν παρέχουν πρόσθετες πληροφορίες. Σε αυτήν την περίπτωση, η περιγραφή ήχου θα ήταν πιο ενοχλητική απ' ότι χρήσιμη για τους περισσότερους ανθρώπους, συμπεριλαμβανομένων των ανθρώπων που δεν μπορούν να δουν τα οπτικά στοιχεία. Η Μεταγραφή Κειμένου με Περιγραφή παρακάτω περιλαμβάνει περιγραφές των υποστηρικτικών οπτικών στοιχείων.
 
-Αν θέλετε παραδείγματα βίντεο με περιγραφή του ήχου, δείτε: [Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό: Αναγνώριση φωνής - Περιγραφόμενη Έκδοση Ήχου (λίστα αναπαραγωγής <span lang="en">YouTube</span>)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), ή μπορείτε να επιλέξετε ένα από τα βίντεο στην {% include link.html to="/perspective-videos/" text="ιστοσελίδα Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό" %} και επιλέξτε "<span lang="en">Enable Audio Description</span>".
+Αν θέλετε παραδείγματα βίντεο με περιγραφή του ήχου, δείτε: [Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό: Αναγνώριση φωνής - Περιγραφόμενη Έκδοση Ήχου (λίστα αναπαραγωγής <span lang="en">YouTube</span>)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), ή μπορείτε να επιλέξετε ένα από τα βίντεο στην {% include link.html to="/perspective-videos/" text="ιστοσελίδα Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό" %} και επιλέξτε "<span lang='en'>Enable Audio Description</span>".
 
 ## Μεταγραφή Κειμένου (<span lang="en">Transcript</span>) με Περιγραφή των Οπτικών Στοιχείων {#transcript}
 
