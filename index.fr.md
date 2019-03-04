@@ -46,13 +46,13 @@ Pour plus d’information, voir&#8239;:
 
 ## Permission d’utiliser cette vidéo {#permission}
 
-Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur {% include link.html to="/about/using-wai-material/" fallback="Using WAI Material: Permission to Use with Attribution" %}{%comment%}[Using WAI Material: Permission to Use with Attribution](https://www.w3.org/WAI/about/using-wai-material/){: lang="en"}{: hreflang="en"} (en anglais){%endcomment%}.
+Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur {% include link.html to="/about/using-wai-material/" fallback="Using WAI Material: Permission to Use with Attribution" %}.
 
 ## Audio-description {#audio-description}
 
 Cette vidéo ne comprend pas d’audio-description parce que les visuels ne servent qu’à soutenir le discours et ne fournissent pas d’informations complémentaires. Dans ce cas, une audio-description serait plus gênante qu’utile pour la plupart des visiteurs, y compris les personnes ne pouvant pas voir les images. La transcription avec description ci-dessous fournit des descriptions des visuels utilisés en support.
 
-Si vous voulez des exemples de vidéos audio-décrites, consultez [La <i lang="en">playlist</i> sur Youtube « Perspectives sur l’accessibilité web »](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-) ; vous pouvez aussi sélectionner une des vidéos de la page [Perspectives sur l’accessibilité web](https://www.w3.org/WAI/perspectives/), et sélectionner « Activer l’audio-description ».
+Si vous voulez des exemples de vidéos audio-décrites, consultez [La <i lang="en">playlist</i> sur Youtube « Perspectives sur l’accessibilité web »](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-) ; vous pouvez aussi sélectionner une des vidéos de la page {% include link.html to="/perspective-videos/" text="Perspectives sur l’accessibilité web" %}, et sélectionner « Activer l’audio-description ».
 
 ## Transcription textuelle avec description des visuels {#transcript}
 
