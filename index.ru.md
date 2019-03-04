@@ -27,9 +27,9 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 Эта видеоинформация доступна:
 
 * **на разных языках** — [Инструкции, как смотреть субтитры и расшифровки](#translations) ниже
-* как **[текстовая расшифровка с описанием визуальных эффектов](#transcript)**ниже
+* как **[текстовая расшифровка с описанием визуальных эффектов](#transcript)** ниже
 * [на YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* На сервере W3C — [видео (формат файла: MP4, размер файла: 28 МБ)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Файл русских субтитров (VTT))](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ru.vtt), [список других языковых файлов](http://media.w3.org/wai/accessibility-intro/)
+* На сервере W3C — [видео (формат файла: MP4, размер файла: 28 МБ)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Файл русских субтитров (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ru.vtt), [список других языковых файлов](http://media.w3.org/wai/accessibility-intro/)
 {% comment%} # В переводе замените: «[Файл титров на английском языке (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)» с переводом: "[[ваш язык] файл субтитров (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI. [lang code] .vtt)".
 {% endcomment%}
 
@@ -188,17 +188,17 @@ w3.org/WAI</td>
 
 ## Переводы {#translations}
 
-Эта страница переведена на другие языки. Вы можете найти ссылки на переводы в начале страницы<br> Есть также ** переводы видео **. Они доступны в субтитрах и расшифровках.
+Эта страница переведена на другие языки. Вы можете найти ссылки на переводы в начале страницы<br> Есть также **переводы видео**. Они доступны в субтитрах и расшифровках.
 
 Для получения переводов субтитров к видео:
 
-1. Выберите <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> «Титры».
+1. Выберите <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> «Captions».
 2. Выберите язык.
 
 Для получения переводов расшифровки в отдельном окне:
 
-1. Выберите «Показать расшифровку».<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
-2. Используйте раскрывающийся список «Язык» для выбора субтитров.<br><br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+1. Выберите «Show transcript».<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+2. Используйте раскрывающийся список «Language» для выбора субтитров.<br><br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
 ### Перевести на другие языки
 
