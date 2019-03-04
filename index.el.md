@@ -38,11 +38,11 @@ footer: > # translate the words below; do NOT change the dates.
 
 * **{% include link.html to="/intro/accessibility/" fallback="Εισαγωγή στην Προσβασιμότητα στον Παγκόσμιο Ιστό" %}**
 * {% include link.html to="/perspective-videos/" fallback="**Βίντεο με Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό**: Εξερευνήστε τον Αντίκτυπο και τα Οφέλη για Όλους" %} — βίντεο και πληροφορίες σχετικά με συγκεκριμένα θέματα προσβασιμότητας.
-* **{% include link.html to="/" fallback="Ιστότοπος του <span lang="en">WAI</span>" %}** — για να βρείτε ένα ευρύ φάσμα πηγών για διάφορες πτυχές της προσβασιμότητας στον Παγκόσμιο Ιστό όπως για: {% include link.html to="/standards-guidelines/" text="πρότυπα" %}, {% include link.html to="/teach-advocate/" text="εκπαίδευση" %}, {% include link.html to="/test-evaluate/" text="δοκιμή (<span lang="en">testing</span>) / αξιολόγηση" %}, {% include link.html to="/planning/" text="διαχείριση έργου και πολιτική" %}.
+* **{% include link.html to="/" fallback="Ιστότοπος του <span lang='en'>WAI</span>" %}** — για να βρείτε ένα ευρύ φάσμα πηγών για διάφορες πτυχές της προσβασιμότητας στον Παγκόσμιο Ιστό όπως για: {% include link.html to="/standards-guidelines/" text="πρότυπα" %}, {% include link.html to="/teach-advocate/" text="εκπαίδευση" %}, {% include link.html to="/test-evaluate/" text="δοκιμή (<span lang="en">testing</span>) / αξιολόγηση" %}, {% include link.html to="/planning/" text="διαχείριση έργου και πολιτική" %}.
 
 ## Δικαίωμα Χρήσης Βίντεο {#permission}
 
-Μπορείτε να χρησιμοποιήσετε αυτό το βίντεο εάν συμπεριλάβετε έναν σύνδεσμο προς αυτήν τη σελίδα. Περισσότερες πληροφορίες διατίθενται στο {% include link.html to="/about/using-wai-material/" fallback="Χρησιμοποιώντας Υλικά του <span lang="en">WAI</span>: Άδεια Χρήσης με Απόδοση (<span lang="en">Attribution</span>)" %}.
+Μπορείτε να χρησιμοποιήσετε αυτό το βίντεο εάν συμπεριλάβετε έναν σύνδεσμο προς αυτήν τη σελίδα. Περισσότερες πληροφορίες διατίθενται στο {% include link.html to="/about/using-wai-material/" fallback="Χρησιμοποιώντας Υλικά του <span lang='en'>WAI</span>: Άδεια Χρήσης με Απόδοση (<span lang='en'>Attribution</span>)" %}.
 
 ## Περιγραφή Ήχου {#audio-description}
 
@@ -203,4 +203,4 @@ footer: > # translate the words below; do NOT change the dates.
 
 ### Μετάφραση σε άλλες γλώσσες
 
-Χαιρετίζουμε επιπλέον μεταφράσεις. Εάν μεταφράσετε το [VTT αρχείο]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), παρακαλούμε, στείλτε το στο <public-wai-translations@w3.org>. Αν θέλετε να μεταφράσετε ολόκληρη την ιστοσελίδα ή άλλες, παρακαλούμε, δείτε τις {% include link.html to="/about/translating/" fallback="Οδηγίες Μετάφρασης του <span lang="en">WAI</span>" %}.
+Χαιρετίζουμε επιπλέον μεταφράσεις. Εάν μεταφράσετε το [VTT αρχείο]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), παρακαλούμε, στείλτε το στο <public-wai-translations@w3.org>. Αν θέλετε να μεταφράσετε ολόκληρη την ιστοσελίδα ή άλλες, παρακαλούμε, δείτε τις {% include link.html to="/about/translating/" fallback="Οδηγίες Μετάφρασης του <span lang='en'>WAI</span>" %}.
