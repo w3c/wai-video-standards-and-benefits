@@ -39,19 +39,19 @@ This video information is available:
 
 For more information, see:
 
-* {% include link.html to="/intro/accessibility/" text="**Introduction to Web Accessibility**" %}
-* {% include link.html to="/perspectives/" text="**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone" %} — videos and information on specific accessibility topics.
+* {% include link.html to="/intro/accessibility/" fallback="**Introduction to Web Accessibility**" %}
+* {% include link.html to="/perspective-videos/" fallback="**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone" %} — videos and information on specific accessibility topics.
 * {% include link.html to="/" text="**WAI website**" %} — to find a wide range of resources on different aspects of web accessibility {% include link.html to="/standards-guidelines/" text="standards" %}, {% include link.html to="/teach-advocate/" text="education" %}, {% include link.html to="/test-evaluate/" text="testing/evaluation" %}, {% include link.html to="/planning/" text="project management, and policy" %}.
 
 ## Permission to Use Video {#permission}
 
-You may use this video if you include a link to this page. More information is available in {% include link.html to="/about/using-wai-material/" text="Using WAI Material: Permission to Use with Attribution" %}.
+You may use this video if you include a link to this page. More information is available in {% include link.html to="/about/using-wai-material/" fallback="Using WAI Material: Permission to Use with Attribution" %}.
 
 ## Audio Description {#audio-description}
 
 This video does not include audio description because the visuals only support the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. The Transcript with Description below includes descriptions of the supporting visuals.
 
-If you want examples of videos with audio description, see [Web Accessibility Perspectives - Audio Described (YouTube playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), or you can select one of the videos on the {% include link.html to="/perspectives/" text="Web Accessibility Perspectives web page" %} and select "Enable Audio Description".
+If you want examples of videos with audio description, see [Web Accessibility Perspectives - Audio Described (YouTube playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), or you can select one of the videos on the {% include link.html to="/perspective-videos/" text="Web Accessibility Perspectives web page" %} and select "Enable Audio Description".
 
 ## Text Transcript with Description of Visuals {#transcript}
 
@@ -208,4 +208,4 @@ To get translations in a separate transcript area:
 
 ### Translate into Other Languages
 
-We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see [Translating WAI Resources](https://www.w3.org/WAI/about/translating/).
+We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see {% include link.html to="/about/translating/" fallback="Translating WAI Resources" %}.
