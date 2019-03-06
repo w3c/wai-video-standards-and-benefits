@@ -41,7 +41,7 @@ Pour plus d’information, voir&#8239;:
 
 * {% include link.html to="/intro/accessibility/" fallback="**Introduction à l’accessibilité web**" %}
 * {% include link.html to="/perspective-videos/" fallback="**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorez l’impact et les bénéfices pour tous" %} — vidéos et informations sur des sujets spécifiques d’accessibilité.
-* {% include link.html to="/" text="**Le site de WAI** (span lang="en">Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)" %} — pour trouver un grand nombre de ressources sur de nombreux aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [éducation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
+* {% include link.html to="/" text="**Le site de WAI** (<span lang="en">Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)" %} — pour trouver un grand nombre de ressources sur de nombreux aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [éducation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
 
 ## Permission d’utiliser cette vidéo {#permission}
 
@@ -207,3 +207,4 @@ Pour afficher une autre langue dans une zone de transcription distincte&#8239;:
 ### Traduire dans d’autres langues
 
 Les traductions additionnelles sont les bienvenues. Si vous traduisez le [fichier VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), merci de l’envoyer à <public-wai-translations@w3.org>. Si vous souhaitez traduire cette page web en entier, ou d’autres, merci de consuter {% include link.html to="/about/translating/" fallback="@@translate Translating WAI Resources" %}.
+
