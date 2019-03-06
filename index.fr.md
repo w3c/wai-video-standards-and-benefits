@@ -2,8 +2,8 @@
 # translation notes are after the "#" character in this first section
 title: "Vidéo : introduction à l’accessibilité web et aux standards du W3C" # translate this
 title_html: "Vidéo&#8239;: introduction à l’accessibilité web et aux standards du W3C" # translate this
-nav_title: "Vidéo&#8239;: introduction" # A short title that is used in the navigation
-last_updated: 2018-12-24 # update date of this translation
+nav_title: "Introduction en vidéo" # A short title that is used in the navigation
+last_updated: 2018-03-05 # update date of this translation
 translator: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
 # contributors: "@@" # replace @@ with name(s) or delete this line
 permalink: /videos/standards-and-benefits/fr # Add the language shortcode; for example: /videos/standards-and-benefits/zh
@@ -29,30 +29,29 @@ footer: > # translate the words below; do NOT change the dates.
            %}
 
 Cette vidéo est disponible&#8239;:
-* **Dans différentes langues et sous-titres** Voir ci-dessous les [instructions pour voir les traductions](#translations).
-* [Sur Youtube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-{% comment %}
-* [Sur le site du W3C](http://media.w3.org/@@)
-{% endcomment %}
-* Sous forme de **[retranscription avec description des visuels](#transcript)** ci-dessous.
+
+* **Dans différentes langues** — les [instructions pour voir les sous-titres et les transcriptions](#translations) sont ci-dessous
+* Sous forme de  **[transcription texte avec description des visuels](#transcript)** ci-dessous
+* [Sur YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* Sur un serveur du W3C — [vidéo (format&#8239;: MP4, taille de fichier&#8239;: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [fichier de sous-titres français (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.fr.vtt), [liste des atres fichiers de langues](http://media.w3.org/wai/accessibility-intro/)
 
 ## En savoir plus {#moreinfo}
 
 Pour plus d’information, voir&#8239;:
 
-* {% include link.html to="/intro/accessibility/" text="**Introduction à l’accessibilité web**" %}
-* {% include link.html to="/perspective-videos/" text="**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorez l’impact et les bénéfices pour tous" %} — vidéos et informations sur des sujets spécifiques d’accessibilité.
-* {% include link.html to="/" text="**Le site de WAI** (<i lang='en'>Web Accessibility Initiative</i>, Initiative pour l’accessibilité du Web)" %} — pour trouver un grand nombre de ressources sur de nombreux aspects de l’accessibilité web&#8239;: {% include link.html to="/standards-guidelines/" text="standards" %}, {% include link.html to="/teach-advocate/" text="éducation" %}, {% include link.html to="/test-evaluate/" text="tests/évaluation" %}, {% include link.html to="/planning/" text="pilotage de projets, et politique" %}.
+* {% include link.html to="/intro/accessibility/" fallback="**Introduction à l’accessibilité web**" %}
+* {% include link.html to="/perspective-videos/" fallback="**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorez l’impact et les bénéfices pour tous" %} — vidéos et informations sur des sujets spécifiques d’accessibilité.
+* {% include link.html to="/" text="**Le site de WAI** (<span lang='en'>Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)" %} — pour trouver un grand nombre de ressources sur de nombreux aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [éducation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
 
 ## Permission d’utiliser cette vidéo {#permission}
 
-Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur {% include link.html to="/about/using-wai-material/" fallback="Using WAI Material: Permission to Use with Attribution" %}.
+Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur {% include link.html to="/about/using-wai-material/" fallback="Utiliser du contenu de WAI&#8239;: permission d’usage avec attribution" %}.
 
 ## Audio-description {#audio-description}
 
 Cette vidéo ne comprend pas d’audio-description parce que les visuels ne servent qu’à soutenir le discours et ne fournissent pas d’informations complémentaires. Dans ce cas, une audio-description serait plus gênante qu’utile pour la plupart des visiteurs, y compris les personnes ne pouvant pas voir les images. La transcription avec description ci-dessous fournit des descriptions des visuels utilisés en support.
 
-Si vous voulez des exemples de vidéos audio-décrites, consultez [La <i lang="en">playlist</i> sur Youtube « Perspectives sur l’accessibilité web »](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-) ; vous pouvez aussi sélectionner une des vidéos de la page {% include link.html to="/perspective-videos/" text="Perspectives sur l’accessibilité web" %}, et sélectionner « Activer l’audio-description ».
+Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang="en">playlist</span> sur Youtube « Perspectives sur l’accessibilité web »](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-) ; vous pouvez aussi sélectionner une des vidéos de la page {% include link.html to="/perspective-videos/" text=" Perspectives sur l’accessibilité web" %}, et sélectionner « Activer l’audio-description » (« <span lang="en">Enable Audio Description</span> »).
 
 ## Transcription textuelle avec description des visuels {#transcript}
 
@@ -65,7 +64,7 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <i lang="e
   </thead>
   <tbody>
     <tr>
-      <td>Bonjour&#8239;! Je suis Shadi Abou-Zahra. Je suis le Spécialiste Technologie et Stratégie pour l’Accessibilité au W3C, le <i lang="en">World Wide Web Consortium</i>, et aujourd’hui j’aimerais vous parler d’accessibilité web.</td>
+      <td>Bonjour&#8239;! Je suis Shadi Abou-Zahra. Je suis le Spécialiste Technologie et Stratégie pour l’Accessibilité au W3C, le <span lang="en">World Wide Web Consortium</span>, et aujourd’hui j’aimerais vous parler d’accessibilité web.</td>
       <td>Accessibilité web<br>
         [Shadi parle]</td>
     </tr>
@@ -151,7 +150,7 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <i lang="e
     </tr>
     <tr>
       <td>Les plus connus sont les Recommandations de Contenus Web Accessibles (WCAG). Les WCAG sont aussi le standard ISO 40500, et elles ont été adoptées dans le standard européen nommé EN 301 549. Elles s’articulent autour de quatre grands principes&#8239;:</td>
-      <td><i lang="en">Web Content Accessibility Guidelines</i> - WCAG; ISO 40500; EN 301 549</td>
+      <td><span lang="en">Web Content Accessibility Guidelines</span> - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
       <td>Un&#8239;: Perceptible. Par exemple, on doit pouvoir voir le contenu ou l’entendre.</td>
@@ -171,19 +170,19 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <i lang="e
     </tr>
     <tr>
       <td>En plus des WCAG, W3C fournit aussi les Recommandations d’Accessibilité des Outils de Production (ATAG), qui définissent des exigences pour les gestionnaires de contenu, les éditeurs de codes et d’autres logiciels.</td>
-      <td><i lang="en">Authoring Tool Accessibility Guidelines</i> - ATAG</td>
+      <td><span lang="en">Authoring Tool Accessibility Guidelines</span> - ATAG</td>
     </tr>
     <tr>
       <td>Et les Recommandations d’Accessibilité des Agents Utilisateurs (UAAG), définissent des exigences pour les navigateurs et les lecteurs multimédia.</td>
-      <td><i lang="en">User Agent Accessibility Guidelines</i> - UAAG</td>
+      <td><span lang="en">User Agent Accessibility Guidelines</span> - UAAG</td>
     </tr>
     <tr>
-      <td>Plus d’un milliard de personnes ont un handicap, soit 15 à 20 % de la population. La convention des Nations Unies sur les Droits des Personnes Handicapées stipule que l’accès à l’information, y compris au Web, est un droit humain. La plupart des pays du monde a ratifié cette convention de l’ONU et plusieurs d’entre eux ont légiféré sur le sujet. Mais même sans lois ni règlements, intégrer les standards de l’accessibilité est une nécessité pour les personnes handicapées, et est utile à tous.</td>
+      <td>Plus d’un milliard de personnes ont un handicap, soit 15 à 20 % de la population. La convention des Nations Unies sur les Droits des Personnes Handicapées stipule que l’accès à l’information, y compris au Web, est un droit humain. La plupart des pays du monde a ratifié cette convention de l’ONU et plusieurs d’entre eux ont légiféré sur le sujet. Mais même sans lois ni règlements, intégrer les standards de l’accessibilité est une nécessité pour les personnes handicapées, et est utile à tous.</td>
       <td>[Shadi parle]</td>
     </tr>
     <tr>
       <td>Pour plus d’informations sur l’accessibilité web, visitez [w3.org/WAI](https://w3.org/WAI)</td>
-      <td>W3C <i lang="en">Web Accessibility Initiative</i><br>
+      <td>W3C <span lang="en">Web Accessibility Initiative</span><br>
 w3.org/WAI</td>
     </tr>
   </tbody>
@@ -191,18 +190,20 @@ w3.org/WAI</td>
 
 ## Traductions {#translations}
 
+Vous pouvez trouver des traductions complètes de cette page web. Elles sont en lien en haut de la page.<br>Il existe d’autres traductions de la vidéo. Elles sont disponibles sous forme de sous-titres et de transcriptions.
+
 Pour afficher les sous-titres traduits dans le bas de la vidéo&#8239;:
 
-1. Choisissez <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> <i lang="en">“Captions”</i>.
+1. Choisissez <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> “Sous-titres”.
 
 2. Choisissez la langue.
 
 Pour afficher une autre langue dans une zone de transcription distincte&#8239;:
 
-1. Choisissez <i lang="en">“Show transcript”</i>.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. Choisissez “Afficher la transcription”.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Utilisez la liste déroulante “Language” pour sélectionner la transcription.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Utilisez la liste déroulante “Langue” pour sélectionner la transcription.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.fr.png" | relative_url }}' alt="">
 
 ### Traduire dans d’autres langues
 
-Les traductions additionnelles du fichier [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}) sont les bienvenues. Merci d’envoyer vos fichiers VTT traduits à <wai@w3.org>.
+Les traductions additionnelles sont les bienvenues. Si vous traduisez le [fichier VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), merci de l’envoyer à <public-wai-translations@w3.org>. Si vous souhaitez traduire cette page web en entier, ou d’autres, merci de consuter {% include link.html to="/about/translating/" fallback="Traduire des ressources de WAI" %}.
