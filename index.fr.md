@@ -45,7 +45,7 @@ Pour plus d’information, voir&#8239;:
 
 ## Permission d’utiliser cette vidéo {#permission}
 
-Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur {% include link.html to="/about/using-wai-material/" fallback="@@translate Using WAI Material: Permission to Use with Attribution" %}.
+Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur {% include link.html to="/about/using-wai-material/" fallback="Utiliser du contenu de WAI&#8239;: permission d’usage avec attribution" %}.
 
 ## Audio-description {#audio-description}
 
@@ -206,4 +206,4 @@ Pour afficher une autre langue dans une zone de transcription distincte&#8239;:
 
 ### Traduire dans d’autres langues
 
-Les traductions additionnelles sont les bienvenues. Si vous traduisez le [fichier VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), merci de l’envoyer à <public-wai-translations@w3.org>. Si vous souhaitez traduire cette page web en entier, ou d’autres, merci de consuter {% include link.html to="/about/translating/" fallback="@@translate Translating WAI Resources" %}.
+Les traductions additionnelles sont les bienvenues. Si vous traduisez le [fichier VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), merci de l’envoyer à <public-wai-translations@w3.org>. Si vous souhaitez traduire cette page web en entier, ou d’autres, merci de consuter {% include link.html to="/about/translating/" fallback="Traduire des ressources de WAI" %}.
