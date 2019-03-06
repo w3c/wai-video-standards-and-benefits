@@ -3,7 +3,7 @@
 title: "Video Introduction to Web Accessibility and W3C Standards"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video Introduction" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-02-21   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-03-05   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translator: "@@"   # Replace @@ with name or names separated with a comma
 # contributors: "@@"   # Replace @@ with name(s) or delete this line
 permalink: /videos/standards-and-benefits/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
@@ -190,9 +190,7 @@ w3.org/WAI</td>
 
 ## Translations {#translations}
 
-Translations are available as subtitles and transcripts.
-{% comment %}# For translations: The sentence above will change when we publish the translations. In your translation, please replace the paragraph above with: "There are some translations of this entire web page. They are linked at the top of this page.<br>There are **more translations of just the video**. They are available as subtitles and transcripts."
-{% endcomment %}
+There are some translations of this entire web page. They are linked at the top of this page.<br>There are **more translations of just the video**. They are available as subtitles and transcripts.
 
 To get translations in the captions area in the bottom of the video:
 
