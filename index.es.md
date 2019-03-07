@@ -29,12 +29,11 @@ footer: >
 
 Esta información del video está disponible:
 
-* **In different languages** — [Instructions to see subtitles and transcripts](#translations) are below
-* As a **[Text Transcript with Description of Visuals](#transcript)** below
-* [On YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* **Como subtítulos en diferentes idiomas**. Vea [instrucciones para ver las traducciones](#traducciones) más abajo.
+* Como **[transcripción de texto con descripción de las imágenes](#transcript)**, más abajo.
+* [En YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
 * On a W3C server — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Spanish subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.es.vtt), [list of other language files](http://media.w3.org/wai/accessibility-intro/)
-{% comment %}# [translation instructions implemented above]
-{% endcomment %}
+{% comment %}# translation instructions already implemented {% endcomment %}
 
 ## Más información {#moreinfo}
 
@@ -210,5 +209,7 @@ Para obtener traducciones en un área de transcripción separada:
 2. Use el menú desplegable de Idiomas para seleccionar los subtítulos.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
 ### Traducir a otros idiomas
+
+<del>Agradecemos las traducciones adicionales del [archivo VTT]({{"/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url}}). Envíe los archivos traducidos en VTT a <wai@w3.org>.</del>
 
 We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see {% include link.html to="/about/translating/" fallback="Translating WAI Resources" %}.
