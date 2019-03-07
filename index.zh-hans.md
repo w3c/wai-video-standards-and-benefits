@@ -3,7 +3,7 @@
 title: "网页无障碍和W3C标准的介绍视频" # translate this
 nav_title: "视频介绍" # A short title that is used in the navigation
 # nav_title: "" # A short title that is used in the navigation
-last_updated: 2019-03-04 # update date of this translation
+last_updated: 2019-03-07 # update date of this translation
 translator: "Ruoxi Ran" # replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/zh-hans # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
@@ -52,7 +52,11 @@ footer: > # translate the words below; do NOT change the dates.
 
 本视频不包含音频描述，因为视频只支持音频，不提供额外的信息。在这种情况下，对大多数人来说，包括那些看不到图像的人来说，音频描述与其说是有用，不如说是会让人分心。下面的文字说明包含了对辅助视觉效果的描述。
 
-如果您想要带有音频描述的视频示例，请参见[网页无障碍愿景 - 音频描述 (YouTube播放列表)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), 或者您可以从 {% include link.html to="/perspective-videos/" text="网页无障碍愿景网页" %}中选择一个视频，然后选择“音频描述可见”。
+如果您想要带有音频描述的视频示例，请参见[网页无障碍愿景 - 音频描述 (YouTube播放列表)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). 或者您可以从 {% include link.html to="/perspective-videos/" text="网页无障碍愿景网页" %}中选择一个视频，然后选择“{% include t.html t='Enable Audio Description' %}” (“<span lang='en'>Enable Audio Description</span>”)。
+{% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
+("<span lang='en'>Enable Audio Description</span>").
+(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+{% endcomment %}
 
 ## 带有视觉描述的文本记录 {#transcript}
 

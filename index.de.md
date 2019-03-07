@@ -3,7 +3,7 @@
 title: "Video-Einführung in Web-Accessibility und W3C-Standards"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video-Einführung"
 lang: de   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-02-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-03-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translator: "Sandra Kallmeyer"   # Replace @@ with name or names separated with a comma
 contributors: "Stefanie Hegele"  # Replace @@ with name(s) or delete this line
 permalink: /videos/standards-and-benefits/de   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
@@ -48,7 +48,7 @@ Sie können dieses Video verwenden, wenn Sie einen Link zu dieser Seite hinzufü
 
 Dieses Video enthält keine Audiodeskription, da das Bildmaterial lediglich das Audio unterstützt und keine zusätzlichen Informationen liefert. In diesem Fall wäre die Audiodeskription für die meisten Menschen, einschließlich jener, die die Bilder nicht sehen können, mehr ablenkend als nützlich. Das untenstehende Transkript enthält Beschreibungen des unterstützenden Bildmaterials.
 
-Beispiele für Videos mit Audiodeskription finden Sie unter [Web-Accessibility-Perspektiven – Audiodeskription (YouTube-Playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Alternativ können Sie eins der Videos auf der Seite {% include link.html to="/perspective-videos/" fallback="Web-Accessibility-Perspektiven" %} ansehen und „{% include t.html t="Enable Audio Description" %}“ auswählen.
+Beispiele für Videos mit Audiodeskription finden Sie unter [Web-Accessibility-Perspektiven – Audiodeskription (YouTube-Playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Alternativ können Sie eins der Videos auf der Seite {% include link.html to="/perspective-videos/" fallback="Web-Accessibility-Perspektiven" %} ansehen und „{% include t.html t="Enable Audio Description" %}“ („<span lang='en'>Enable Audio Description</span>”) auswählen.
 
 ## Transkript mit Beschreibung des Bildmaterials {#transcript}
 

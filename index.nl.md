@@ -2,7 +2,7 @@
 title: "Video-introductie over Web-toegankelijkheid en W3C-standaarden"
 nav_title: "Video-introductie" # A short title that is used in the navigation
 lang: nl
-last_updated: 2019-02-25
+last_updated: 2019-03-07
 translator: Bert Bos
 permalink: /videos/standards-and-benefits/nl
 ref: /videos/standards-and-benefits/
@@ -50,7 +50,11 @@ U mag deze video gebruiken als u een link naar deze pagina bijsluit. Meer inform
 
 Deze video bevat geen audiodescriptie, omdat de beelden alleen het geluid ondersteunen en geen aanvullende informatie bieden. In dit geval zou de audiodescriptie voor de meeste mensen eerder afleiden dan van nut zijn, ook voor mensen die de beelden niet kunnen zien. De transcriptie met beschrijving hieronder bevat beschrijvingen van de ondersteunende beelden.
 
-Als u voorbeelden wilt van video's met audiodescriptie, zie dan [Gezichtspunten op Web-toegankelijkheid - Audio beschreven (Youtube-afspeellijst)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), of u kunt één van de video's kiezen op de [webpagina over Gezichtspunten op Web-toegankelijkheid](https://www.w3.org/WAI/perspective-videos/) en "audiodescriptie aanzetten" selecteren.
+Als u voorbeelden wilt van video's met audiodescriptie, zie dan [Gezichtspunten op Web-toegankelijkheid - Audio beschreven (Youtube-afspeellijst)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Of u kunt één van de video's kiezen op de [webpagina over Gezichtspunten op Web-toegankelijkheid](https://www.w3.org/WAI/perspective-videos/) en "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>") selecteren.
+{% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
+("<span lang='en'>Enable Audio Description</span>").
+(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+{% endcomment %}
 
 ## Transcriptie met beschrijving van de beelden {#transcript}
 
@@ -192,7 +196,7 @@ Er zijn vertalingen van deze complete Web-pagina. Ze zijn gelinkt bovenaan deze 
 
 Om vertalingen weer te geven in de ruimte voor ondertitels onderaan de video:
 
-1. Kies <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "ondertiteling".
+1. Kies <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Ondertiteling".
 
 2. Kies de taal.
 
