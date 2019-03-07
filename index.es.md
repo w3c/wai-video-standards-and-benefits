@@ -28,12 +28,12 @@ footer: >
            %}
 
 Esta información del video está disponible:
+
 * **Como subtítulos en diferentes idiomas**. Vea [instrucciones para ver las traducciones](#traducciones) más abajo.
-* En YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
-{% comment %}
-* En el sitio web del W3C: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
-{% endcomment %}
 * Como **[transcripción de texto con descripción de las imágenes](#transcript)**, más abajo.
+* [En YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* On a W3C server — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Spanish subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.es.vtt), [list of other language files](http://media.w3.org/wai/accessibility-intro/)
+{% comment %}# translation instructions already implemented {% endcomment %}
 
 ## Más información {#moreinfo}
 
@@ -51,7 +51,11 @@ Puede usar este video si incluye un enlace a esta página. Hay más información
 
 Este video no incluye una descripción del audio porque las imágenes son de apoyo al audio y no proporcionan información adicional. En este caso, la descripción de audio distraería y no sería útil para la mayoría de las personas, incluidas las personas que no pueden ver las imágenes. La Transcripción con Descripción, mostrada a continuación, incluye descripciones de las imágenes de apoyo.
 
-Si desea ejemplos de videos con descripción de audio, consulte [Perspectivas de Accesibilidad Web – Audio descrito (lista de reproducción de YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxyczADee-), o puede seleccionar uno de los videos en la {% include link.html to="/perspective-videos/" text="página web de Perspectivas de la Accesibilidad Web" %} y seleccione "Habilitar descripción de audio".
+Si desea ejemplos de videos con descripción de audio, consulte [Perspectivas de Accesibilidad Web – Audio descrito (lista de reproducción de YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxyczADee-). O puede seleccionar uno de los videos en la {% include link.html to="/perspective-videos/" text="página web de Perspectivas de la Accesibilidad Web" %} y seleccione "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+{% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
+("<span lang='en'>Enable Audio Description</span>").
+(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+{% endcomment %}
 
 ## Transcripción de texto con descripción de imágenes {#transcript}
 
@@ -190,6 +194,8 @@ w3.org/WAI</td>
 
 ## Traducciones {#translations}
 
+There are some translations of this entire web page. They are linked at the top of this page.<br>There are **more translations of just the video**. They are available as subtitles and transcripts.
+
 Para obtener las traducciones en el área de subtítulos en la parte inferior del video:
 
 1. Seleccione <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Subtítulos".
@@ -204,4 +210,6 @@ Para obtener traducciones en un área de transcripción separada:
 
 ### Traducir a otros idiomas
 
-Agradecemos las traducciones adicionales del [archivo VTT]({{"/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url}}). Envíe los archivos traducidos en VTT a <wai@w3.org>.
+<del>Agradecemos las traducciones adicionales del [archivo VTT]({{"/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url}}). Envíe los archivos traducidos en VTT a <wai@w3.org>.</del>
+
+We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see {% include link.html to="/about/translating/" fallback="Translating WAI Resources" %}.
