@@ -2,7 +2,7 @@
 # translation notes are after the "#" character in this first section
 title: "Εισαγωγικό Βίντεο για την Προσβασιμότητα στον Παγκόσμιο Ιστό (Web Accessibility) και τα Πρότυπα του W3C" # translate this
 nav_title: "Εισαγωγή Βίντεο" # A short title that is used in the navigation
-last_updated: 2019-03-04 # update date of this translation
+last_updated: 2019-03-07 # update date of this translation
 translator: "@pkoutsod" # replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/el # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
@@ -48,7 +48,11 @@ footer: > # translate the words below; do NOT change the dates.
 
 Αυτό το βίντεο δεν περιλαμβάνει περιγραφή ήχου, επειδή τα οπτικά στοιχεία υποστηρίζουν μόνο τον ήχο και δεν παρέχουν πρόσθετες πληροφορίες. Σε αυτήν την περίπτωση, η περιγραφή ήχου θα ήταν πιο ενοχλητική απ' ότι χρήσιμη για τους περισσότερους ανθρώπους, συμπεριλαμβανομένων των ανθρώπων που δεν μπορούν να δουν τα οπτικά στοιχεία. Η Μεταγραφή Κειμένου με Περιγραφή παρακάτω περιλαμβάνει περιγραφές των υποστηρικτικών οπτικών στοιχείων.
 
-Αν θέλετε παραδείγματα βίντεο με περιγραφή του ήχου, δείτε: [Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό: Αναγνώριση φωνής - Περιγραφόμενη Έκδοση Ήχου (λίστα αναπαραγωγής <span lang="en">YouTube</span>)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), ή μπορείτε να επιλέξετε ένα από τα βίντεο στην {% include link.html to="/perspective-videos/" text="ιστοσελίδα Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό" %} και επιλέξτε "<span lang='en'>Enable Audio Description</span>".
+Αν θέλετε παραδείγματα βίντεο με περιγραφή του ήχου, δείτε: [Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό: Αναγνώριση φωνής - Περιγραφόμενη Έκδοση Ήχου (λίστα αναπαραγωγής <span lang="en">YouTube</span>)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), ή μπορείτε να επιλέξετε ένα από τα βίντεο στην {% include link.html to="/perspective-videos/" text="ιστοσελίδα Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό" %} και επιλέξτε "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+{% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
+("<span lang='en'>Enable Audio Description</span>").
+(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+{% endcomment %}
 
 ## Μεταγραφή Κειμένου (<span lang="en">Transcript</span>) με Περιγραφή των Οπτικών Στοιχείων {#transcript}
 
