@@ -3,7 +3,7 @@
 title: "Видео введение в веб-доступность и стандарты W3C"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Введение" # A short title that is used in the navigation
 lang: ru   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-03-02   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-03-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translator: "Daniel Novichkov"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ru   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
@@ -49,7 +49,11 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 Это видео не содержит аудио описания, поскольку визуальные элементы поддерживают только аудио и не предоставляют дополнительную информацию. В этом случае аудио описание будет больше отвлекать, чем помогать большинству пользователей, включая людей, которые не могут видеть визуальную информацию. Ниже приведена расшифровка с описанием вспомогательных визуальных элементов.
 
-Если вам нужны примеры видео с аудио описанием, см. [Перспективы веб-доступности - аудио описание (плейлист YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&amp;list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), также вы можете выбрать один из видеороликов на странице {% include link.html to="/perspective-videos/" text="Веб-страница с точки зрения веб-доступности"%} и выберите "Включить аудио описание".
+Если вам нужны примеры видео с аудио описанием, см. [Перспективы веб-доступности - аудио описание (плейлист YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&amp;list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). также вы можете выбрать один из видеороликов на странице {% include link.html to="/perspective-videos/" text="Веб-страница с точки зрения веб-доступности"%} и выберите "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+{% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
+("<span lang='en'>Enable Audio Description</span>").
+(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+{% endcomment %}
 
 ## Текстовая расшифровка с описанием видео ряда {#transcript}
 
