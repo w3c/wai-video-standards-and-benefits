@@ -6,6 +6,7 @@ nav_title: "Introduction en vidéo" # A short title that is used in the navigati
 last_updated: 2018-03-07 # update date of this translation
 translator: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
 # contributors: "@@" # replace @@ with name(s) or delete this line
+contributors: "Sylvie Duchateau"
 permalink: /videos/standards-and-benefits/fr # Add the language shortcode; for example: /videos/standards-and-benefits/zh
 ref: /videos/standards-and-benefits/ # do NOT change this
 lang: fr # Translated language shortcode
@@ -198,7 +199,7 @@ Pour afficher les sous-titres traduits dans le bas de la vidéo&#8239;:
 
 2. Choisissez la langue.
 
-Pour afficher une autre langue dans une zone de transcription distincte&#8239;:
+Pour afficher une traduction dans une zone de transcription séparée&#8239;:
 
 1. Choisissez “Afficher la transcription”.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
