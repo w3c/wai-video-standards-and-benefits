@@ -17,7 +17,7 @@ feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
   <p><strong>Date&#8239;:</strong> Updated 20 December 2018. First published 4 December 2017. CHANGELOG.</p>
-  <p>Direction de projet&#8239;: <a hreflang="en" href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a hreflang="en" href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a hreflang="en" href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a hreflang="en" href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Capture et montage de la vidéo&#8239;: Ulrich Grimm, av-design GmbH.</p>
+  <p>Direction de projet&#8239;: <a hreflang="en" href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributeurs: <a hreflang="en" href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a hreflang="en" href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a hreflang="en" href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Capture et montage de la vidéo&#8239;: Ulrich Grimm, av-design GmbH.</p>
 # end of translation notes
 ---
 
@@ -40,18 +40,18 @@ Cette vidéo est disponible&#8239;:
 Pour plus d’information, voir&#8239;:
 
 * {% include link.html to="/intro/accessibility/" fallback="**Introduction à l’accessibilité web**" %}
-* {% include link.html to="/perspective-videos/" fallback="**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorez l’impact et les bénéfices pour tous" %} — vidéos et informations sur des sujets spécifiques d’accessibilité.
-* {% include link.html to="/" text="**Le site de WAI** (<span lang='en'>Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)" %} — pour trouver un grand nombre de ressources sur de nombreux aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [éducation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
+* {% include link.html to="/perspective-videos/" fallback="**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorer l’impact et les bénéfices pour tous" %} — vidéos et informations sur des sujets spécifiques d’accessibilité.
+* {% include link.html to="/" text="**Le site de la WAI** (<span lang='en'>Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)" %} — pour trouver un grand nombre de ressources sur divers aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [sensibilisation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
 
-## Permission d’utiliser cette vidéo {#permission}
+## Permission pour l’utilisation de cette vidéo {#permission}
 
 Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur {% include link.html to="/about/using-wai-material/" fallback="Utiliser du contenu de WAI&#8239;: permission d’usage avec attribution" %}.
 
 ## Audio-description {#audio-description}
 
-Cette vidéo ne comprend pas d’audio-description parce que les visuels ne servent qu’à soutenir le discours et ne fournissent pas d’informations complémentaires. Dans ce cas, une audio-description serait plus gênante qu’utile pour la plupart des visiteurs, y compris les personnes ne pouvant pas voir les images. La transcription avec description ci-dessous fournit des descriptions des visuels utilisés en support.
+Cette vidéo ne comprend pas d’audio-description parce que les visuels ne servent qu’à illustrer le discours et ne fournissent pas d’informations complémentaires. Dans ce cas, une audio-description serait plus gênante qu’utile pour la plupart des visiteurs, y compris les personnes ne pouvant pas voir les images. La transcription avec description ci-dessous fournit des descriptions des visuels utilisés comme illustration.
 
-Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang="en">playlist</span> sur Youtube « Perspectives sur l’accessibilité web »](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-) ; vous pouvez aussi sélectionner une des vidéos de la page {% include link.html to="/perspective-videos/" text=" Perspectives sur l’accessibilité web" %}, et sélectionner « Activer l’audio-description » (« <span lang="en">Enable Audio Description</span> »).
+Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang="en">playlist</span> sur Youtube « Perspectives sur l’accessibilité web »](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-) ; vous pouvez aussi sélectionner l’une des vidéos de la page {% include link.html to="/perspective-videos/" text=" Perspectives sur l’accessibilité web" %}, et sélectionner « Activer l’audio-description » (« <span lang="en">Enable Audio Description</span> »).
 
 ## Transcription textuelle avec description des visuels {#transcript}
 
@@ -64,13 +64,13 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
   </thead>
   <tbody>
     <tr>
-      <td>Bonjour&#8239;! Je suis Shadi Abou-Zahra. Je suis le Spécialiste Technologie et Stratégie pour l’Accessibilité au W3C, le <span lang="en">World Wide Web Consortium</span>, et aujourd’hui j’aimerais vous parler d’accessibilité web.</td>
+      <td>Bonjour&#8239;! Je m’appelle Shadi Abou-Zahra. Je suis le Spécialiste Technologie et Stratégie pour l’Accessibilité au W3C, le <span lang="en">World Wide Web Consortium</span>, et aujourd’hui j’aimerais vous parler de l’accessibilité du web.</td>
       <td>Accessibilité web<br>
         [Shadi parle]</td>
     </tr>
     <tr>
       <td>Le Web représente pour beaucoup d’entre nous une partie essentielle de la vie quotidienne.</td>
-      <td>Des gens dans un café internet</td>
+      <td>Des gens dans un cybercafé</td>
     </tr>
     <tr>
       <td>Au travail.</td>
@@ -78,7 +78,7 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
     </tr>
     <tr>
       <td>À la maison.</td>
-      <td>Someone sitting in a sofa using a laptop</td>
+      <td>Une personne dans un canapé utilise un ordinateur portable</td>
     </tr>
     <tr>
       <td>Et en déplacement.</td>
@@ -90,7 +90,7 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
     </tr>
     <tr>
       <td>Par exemple une personne n’ayant pas l’usage de ses bras a recours à une baguette buccale pour taper au clavier.</td>
-      <td>Une personne tape avec une baguetet buccale</td>
+      <td>Une personne tape avec une baguette buccale</td>
     </tr>
     <tr>
       <td>Quelqu’un qui n’entend pas forcément bien utilise des sous-titres pour regarder des vidéos.</td>
@@ -109,7 +109,7 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
       <td>Une personne au bureau regarde une vidéo avec des sous-titres</td>
     </tr>
     <tr>
-      <td>Et un bon contraste de couleur est plus utilisable en cas de lumière vive.</td>
+      <td>Et un bon contraste de couleurs est plus utilisable en cas de lumière vive.</td>
       <td>Une personne regarde un téléphone mobile, un reflet est visible sur l’écran</td>
     </tr>
     <tr>
@@ -150,14 +150,14 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
     </tr>
     <tr>
       <td>Les plus connus sont les Recommandations de Contenus Web Accessibles (WCAG). Les WCAG sont aussi le standard ISO 40500, et elles ont été adoptées dans le standard européen nommé EN 301 549. Elles s’articulent autour de quatre grands principes&#8239;:</td>
-      <td><span lang="en">Web Content Accessibility Guidelines</span> - WCAG; ISO 40500; EN 301 549</td>
+      <td><span lang="en">Web Content Accessibility Guidelines</span> (Règles pour l'accessibilité des contenus Web) - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
-      <td>Un&#8239;: Perceptible. Par exemple, on doit pouvoir voir le contenu ou l’entendre.</td>
+      <td>Tout d’abord&#8239;: Perceptible. Par exemple, on doit pouvoir voir le contenu ou l’entendre.</td>
       <td>Une personne tape sur sa tablette et écoute dans un casque audio</td>
     </tr>
     <tr>
-      <td>Opérable. On doit pouvoir utiliser l’ordinateur avec un clavier comme avec la voix, par exemple.</td>
+      <td>Utilisable. On doit pouvoir utiliser l’ordinateur avec un clavier comme avec la voix, par exemple.</td>
       <td>Une personne parle à son ordinateur</td>
     </tr>
     <tr>
@@ -177,7 +177,7 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
       <td><span lang="en">User Agent Accessibility Guidelines</span> - UAAG</td>
     </tr>
     <tr>
-      <td>Plus d’un milliard de personnes ont un handicap, soit 15 à 20 % de la population. La convention des Nations Unies sur les Droits des Personnes Handicapées stipule que l’accès à l’information, y compris au Web, est un droit humain. La plupart des pays du monde a ratifié cette convention de l’ONU et plusieurs d’entre eux ont légiféré sur le sujet. Mais même sans lois ni règlements, intégrer les standards de l’accessibilité est une nécessité pour les personnes handicapées, et est utile à tous.</td>
+      <td>Plus d’un milliard de personnes ont un handicap, soit 15 à 20 % de la population. La convention des Nations Unies sur les Droits des Personnes Handicapées stipule que l’accès à l’information, y compris au Web, est un droit humain. La plupart des pays du monde a ratifié cette convention de l’ONU et plusieurs d’entre eux ont légiféré sur le sujet. Mais même sans lois ni règlements, intégrer les standards de l’accessibilité est une nécessité pour les personnes handicapées, et utile à tous.</td>
       <td>[Shadi parle]</td>
     </tr>
     <tr>
