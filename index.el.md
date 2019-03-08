@@ -1,7 +1,8 @@
 ---
 # translation notes are after the "#" character in this first section
 title: "Εισαγωγικό Βίντεο για την Προσβασιμότητα στον Παγκόσμιο Ιστό (Web Accessibility) και τα Πρότυπα του W3C" # translate this
-last_updated: 2019-01-10 # update date of this translation
+nav_title: "Εισαγωγή Βίντεο" # A short title that is used in the navigation
+last_updated: 2019-03-07 # update date of this translation
 translator: "@pkoutsod" # replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/el # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
@@ -11,45 +12,47 @@ github:
   repository: w3c/wai-video-standards-and-benefits
   path: 'index.el.md' # Add the language shortcode after index; for example, index.fr.md
 feedbackmail: wai@w3.org
+changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
-  <p><strong>Ημερομηνία:</strong> Ενημερώθηκε 20 Δεκεμβρίου 2018. Πρώτη δημοσίευση 4 Δεκεμβρίου 2017. </p>
+  <p><strong>Ημερομηνία:</strong> Ενημερώθηκε 20 Δεκεμβρίου 2018. Πρώτη δημοσίευση 4 Δεκεμβρίου 2017. CHANGELOG.</p>
   <p>Επικεφαλής του έργου: <a href="https://www.w3.org/People/shadi/"><span lang="en">Shadi Abou-Zahra</span></a>. Συνεισφέροντες: <a href="https://www.w3.org/People/Shawn/"><span lang="en">Shawn Lawton Henry</span></a>, <a href="https://www.w3.org/People/Brewer/"><span lang="en">Judy Brewer</span></a>, <a href="https://www.w3.org/People/yatil/"><span lang="en">Eric Eggert</span></a>. Εικονοληψία και επεξεργασία βίντεο: <span lang="en">Ulrich Grimm, av-design GmbH</span>.</p>
 # end of translation notes
 ---
 
 {% include video-player.html 
            yt-id="20SHvU2PKsM" 
-           captions="/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt|en|English Captions"
-           subtitles="/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ar.vtt|ar|Arabic Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.de.vtt|de|German Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.es.vtt|es|Spanish Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.fr.vtt|fr|French Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.gj.vtt|gj|Gujarati Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.hn.vtt|hn|Hindi Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.kn.vtt|kn|Kannada Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ko.vtt|ko|Korean Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ml.vtt|ml|Malayalam Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.mr.vtt|mr|Marathi Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.nl.vtt|nl|Dutch Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.pt-br.vtt|pt-br|Portuguese(Br) Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.tl.vtt|tl|Tagalog/Filipino Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.zh.vtt|zh|Chinese Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ja.vtt|ja|Japanese Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.it.vtt|it|Italian Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.hu.vtt|hu|Hungarian Subtitles,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.el.vtt|el|Greek Subtitles"
+           path="/content-images/wai-video-standards-and-benefits/"
+           captions="W3C_INTRO_SFHI.vtt|en"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el|default,W3C_INTRO_SFHI.ru.vtt|ru"
            %}
 
-
-
 Αυτές οι πληροφορίες για το βίντεο είναι διαθέσιμες:
-* **Σε διαφορετικές γλώσσες ως υπότιτλους**. [Οι οδηγίες για να δείτε τις μεταφράσεις](#translations) είναι παρακάτω.
-* Στο <span lang="en">YouTube</span>: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
-{% comment %}
-* Στον ιστότοπο του <span lang="en">W3C</span>: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
-{% endcomment %}
-* Ως **[Μεταγραφή Κειμένου (<span lang="en">Transcript</span>) με Περιγραφή των Οπτικών Στοιχείων](#transcript)** παρακάτω.
+* **Σε διαφορετικές γλώσσες** — [Οι οδηγίες για να δείτε τις μεταφράσεις](#translations) είναι παρακάτω.
+* Ως **[Μεταγραφή Κειμένου (Transcript) με Περιγραφή των Οπτικών Στοιχείων](#transcript)** παρακάτω.
+* [Στο YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* Σε εξυπηρετητή (server) του W3C — [βίντεο (τύπος αρχείου: MP4, μέγεθος αρχείου: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Αρχείο ελληνικών υπότιτλών (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.el.vtt), [λίστα αρχείων άλλων γλωσσών](http://media.w3.org/wai/accessibility-intro/)
 
 ## Μάθετε Περισσότερα {#moreinfo}
 
 Για περισσότερες πληροφορίες, δείτε:
 
--   [**Εισαγωγή στην Προσβασιμότητα στον Παγκόσμιο Ιστό**](https://www.w3.org/WAI/intro/accessibility)
--   [**Βίντεο με Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό**: Εξερευνήστε τον Αντίκτυπο και τα Οφέλη για Όλους](https://www.w3.org/WAI/perspectives/) — βίντεο και πληροφορίες σχετικά με συγκεκριμένα θέματα προσβασιμότητας.
--   [**Ιστότοπος του <span lang="en">WAI</span>**](https://www.w3.org/WAI/) — για να βρείτε ένα ευρύ φάσμα πηγών για διάφορες πτυχές της προσβασιμότητας στον Παγκόσμιο Ιστό όπως για: [πρότυπα]( https://www.w3.org/WAI/standards-guidelines/), [εκπαίδευση]( https://www.w3.org/WAI/teach-advocate/), [δοκιμή (<span lang="en">testing</span>) / αξιολόγηση]( https://www.w3.org/WAI/test-evaluate/), [διαχείριση έργου και πολιτική]( https://www.w3.org/WAI/planning/).
+* **{% include link.html to="/intro/accessibility/" fallback="Εισαγωγή στην Προσβασιμότητα στον Παγκόσμιο Ιστό" %}**
+* {% include link.html to="/perspective-videos/" fallback="**Βίντεο με Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό**: Εξερευνήστε τον Αντίκτυπο και τα Οφέλη για Όλους" %} — βίντεο και πληροφορίες σχετικά με συγκεκριμένα θέματα προσβασιμότητας.
+* **{% include link.html to="/" fallback="Ιστότοπος του <span lang='en'>WAI</span>" %}** — για να βρείτε ένα ευρύ φάσμα πηγών για διάφορες πτυχές της προσβασιμότητας στον Παγκόσμιο Ιστό όπως για: {% include link.html to="/standards-guidelines/" text="πρότυπα" %}, {% include link.html to="/teach-advocate/" text="εκπαίδευση" %}, {% include link.html to="/test-evaluate/" text="δοκιμή (<span lang='en'>testing</span>) / αξιολόγηση" %}, {% include link.html to="/planning/" text="διαχείριση έργου και πολιτική" %}.
 
 ## Δικαίωμα Χρήσης Βίντεο {#permission}
 
-Μπορείτε να χρησιμοποιήσετε αυτό το βίντεο εάν συμπεριλάβετε έναν σύνδεσμο προς αυτήν τη σελίδα. Περισσότερες πληροφορίες διατίθενται στο [Χρησιμοποιώντας Υλικά του <span lang="en">WAI</span>: Άδεια Χρήσης με Απόδοση (<span lang="en">Attribution</span>)](https://www.w3.org/WAI/about/using-wai-material/).
+Μπορείτε να χρησιμοποιήσετε αυτό το βίντεο εάν συμπεριλάβετε έναν σύνδεσμο προς αυτήν τη σελίδα. Περισσότερες πληροφορίες διατίθενται στο {% include link.html to="/about/using-wai-material/" fallback="Χρησιμοποιώντας Υλικά του <span lang='en'>WAI</span>: Άδεια Χρήσης με Απόδοση (<span lang='en'>Attribution</span>)" %}.
 
 ## Περιγραφή Ήχου {#audio-description}
 
 Αυτό το βίντεο δεν περιλαμβάνει περιγραφή ήχου, επειδή τα οπτικά στοιχεία υποστηρίζουν μόνο τον ήχο και δεν παρέχουν πρόσθετες πληροφορίες. Σε αυτήν την περίπτωση, η περιγραφή ήχου θα ήταν πιο ενοχλητική απ' ότι χρήσιμη για τους περισσότερους ανθρώπους, συμπεριλαμβανομένων των ανθρώπων που δεν μπορούν να δουν τα οπτικά στοιχεία. Η Μεταγραφή Κειμένου με Περιγραφή παρακάτω περιλαμβάνει περιγραφές των υποστηρικτικών οπτικών στοιχείων.
 
-Αν θέλετε παραδείγματα βίντεο με περιγραφή του ήχου, δείτε: [Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό: Αναγνώριση φωνής - Περιγραφόμενη Έκδοση Ήχου (λίστα αναπαραγωγής <span lang="en">YouTube</span>)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), ή μπορείτε να επιλέξετε ένα από τα βίντεο στην [ιστοσελίδα Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό](https://www.w3.org/WAI/perspectives/) και επιλέξτε "<span lang="en">Enable Audio Description</span>".
+Αν θέλετε παραδείγματα βίντεο με περιγραφή του ήχου, δείτε: [Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό: Αναγνώριση φωνής - Περιγραφόμενη Έκδοση Ήχου (λίστα αναπαραγωγής <span lang="en">YouTube</span>)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), ή μπορείτε να επιλέξετε ένα από τα βίντεο στην {% include link.html to="/perspective-videos/" text="ιστοσελίδα Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό" %} και επιλέξτε "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+{% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
+("<span lang='en'>Enable Audio Description</span>").
+(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+{% endcomment %}
 
 ## Μεταγραφή Κειμένου (<span lang="en">Transcript</span>) με Περιγραφή των Οπτικών Στοιχείων {#transcript}
 
@@ -188,6 +191,8 @@ footer: > # translate the words below; do NOT change the dates.
 
 ## Μεταφράσεις {#translations}
 
+Υπάρχουν μερικές μεταφράσεις αυτής της ιστοσελίδας. Συνδέονται στο πάνω μέρος αυτής της σελίδας.<br>Υπάρχουν **περισσότερες μεταφράσεις μόνο του βίντεο**. Διατίθενται υπότιτλοι και μεταγραφές (<span lang="en">transcripts</span>).
+
 Για να λάβετε μεταφράσεις στην περιοχή υπότιτλων στο κάτω μέρος του βίντεο:
 
 1. Επιλέξτε <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "<span lang="en">Captions</span>".
@@ -202,4 +207,4 @@ footer: > # translate the words below; do NOT change the dates.
 
 ### Μετάφραση σε άλλες γλώσσες
 
-Χαιρετίζουμε επιπλέον μεταφράσεις του [αρχείου <span lang="en">VTT</span>]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}). Παρακαλούμε, στείλτε τα μεταφρασμένα αρχεία <span lang="en">VTT</span> στο <span lang="en"><wai@w3.org></span>.
+Χαιρετίζουμε επιπλέον μεταφράσεις. Εάν μεταφράσετε το [VTT αρχείο]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), παρακαλούμε, στείλτε το στο <public-wai-translations@w3.org>. Αν θέλετε να μεταφράσετε ολόκληρη την ιστοσελίδα ή άλλες, παρακαλούμε, δείτε τις {% include link.html to="/about/translating/" fallback="Οδηγίες Μετάφρασης του <span lang='en'>WAI</span>" %}.

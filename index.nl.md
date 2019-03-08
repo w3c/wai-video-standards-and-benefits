@@ -1,7 +1,8 @@
 ---
 title: "Video-introductie over Web-toegankelijkheid en W3C-standaarden"
+nav_title: "Video-introductie" # A short title that is used in the navigation
 lang: nl
-last_updated: 2019-01-10
+last_updated: 2019-03-07
 translator: Bert Bos
 permalink: /videos/standards-and-benefits/nl
 ref: /videos/standards-and-benefits/
@@ -10,44 +11,50 @@ github:
   repository: w3c/wai-video-standards-and-benefits
   path: 'index.nl.md'
 feedbackmail: wai@w3.org
+changelog: /videos/standards-and-benefits/changelog/
 footer: > # Text in footer in HTML
-  <p><strong>Datum:</strong> Bijgewerkt 29 december 2018. Eerste publicatie 4 december 2017.</p>
+  <p><strong>Datum:</strong> Bijgewerkt 29 december 2018. Eerste publicatie 4 december 2017. CHANGELOG.</p>
   <p>Project-leider: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Bijdragen: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Video-opnames en -bewerking: Ulrich Grimm, av-design GmbH.</p>
 ---
 
 {% include video-player.html 
            yt-id="20SHvU2PKsM" 
-           captions="/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt|en|Engelse ondertiteling"
-           subtitles="/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ar.vtt|ar|Arabische ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.de.vtt|de|Duitse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.es.vtt|es|Spaanse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.fr.vtt|fr|Franse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.gj.vtt|gj|Gujarati ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.hn.vtt|hn|Hindi ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.kn.vtt|kn|Kannada ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ko.vtt|ko|Koreaanse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ml.vtt|ml|Malayalam ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.mr.vtt|mr|Marathi ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.nl.vtt|nl|Nederlandse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.pt-br.vtt|pt-br|Portugese (Br) ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.tl.vtt|tl|Tagalog/Filipijnse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.zh.vtt|zh|Chinese ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.ja.vtt|ja|Japanse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.it.vtt|it|Italiaanse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.hu.vtt|hu|Hongaarse ondertiteling,/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.el.vtt|el|Griekse ondertiteling"
+           path="/content-images/wai-video-standards-and-benefits/"
+           captions="W3C_INTRO_SFHI.vtt|en"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl|default,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
            %}
 
-
-
 Informatie over deze video is beschikbaar
-* **In verschillende talen als ondertiteling**. [Instructies om de vertalingen te zien](#translations) staan hieronder.
-* Op YouTube: [https://www.youtube.com/watch?v=20SHvU2PKsM](https://www.youtube.com/watch?v=20SHvU2PKsM)
-{% comment %}
-* Op de W3C-website: [http://media.w3.org/@@.mp4](http://media.w3.org/@@)
+* **In verschillende talen** — [Instructies om de vertalingen te zien](#translations) staan hieronder
+* Als een **[transcriptie met beschrijving van de beelden](#transcript)** hieronder
+* [Op YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* Op een W3C-website — [video (formaat: MP4, groottee: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Nederlandse ondertitels (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.nl.vtt), [lijst van andere talen](http://media.w3.org/wai/accessibility-intro/)
+{% comment %}# For translations, replace:
+"[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
+"[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
 {% endcomment %}
-* Als een **[transcriptie met beschrijving van de beelden](#transcript)** hieronder.
 
 ## Meer informatie vinden {#moreinfo}
 
 Voor meer informatie, zie:
 
--   [**Introductie over Web-toegankelijkheid**](https://www.w3.org/WAI/intro/accessibility)
--   [**Video gezichtspunten op Web-toegankelijkheid**: Ontdek de invloed op en voordelen voor iedereen](https://www.w3.org/WAI/perspectives/) — video's en informatie over specifieke toegankelijkheidsonderwerpen.
--   [**WAI website**](https://www.w3.org/WAI/) — om een breed scala aan hulpbronnen te vinden over verschillende aspecten van web-toegankelijkheid [standaarden]( https://www.w3.org/WAI/standards-guidelines/), [onderwijs]( https://www.w3.org/WAI/teach-advocate/), [testen/evaluatie]( https://www.w3.org/WAI/test-evaluate/), [project-beheer, en beleid]( https://www.w3.org/WAI/planning/).
+-   {% include link.html to="/intro/accessibility/" text="**Introductie over Web-toegankelijkheid**" %}
+-   {% include link.html to="/perspective-videos/" text="**Video gezichtspunten op Web-toegankelijkheid**: Ontdek de invloed op en voordelen voor iedereen" %} — video's en informatie over specifieke toegankelijkheidsonderwerpen.
+-   {% include link.html to="/" text="**WAI website**" %} — om een breed scala aan hulpbronnen te vinden over verschillende aspecten van web-toegankelijkheid {% include link.html to="/standards-guidelines/" text="standaarden" %}, {% include link.html to="/teach-advocate/" text="onderwijs" %}, {% include link.html to="/test-evaluate/" text="testen/evaluatie" %}, {% include link.html to="/planning/" text="project-beheer, en beleid" %}.
 
 ## Permissie om de video te gebruiken {#permission}
 
-U mag deze video gebruiken als u een link naar deze pagina bijsluit. Meer informatie is beschikbaar in [WAI-materiaal gebruiken: gebruik toegestaan met naamsvermelding](https://www.w3.org/WAI/about/using-wai-material/).
+U mag deze video gebruiken als u een link naar deze pagina bijsluit. Meer informatie is beschikbaar in {% include link.html to="/about/using-wai-material/" fallback="WAI-materiaal gebruiken: gebruik toegestaan met naamsvermelding" %}.
 
 ## Audiodescriptie {#audio-description}
 
 Deze video bevat geen audiodescriptie, omdat de beelden alleen het geluid ondersteunen en geen aanvullende informatie bieden. In dit geval zou de audiodescriptie voor de meeste mensen eerder afleiden dan van nut zijn, ook voor mensen die de beelden niet kunnen zien. De transcriptie met beschrijving hieronder bevat beschrijvingen van de ondersteunende beelden.
 
-Als u voorbeelden wilt van video's met audiodescriptie, zie dan [Gezichtspunten op Web-toegankelijkheid - Audio beschreven (Youtube-afspeellijst)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), of u kunt één van de video's kiezen op de [webpagina over Gezichtspunten op Web-toegankelijkheid](https://www.w3.org/WAI/perspectives/) en "audiodescriptie aanzetten" selecteren.
+Als u voorbeelden wilt van video's met audiodescriptie, zie dan [Gezichtspunten op Web-toegankelijkheid - Audio beschreven (Youtube-afspeellijst)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Of u kunt één van de video's kiezen op de [webpagina over Gezichtspunten op Web-toegankelijkheid](https://www.w3.org/WAI/perspective-videos/) en "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>") selecteren.
+{% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
+("<span lang='en'>Enable Audio Description</span>").
+(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+{% endcomment %}
 
 ## Transcriptie met beschrijving van de beelden {#transcript}
 
@@ -185,9 +192,11 @@ w3.org/WAI</td>
 
 ## Vertalingen {#translations}
 
+Er zijn vertalingen van deze complete Web-pagina. Ze zijn gelinkt bovenaan deze pagina.<br> Er zijn **meer vertalingen van alleen de video**. Ze zijn beschikbaar als ondertitels en transcripties.
+
 Om vertalingen weer te geven in de ruimte voor ondertitels onderaan de video:
 
-1. Kies <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "ondertiteling".
+1. Kies <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Ondertiteling".
 
 2. Kies de taal.
 
@@ -195,9 +204,9 @@ Om de vertalingen weer te geven in een apart veld voor transcripties:
 
 1. Kies "Toon transcript".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Gebruik het Taal-menu om de ondertiteling te kiezen.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Gebruik het Taal-menu om de ondertiteling te kiezen.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.nl.png" | relative_url }}' alt="">
 
 ### Vertalen in andere talen
 
-We verwelkomen nieuwe vertalingen van het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}). Zend vertaalde VTT-bestanden naar <wai@w3.org>.
+We verwelkomen nieuwe vertalingen. Als u het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}) vertaalt, zend het naar <public-wai-translations@w3.org>. Als u deze hele pagina of andere pagina's wilt vertalen, kijk dan op {% include link.html to="/about/translating/" fallback="WAI-hulpbronnen vertalen" %}.
 

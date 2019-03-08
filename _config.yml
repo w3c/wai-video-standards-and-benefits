@@ -22,6 +22,8 @@ exclude:
   - "README.md"
   - "w3c.json"
 
+published: true
+
 # Build settings
 markdown: kramdown
 kramwdown:
@@ -33,7 +35,7 @@ repository: w3c/wai-video-standards-and-benefits
 
 ytkey: "AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI"
 
-remote_theme: w3c/wai-website-theme-beta
+remote_theme: w3c/wai-website-theme
 
 collections:
 
