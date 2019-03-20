@@ -26,7 +26,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 本動画は下記でご覧いただけます：
 * **言語** — [字幕の使用説明書](#translations)は下記の通りです
-* は **[画像の説明文](#transcript)**下記の通り
+* **[画像の説明文](#transcript)**は下記の通りです
 * [YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
 * W3C — [MP4、28MB](http://media.w3.org/wai/accessibility-intro/intro.mp4), [日本語字幕 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt), [他言語翻訳](http://media.w3.org/wai/accessibility-intro/)
 {% comment %}# For translations, replace:
@@ -44,7 +44,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## 本動画使用許可 {#permission}
 
-本動画を使用したい場合は下記のリンクを添付して下さい。詳しくは {% include link.html to="/about/using-wai-material/" text="WAI資料を使用するには：属性使用の許可" %}.
+本動画を使用したい場合は下記のリンクを添付して下さい。詳細: {% include link.html to="/about/using-wai-material/" text="WAI資料使用方法：属性使用の許可" %}.
 
 ## 音声 {#audio-description}
 
@@ -180,7 +180,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
       <td>[シャディが話している]</td>
     </tr>
     <tr>
-      <td>ウェブアクセシビリティのさらに詳しいお問い合わせはw3.org/WAIをご覧ください。</td>
+      <td>ウェブアクセシビリティの詳細はw3.org/WAIをご覧ください。</td>
       <td>W3C Web Accessibility Initiative<br>
 w3.org/WAI</td>
     </tr>
@@ -191,7 +191,7 @@ w3.org/WAI</td>
 
 本ウェブページは翻訳を備えています。そのリンクは本ページ冒頭にあります。<br>**動画の翻訳**には、字幕とシナリオがあります。
 
-キャプションお翻訳の入手は本動画末尾をご覧ください：
+キャプション翻訳の入手は本動画末尾をご覧ください：
 
 1. 選択 <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "キャプション".
 
@@ -199,9 +199,9 @@ w3.org/WAI</td>
 
 翻訳されたシナリオ：
 
-1. "字幕を見る"を選択.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. "字幕を見る"を選択<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. ドロップダウンで選択した字幕の言語を使用する<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.ja.png" | relative_url }}' alt="">
+2. ドロップダウンで選択した字幕の言語を使用<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.ja.png" | relative_url }}' alt="">
 
 ### 多言語の翻訳
 
