@@ -50,7 +50,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 本動画は動画のみをサポートし音声描写を含んでいないため、視覚に難しさを持つ人や多くの人にとって物足りない音声情報である可能性がありますが、シナリオが視覚をサポートします。
 
-音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から ー 音声 (YouTubeプレイリスト)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)、{% include link.html to="/perspective-videos/" text="ウェブアクセシビリティの観点から" %}、”音声描写を有効化するために”を参照下さい
+音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から ー 音声 (YouTubeプレイリスト)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)、{% include link.html to="/perspective-videos/" text="ウェブアクセシビリティの観点から" %}、”音声描写を有効化するために”を参照下さい。
 
 ## 視覚に対する説明文 {#transcript}
 
