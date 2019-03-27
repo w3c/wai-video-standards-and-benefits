@@ -17,7 +17,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
-<div dir="rtl">
+<div dir=rtl markdown=1>
 
 {% include video-player.html
           yt-id="20SHvU2PKsM"
@@ -59,7 +59,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
           <th>البصري</th>
         </tr>
       </thead>
-      <tbody dir="rtl">
+      <tbody>
         <tr>
           <td>أهلا! اسمي شادي أبو زهرة.‪ أنا إختصاصي في استراتيجية
             وتكنولوجيا الولوجيات عند W3C، مَجمَع شبكة الويب العالمية،
