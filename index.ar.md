@@ -13,7 +13,7 @@ github:
   repository: w3c/wai-video-standards-and-benefits
   path: 'index.ar.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-<div dir="rtl">
+  <div dir="rtl">
   <p><strong>االتاريخ:</strong> تم التحديث في 21 فبراير 2019. تم النشر لأول مرة في 4 ديسمبر 2017. <a href="./changelog/">سجل التغييرات</a>.</p>
   <p>قيادة المشروع: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. المساهمة: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. مصور وناشر فيديو: Ulrich Grimm, av-design GmbH.</p>
   </div>
