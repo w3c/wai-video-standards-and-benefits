@@ -17,7 +17,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
-<div dir=rtl markdown=1>
+<div dir="rtl" markdown="1">
 
 {% include video-player.html
           yt-id="20SHvU2PKsM"
