@@ -69,7 +69,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
           <th>البصري</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody dir="rtl">
         <tr>
           <td>أهلا! اسمي شادي أبو زهرة.‪ أنا إختصاصي في استراتيجية
             وتكنولوجيا الولوجيات عند W3C، مَجمَع شبكة الويب العالمية،
