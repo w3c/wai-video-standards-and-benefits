@@ -219,9 +219,11 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## ترجمات {#translations}
 هناك بعض الترجمات لهذه الصفحة بأكملها. الروابط في أعلى هذه الصفحة. <br> هناك ** عدة ترجمات للفيديو  فقط**. وهي متوفرة على شكل عناوين فرعية ونسخ.
+
 للحصول على ترجمات في منطقة التسميات التوضيحية أسفل الفيديو:
 1. اختيار <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "التسميات التوضيحية".
 2. اختيار اللغة.
+
 للحصول على ترجمات في منطقة نسخ منفصلة:
 1. اختيار "عرض النسخة".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 2. استخدم القائمة "اللغة" لاختيار العناوين الفرعية.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
