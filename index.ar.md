@@ -17,6 +17,8 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
+<div dir="rtl">
+
 {% include video-player.html
           yt-id="20SHvU2PKsM"
           path="/content-images/wai-video-standards-and-benefits/"
@@ -230,3 +232,5 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ### ترجمة إلى لغات أخرى
  نرحب بترجمات إضافية، إذا قمت بترجمة [ملف VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})، يرجى إرسالها إلى <public-wai-translations@w3.org>. إذا كنت ترغب في ترجمة صفحة الويب هذه أو غيرها ، فيرجى الرجوع إلى {% include link.html to="/about/translating/" fallback="ترجمة موارد WAI" %}.
+ 
+</div>
