@@ -1,27 +1,29 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "مقدمة فيديو إلى ولوجية الويب ومعايير W3C"   # Do not translate "title:". Do translate the text after "title:".
+title: "مقدمة فيديو إلى ولوجية الويب ومعايير W3C"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "مقدمة فيديو" # A short title that is used in the navigation
-lang: ar-MA   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-03-24   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translator: "نجيب التونسي"   # Replace @@ with name or names separated with a comma
-permalink: /videos/standards-and-benefits/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /videos/standards-and-benefits/   # Do not change this
+lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2019-03-24   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+translator: "نجيب التونسي"   # Replace @@ with name or names separated with a comma
+permalink: /videos/standards-and-benefits/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
 github:
-  repository: w3c/wai-video-standards-and-benefits
-  path: 'index.md.ar'   # Add the language shortcode to the middle of the filename, for example index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>االتاريخ:</strong> تم التحديث في 21 فبراير 2019. تم النشر لأول مرة في 4 ديسمبر 2017. <a href="./changelog/">سجل التغييرات</a>.</p>
-  <p>قيادة المشروع: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. مصور وناشر فيديو: Ulrich Grimm, av-design GmbH.</p>
+  repository: w3c/wai-video-standards-and-benefits
+  path: 'index.md.ar'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
+  <p><strong>االتاريخ:</strong> تم التحديث في 21 فبراير 2019. تم النشر لأول مرة في 4 ديسمبر 2017. <a href="./changelog/">سجل التغييرات</a>.</p>
+  <p>قيادة المشروع: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. مصور وناشر فيديو: Ulrich Grimm, av-design GmbH.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
+
 {% include video-player.html
-          yt-id="20SHvU2PKsM"
-          path="/content-images/wai-video-standards-and-benefits/"
-          captions="W3C_INTRO_SFHI.vtt|en|default"
-          subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
-          %}
+          yt-id="20SHvU2PKsM"
+          path="/content-images/wai-video-standards-and-benefits/"
+          captions="W3C_INTRO_SFHI.vtt|en|default"
+          subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
+          %}
+
 معلومات الفيديو هذه متاحة:
 * **بلغات مختلفة** — [تعليمات لمشاهدة العناوين الفرعية والنسخ](#translations) كما يلي
 * كـ **[نسخ النص مع وصف العناصر البصرية](#transcript)** أدناه
@@ -31,17 +33,20 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
 "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
 {% endcomment %}
+
 ## تعلم المزيد {#moreinfo}
 لمزيد من المعلومات ، انظر:
-*   {% include link.html to="/intro/accessibility/" fallback="**مقدمة ولوجيات الويب**" %}
-*   {% include link.html to="/perspective-videos/" fallback="**فيديو أفاق ولوجيات الويب**: استكشف التأثير والفوائد للجميع" %} — مقاطع الفيديو ومعلومات حول موضوعات الولوجيات محددة.
-*   {% include link.html to="/" text="**موقع WAI**" %} — للعثور على مجموعة واسعة من الموارد على جوانب مختلفة من ولوجيات الويب {% include link.html to="/standards-guidelines/" text="معايير" %}, {% include link.html to="/teach-advocate/" text="تربية" %}, {% include link.html to="/test-evaluate/" text="اختبار / تقييم" %}, {% include link.html to="/planning/" text="إدارة المشاريع ، والسياسة العامة" %}.
+*   {% include link.html to="/intro/accessibility/" fallback="**مقدمة ولوجيات الويب**" %}
+*   {% include link.html to="/perspective-videos/" fallback="**فيديو أفاق ولوجيات الويب**: استكشف التأثير والفوائد للجميع" %} — مقاطع الفيديو ومعلومات حول موضوعات الولوجيات محددة.
+*   {% include link.html to="/" text="**موقع WAI**" %} — للعثور على مجموعة واسعة من الموارد على جوانب مختلفة من ولوجيات الويب {% include link.html to="/standards-guidelines/" text="معايير" %}, {% include link.html to="/teach-advocate/" text="تربية" %}, {% include link.html to="/test-evaluate/" text="اختبار / تقييم" %}, {% include link.html to="/planning/" text="إدارة المشاريع ، والسياسة العامة" %}.
+
 ## إذن لاستخدام الفيديو {#permission}
 يمكنك استعمال هذا الفيديو بإدراج رابط لهذه الصفحة. مزيد من المعلومات متاحة في {% include link.html to="/about/using-wai-material/" fallback="استخدام مواد WAI: إذن للاستخدام بالنسب" %}.
+
 ## الوصف السمعي {#audio-description}
 لا يشمل هذا الفيديو وصف سمعي لان العناصر البصرية تهتم بالسمع فقط ولا توفر معلومات اضافية.  في هذه الحالة سيكون الوصف السمعي أكثر تشويهاً مما هو مفيد لمعظم الأشخاص، بما في ذلك الأشخاص الذين لا يستطيعون رؤية العناصر البصرية. يتضمن النص مع الوصف أدناه وصفًا للعناصر البصرية المدعومة.
 إذا كنت تريد أمثلة لأشرطة فيديو مع الوصف السمعي، انظر [آفاق ولوجية الويب – الموصوفة سمعيا (قائمة تشغيل YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). أو يمكنك اختيار واحد من أشرطة الفيديو على {% include link.html to="/perspective-videos/" text="صفحة آفاق ولوجية الويب" %} واختيار "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
-{% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, leave this: ("<span lang='en'>Enable Audio Description</span>"). (Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+{% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, leave this: ("<span lang='en'>Enable Audio Description</span>"). (Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
 {% endcomment %}
 
 ## نسخ النص مع وصف العناصر البصرية {#transcript}
@@ -211,6 +216,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
         </tr>
       </tbody>
     </table>
+
 ## ترجمات {#translations}
 هناك بعض الترجمات لهذه الصفحة بأكملها. الروابط في أعلى هذه الصفحة. <br> هناك ** عدة ترجمات للفيديو  فقط**. وهي متوفرة على شكل عناوين فرعية ونسخ.
 للحصول على ترجمات في منطقة التسميات التوضيحية أسفل الفيديو:
@@ -219,5 +225,6 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 للحصول على ترجمات في منطقة نسخ منفصلة:
 1. اختيار "عرض النسخة".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 2. استخدم القائمة "اللغة" لاختيار العناوين الفرعية.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+
 ### ترجمة إلى لغات أخرى
- نرحب بترجمات إضافية، إذا قمت بترجمة [ملف VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})، يرجى إرسالها إلى <public-wai-translations@w3.org>. إذا كنت ترغب في ترجمة صفحة الويب هذه أو غيرها ، فيرجى الرجوع إلى {% include link.html 
+ نرحب بترجمات إضافية، إذا قمت بترجمة [ملف VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})، يرجى إرسالها إلى <public-wai-translations@w3.org>. إذا كنت ترغب في ترجمة صفحة الويب هذه أو غيرها ، فيرجى الرجوع إلى {% include link.html to="/about/translating/" fallback="ترجمة موارد WAI" %}.
