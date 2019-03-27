@@ -38,21 +38,26 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% endcomment %}
 
 ## تعلم المزيد {#moreinfo}
+
 لمزيد من المعلومات ، انظر:
 *   {% include link.html to="/intro/accessibility/" fallback="**مقدمة ولوجيات الويب**" %}
 *   {% include link.html to="/perspective-videos/" fallback="**فيديو أفاق ولوجيات الويب**: استكشف التأثير والفوائد للجميع" %} — مقاطع الفيديو ومعلومات حول موضوعات الولوجيات محددة.
 *   {% include link.html to="/" text="**موقع WAI**" %} — للعثور على مجموعة واسعة من الموارد على جوانب مختلفة من ولوجيات الويب {% include link.html to="/standards-guidelines/" text="معايير" %}, {% include link.html to="/teach-advocate/" text="تربية" %}, {% include link.html to="/test-evaluate/" text="اختبار / تقييم" %}, {% include link.html to="/planning/" text="إدارة المشاريع ، والسياسة العامة" %}.
 
 ## إذن لاستخدام الفيديو {#permission}
+
 يمكنك استعمال هذا الفيديو بإدراج رابط لهذه الصفحة. مزيد من المعلومات متاحة في {% include link.html to="/about/using-wai-material/" fallback="استخدام مواد WAI: إذن للاستخدام بالنسب" %}.
 
 ## الوصف السمعي {#audio-description}
+
 لا يشمل هذا الفيديو وصف سمعي لان العناصر البصرية تهتم بالسمع فقط ولا توفر معلومات اضافية.  في هذه الحالة سيكون الوصف السمعي أكثر تشويهاً مما هو مفيد لمعظم الأشخاص، بما في ذلك الأشخاص الذين لا يستطيعون رؤية العناصر البصرية. يتضمن النص مع الوصف أدناه وصفًا للعناصر البصرية المدعومة.
+
 إذا كنت تريد أمثلة لأشرطة فيديو مع الوصف السمعي، انظر [آفاق ولوجية الويب – الموصوفة سمعيا (قائمة تشغيل YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). أو يمكنك اختيار واحد من أشرطة الفيديو على {% include link.html to="/perspective-videos/" text="صفحة آفاق ولوجية الويب" %} واختيار "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, leave this: ("<span lang='en'>Enable Audio Description</span>"). (Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
 {% endcomment %}
 
 ## نسخ النص مع وصف العناصر البصرية {#transcript}
+
 </div>
     <table>
       <thead>
@@ -61,7 +66,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
           <th>البصري</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody dir="rtl">
         <tr>
           <td>أهلا! اسمي شادي أبو زهرة.‪ أنا إختصاصي في استراتيجية
             وتكنولوجيا الولوجيات عند W3C، مَجمَع شبكة الويب العالمية،
@@ -224,6 +229,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 <div markdown="1">
 
 ## ترجمات {#translations}
+
 هناك بعض الترجمات لهذه الصفحة بأكملها. الروابط في أعلى هذه الصفحة. <br> هناك ** عدة ترجمات للفيديو  فقط**. وهي متوفرة على شكل عناوين فرعية ونسخ.
 
 للحصول على ترجمات في منطقة التسميات التوضيحية أسفل الفيديو:
