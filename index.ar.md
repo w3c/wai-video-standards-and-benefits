@@ -62,14 +62,14 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 ## نسخ النص مع وصف العناصر البصرية {#transcript}
 
 </div>
-    <table>
+    <table dir="rtl">
       <thead>
         <tr>
           <th width="65%">السمعي</th>
           <th>البصري</th>
         </tr>
       </thead>
-      <tbody dir="rtl">
+      <tbody>
         <tr>
           <td>أهلا! اسمي شادي أبو زهرة.‪ أنا إختصاصي في استراتيجية
             وتكنولوجيا الولوجيات عند W3C، مَجمَع شبكة الويب العالمية،
