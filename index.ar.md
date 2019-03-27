@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 title: "مقدمة فيديو إلى ولوجية الويب ومعايير W3C"   # Do not translate "title:". Do translate the text after "title:".
-title_html: <span dir="rtl">"مقدمة فيديو إلى ولوجية الويب ومعايير W3C"</span> 
+title_html: <div dir="rtl">"مقدمة فيديو إلى ولوجية الويب ومعايير W3C"</div> 
 nav_title: "مقدمة فيديو" # A short title that is used in the navigation
 lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-03-24   # Put the date of this translation YYYY-MM-DD (with month in the middle)
