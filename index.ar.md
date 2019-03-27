@@ -17,7 +17,8 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
-<div dir="rtl" markdown="1">
+<div dir="rtl">
+<div markdown="1">
 
 {% include video-player.html
           yt-id="20SHvU2PKsM"
@@ -52,6 +53,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 {% endcomment %}
 
 ## نسخ النص مع وصف العناصر البصرية {#transcript}
+</div>
     <table>
       <thead>
         <tr>
@@ -218,6 +220,8 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
         </tr>
       </tbody>
     </table>
+    
+<div markdown="1">
 
 ## ترجمات {#translations}
 هناك بعض الترجمات لهذه الصفحة بأكملها. الروابط في أعلى هذه الصفحة. <br> هناك ** عدة ترجمات للفيديو  فقط**. وهي متوفرة على شكل عناوين فرعية ونسخ.
