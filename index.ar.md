@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 title: "مقدمة فيديو إلى ولوجية الويب ومعايير W3C"   # Do not translate "title:". Do translate the text after "title:".
-title_html: <div dir="rtl">"مقدمة فيديو إلى ولوجية الويب ومعايير W3C"</div> 
+title_html: "<div dir='rtl'>مقدمة فيديو إلى ولوجية الويب ومعايير W3C</div>"
 nav_title: "مقدمة فيديو" # A short title that is used in the navigation
 lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-03-24   # Put the date of this translation YYYY-MM-DD (with month in the middle)
@@ -240,7 +240,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 2. اختيار اللغة.
 
 للحصول على ترجمات في منطقة نسخ منفصلة:
-1. "<span lang='en'>Show transcript</span>" اختيار.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. اختيار "<span lang='en'>Show transcript</span>".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 2. استخدم القائمة "<span lang='en'>Language</span>" لاختيار العناوين الفرعية.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
 ### ترجمة إلى لغات أخرى
