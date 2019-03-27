@@ -62,7 +62,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 ## نسخ النص مع وصف العناصر البصرية {#transcript}
 
 </div>
-    <table dir="rtl">
+    <table>
       <thead>
         <tr>
           <th width="65%">السمعي</th>
