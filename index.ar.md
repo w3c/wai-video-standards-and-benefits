@@ -42,7 +42,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 لمزيد من المعلومات ، انظر:
 *   {% include link.html to="/intro/accessibility/" fallback="**مقدمة ولوجيات الويب**" %}
 *   {% include link.html to="/perspective-videos/" fallback="**فيديو أفاق ولوجيات الويب**: استكشف التأثير والفوائد للجميع" %} — مقاطع الفيديو ومعلومات حول موضوعات الولوجيات محددة.
-*   {% include link.html to="/" text="**موقع WAI**" %} — للعثور على مجموعة واسعة من الموارد على جوانب مختلفة من ولوجيات الويب {% include link.html to="/standards-guidelines/" text="معايير" %}, {% include link.html to="/teach-advocate/" text="تربية" %}, {% include link.html to="/test-evaluate/" text="اختبار / تقييم" %}, {% include link.html to="/planning/" text="إدارة المشاريع ، والسياسة العامة" %}.
+*   {% include link.html to="/" text="**موقع WAI**" %} — للعثور على مجموعة واسعة من الموارد على جوانب مختلفة من ولوجيات الويب {% include link.html to="/standards-guidelines/" text="معايير" %}، {% include link.html to="/teach-advocate/" text="تربية" %}، {% include link.html to="/test-evaluate/" text="اختبار / تقييم" %}، {% include link.html to="/planning/" text="إدارة المشاريع ، والسياسة العامة" %}.
 
 ## إذن لاستخدام الفيديو {#permission}
 
@@ -67,9 +67,9 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
   </thead>
   <tbody dir="rtl">
     <tr>
-      <td>أهلا! اسمي شادي أبو زهرة.‪ أنا إختصاصي في استراتيجية
-        وتكنولوجيا الولوجيات عند W3C، مَجمَع شبكة الويب العالمية،
-        واليوم أود أن أتحدث معك حول إمكانية الولوج إلى الويب.</td>
+      <td>أهلا! اسمي شادي أبو زهرة. أنا إختصاصي في استراتيجية
+            وتكنولوجيا الولوجيات عند W3C، مَجمَع شبكة الويب العالمية،
+            واليوم أود أن أتحدث معك حول إمكانية الولوج إلى الويب. </td>
       <td>إمكانية الولوج إلى الويب<br>
         [شادي يتحدث]</td>
     </tr>
