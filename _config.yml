@@ -35,7 +35,7 @@ repository: w3c/wai-video-standards-and-benefits
 
 ytkey: "AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI"
 
-remote_theme: w3c/wai-website-theme-beta
+remote_theme: w3c/wai-website-theme
 
 collections:
 
@@ -47,3 +47,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-include-cache
   - jekyll-remote-theme
+  - wai-website-plugin
