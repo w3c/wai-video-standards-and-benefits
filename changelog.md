@@ -16,7 +16,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
    <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
 ---
 
-_This changelog includes Markdown syntax to faciliate updating translations._
+_This changelog includes Markdown syntax to facilitate updating translations._
 
 ## To be published
 
@@ -51,6 +51,6 @@ _This changelog includes Markdown syntax to faciliate updating translations._
   {% endcomment %}{%endraw%}
   ```
 
-* **Added to meta-data**: `nav_title: "Video Introduction" # A short title that is used in the navigation`<br>(Translators: Please provide a transation of "Video Introduction", or confirm the one we put in there.)
+* **Added to meta-data**: `nav_title: "Video Introduction" # A short title that is used in the navigation`<br>(Translators: Please provide a translation of "Video Introduction", or confirm the one we put in there.)
 
 * Added link to changelog in the page footer.<br>(Translators: You do not need to do anything for this; it is added automatically.)
