@@ -4,9 +4,10 @@ title: "Vidéo : introduction à l’accessibilité web et aux standards du W3C"
 title_html: "Vidéo&#8239;: introduction à l’accessibilité web et aux standards du W3C" # translate this
 nav_title: "Introduction en vidéo" # A short title that is used in the navigation
 last_updated: 2018-03-07 # update date of this translation
-translator: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
-# contributors: "@@" # replace @@ with name(s) or delete this line
-contributors: "Sylvie Duchateau"
+translators: 
+- name: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
+contributors: 
+- name: "Sylvie Duchateau"
 permalink: /videos/standards-and-benefits/fr # Add the language shortcode; for example: /videos/standards-and-benefits/zh
 ref: /videos/standards-and-benefits/ # do NOT change this
 lang: fr # Translated language shortcode

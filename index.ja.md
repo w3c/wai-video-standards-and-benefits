@@ -4,7 +4,8 @@ title: "W3Cのアクセシビリティと標準技術"   # Do not translate "tit
 nav_title: “紹介" # A short title that is used in the navigation
 lang: ja   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-02-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translator: "Naomi Yoshizawa"   # Replace @@ with name or names separated with a comma
+translators: 
+- name: "Naomi Yoshizawa"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ja   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default

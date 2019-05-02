@@ -4,7 +4,8 @@ title: "Видео введение в веб-доступность и стан
 nav_title: "Введение" # A short title that is used in the navigation
 lang: ru   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-03-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translator: "Daniel Novichkov"   # Replace @@ with name or names separated with a comma
+translators: 
+- name: "Daniel Novichkov"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ru   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
