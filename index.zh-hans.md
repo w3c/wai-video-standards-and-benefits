@@ -40,9 +40,9 @@ footer: > # translate the words below; do NOT change the dates.
 
 有关详情，请参阅：
 
--   {% include link.html to="/intro/accessibility" text="**网页无障碍介绍**" %}
+-   {% include link.html to="/fundamentals/accessibility-intro/" text="**网页无障碍介绍**" %}
 -   {% include link.html to="/perspective-videos/" text="**网页无障碍愿景视频**: 探索对每个人的影响和好处" %} — 关于特定无障碍主题的视频和信息.
--   [**WAI网站**](https://www.w3.org/WAI/) — 从不同方面寻求有关网页无障碍的{% include link.html to=" /standards-guidelines/" text="标准" %}, {% include link.html to=" /teach-advocate/" text="教育" %}, {% include link.html to=" /test-evaluate/" text="测试/评价" %}, {% include link.html to=" /planning/" text="项目管理, 和政策" %}的资源.
+-   [**WAI网站**](https://www.w3.org/WAI/) — 从不同方面寻求有关网页无障碍的{% include link.html to="/standards-guidelines/" text="标准" %}, {% include link.html to="/teach-advocate/" text="教育" %}, {% include link.html to="/test-evaluate/" text="测试/评价" %}, {% include link.html to="/planning/" text="项目管理, 和政策" %}的资源.
 
 ## 使用视频的权限 {#permission}
 
