@@ -7,8 +7,6 @@ last_updated: 2019-03-07   # Put the date of this translation YYYY-MM-DD (with m
 translators:
 - name: "Sandra Kallmeyer"   # Replace @@ with name or names separated with a comma
   link: "https://screenorigami.com/"
-  org: "Outline Web Design & Consulting"
-  orglink: "https://outline.rocks"
 contributors:
 - name: "Stefanie Hegele"  # Replace @@ with name(s) or delete this line
 permalink: /videos/standards-and-benefits/de   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
