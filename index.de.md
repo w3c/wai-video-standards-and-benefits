@@ -6,7 +6,6 @@ lang: de   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2019-03-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
 - name: "Sandra Kallmeyer"   # Replace @@ with name or names separated with a comma
-  link: "https://screenorigami.com/"
 contributors:
 - name: "Stefanie Hegele"  # Replace @@ with name(s) or delete this line
 permalink: /videos/standards-and-benefits/de   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
