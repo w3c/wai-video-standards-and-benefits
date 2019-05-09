@@ -5,7 +5,8 @@ title_html: "مقدمة فيديو إلى ولوجية الويب ومعايير
 nav_title: "مقدمة فيديو" # A short title that is used in the navigation
 lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-03-24   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translator: "نجيب التونسي"   # Replace @@ with name or names separated with a comma
+translators: 
+- name: "نجيب التونسي"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
@@ -13,10 +14,8 @@ github:
   repository: w3c/wai-video-standards-and-benefits
   path: 'index.ar.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <div dir="rtl">
   <p><strong>االتاريخ:</strong> تم التحديث في 21 فبراير 2019. تم النشر لأول مرة في 4 ديسمبر 2017. <a href="./changelog/">سجل التغييرات</a>.</p>
   <p>قيادة المشروع: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. المساهمة: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. مصور وناشر فيديو: Ulrich Grimm, av-design GmbH.</p>
-  </div>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 

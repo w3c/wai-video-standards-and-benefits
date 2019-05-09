@@ -3,7 +3,9 @@
 title: "Εισαγωγικό Βίντεο για την Προσβασιμότητα στον Παγκόσμιο Ιστό (Web Accessibility) και τα Πρότυπα του W3C" # translate this
 nav_title: "Εισαγωγή Βίντεο" # A short title that is used in the navigation
 last_updated: 2019-03-07 # update date of this translation
-translator: "@pkoutsod" # replace @@ with name or names separated with a comma
+translators: 
+- name: "Πάνος Κουτσοδημητρόπουλος" # replace @@ with name or names separated with a comma
+  link: "https://gr.linkedin.com/in/panoskoutsodimitropoulos"
 permalink: /videos/standards-and-benefits/el # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
 lang: el # Translated language shortcode
