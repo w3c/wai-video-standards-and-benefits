@@ -35,7 +35,7 @@ Cette vidéo est disponible&#8239;:
 * **Dans différentes langues** — les [instructions pour voir les sous-titres et les transcriptions](#translations) sont ci-dessous
 * Sous forme de  **[transcription texte avec description des visuels](#transcript)** ci-dessous
 * [Sur YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* Sur un serveur du W3C — [vidéo (format&#8239;: MP4, taille de fichier&#8239;: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [fichier de sous-titres français (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.fr.vtt), [liste des atres fichiers de langues](http://media.w3.org/wai/accessibility-intro/)
+* Sur un serveur du W3C — [vidéo (format&#8239;: MP4, taille de fichier&#8239;: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [fichier de sous-titres français (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.fr.vtt), [liste des autres fichiers de langues](http://media.w3.org/wai/accessibility-intro/)
 
 ## En savoir plus {#moreinfo}
 
@@ -152,7 +152,7 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
     </tr>
     <tr>
       <td>Les plus connus sont les Recommandations de Contenus Web Accessibles (WCAG). Les WCAG sont aussi le standard ISO 40500, et elles ont été adoptées dans le standard européen nommé EN 301 549. Elles s’articulent autour de quatre grands principes&#8239;:</td>
-      <td><span lang="en">Web Content Accessibility Guidelines</span> (Règles pour l'accessibilité des contenus Web) - WCAG; ISO 40500; EN 301 549</td>
+      <td><span lang="en">Web Content Accessibility Guidelines</span> (Règles pour l’accessibilité des contenus Web) - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
       <td>Tout d’abord&#8239;: Perceptible. Par exemple, on doit pouvoir voir le contenu ou l’entendre.</td>
@@ -208,4 +208,4 @@ Pour afficher une traduction dans une zone de transcription séparée&#8239;:
 
 ### Traduire dans d’autres langues
 
-Les traductions additionnelles sont les bienvenues. Si vous traduisez le [fichier VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), merci de l’envoyer à <public-wai-translations@w3.org>. Si vous souhaitez traduire cette page web en entier, ou d’autres, merci de consuter {% include link.html to="/about/translating/" fallback="Traduire des ressources de WAI" %}.
+Les traductions additionnelles sont les bienvenues. Si vous traduisez le [fichier VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), merci de l’envoyer à <public-wai-translations@w3.org>. Si vous souhaitez traduire cette page web en entier, ou d’autres, merci de consulter {% include link.html to="/about/translating/" fallback="Traduire des ressources de WAI" %}.
