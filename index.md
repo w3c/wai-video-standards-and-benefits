@@ -43,7 +43,7 @@ For more information, see:
 
 * [[**Introduction to Web Accessibility**]](/intro/accessibility/)
 * [[**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone]](/perspective-videos/) — videos and information on specific accessibility topics.
-* [**WAI website**](/) — to find a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](/teach-advocate/), [testing/evaluation](/test-evaluate/), [project management, and policy](/planning/).
+* [**WAI website**](https://www.w3.org/WAI/) — to find a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](/teach-advocate/), [testing/evaluation](/test-evaluate/), [project management, and policy](/planning/).
 
 ## Permission to Use Video {#permission}
 

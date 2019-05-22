@@ -41,7 +41,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 -   [**ウェブアクセシビリティの紹介**](/intro/accessibility/)
 -   [**ウェブアクセシビリティとは**：すべての人に対する影響とその価値](/perspective-videos/) ー本動画と情報は特定のアクセシビリティ要件に特化しています
--   [**WAIウェブサイト**](/)ーウェブアクセシビリティの異なる様々な状況を幅広くサポートするために [標準](/standards-guidelines/), [教育](/teach-advocate/), [テスト／評価](/test-evaluate/), [プロジェクト管理と指針](/planning/).
+-   [**WAIウェブサイト**](https://www.w3.org/WAI/)ーウェブアクセシビリティの異なる様々な状況を幅広くサポートするために [標準](/standards-guidelines/), [教育](/teach-advocate/), [テスト／評価](/test-evaluate/), [プロジェクト管理と指針](/planning/).
 
 ## 本動画使用許可 {#permission}
 
