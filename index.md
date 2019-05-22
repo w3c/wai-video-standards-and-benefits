@@ -41,13 +41,13 @@ This video information is available:
 
 For more information, see:
 
-* {% include link.html to="/intro/accessibility/" fallback="**Introduction to Web Accessibility**" %}
-* {% include link.html to="/perspective-videos/" fallback="**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone" %} — videos and information on specific accessibility topics.
+* [[**Introduction to Web Accessibility**]](/intro/accessibility/)
+* [[**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone]](/perspective-videos/) — videos and information on specific accessibility topics.
 * [**WAI website**](/) — to find a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](/teach-advocate/), [testing/evaluation](/test-evaluate/), [project management, and policy](/planning/).
 
 ## Permission to Use Video {#permission}
 
-You may use this video if you include a link to this page. More information is available in {% include link.html to="/about/using-wai-material/" fallback="Using WAI Material: Permission to Use with Attribution" %}.
+You may use this video if you include a link to this page. More information is available in [[Using WAI Material: Permission to Use with Attribution]](/about/using-wai-material/).
 
 ## Audio Description {#audio-description}
 
@@ -213,4 +213,4 @@ To get translations in a separate transcript area:
 
 ### Translate into Other Languages
 
-We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see {% include link.html to="/about/translating/" fallback="Translating WAI Resources" %}.
+We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see [[Translating WAI Resources]](/about/translating/).

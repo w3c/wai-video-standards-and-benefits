@@ -41,13 +41,13 @@ Cette vidéo est disponible&#8239;:
 
 Pour plus d’information, voir&#8239;:
 
-* {% include link.html to="/intro/accessibility/" fallback="**Introduction à l’accessibilité web**" %}
-* {% include link.html to="/perspective-videos/" fallback="**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorer l’impact et les bénéfices pour tous" %} — vidéos et informations sur des sujets spécifiques d’accessibilité.
+* [[**Introduction à l’accessibilité web**]](/intro/accessibility/)
+* [[**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorer l’impact et les bénéfices pour tous]](/perspective-videos/) — vidéos et informations sur des sujets spécifiques d’accessibilité.
 * [**Le site de la WAI** (<span lang='en'>Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)](/) — pour trouver un grand nombre de ressources sur divers aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [sensibilisation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
 
 ## Permission pour l’utilisation de cette vidéo {#permission}
 
-Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur {% include link.html to="/about/using-wai-material/" fallback="Utiliser du contenu de WAI&#8239;: permission d’usage avec attribution" %}.
+Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page. Plus d’information est disponible sur [[Utiliser du contenu de WAI&#8239;: permission d’usage avec attribution]](/about/using-wai-material/).
 
 ## Audio-description {#audio-description}
 
@@ -208,4 +208,4 @@ Pour afficher une traduction dans une zone de transcription séparée&#8239;:
 
 ### Traduire dans d’autres langues
 
-Les traductions additionnelles sont les bienvenues. Si vous traduisez le [fichier VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), merci de l’envoyer à <public-wai-translations@w3.org>. Si vous souhaitez traduire cette page web en entier, ou d’autres, merci de consulter {% include link.html to="/about/translating/" fallback="Traduire des ressources de WAI" %}.
+Les traductions additionnelles sont les bienvenues. Si vous traduisez le [fichier VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), merci de l’envoyer à <public-wai-translations@w3.org>. Si vous souhaitez traduire cette page web en entier, ou d’autres, merci de consulter [[Traduire des ressources de WAI]](/about/translating/).

@@ -39,13 +39,13 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 ## تعلم المزيد {#moreinfo}
 
 لمزيد من المعلومات ، انظر:
-*   {% include link.html to="/intro/accessibility/" fallback="**مقدمة ولوجيات الويب**" %}
-*   {% include link.html to="/perspective-videos/" fallback="**فيديو أفاق ولوجيات الويب**: استكشف التأثير والفوائد للجميع" %} — مقاطع الفيديو ومعلومات حول موضوعات الولوجيات محددة.
+*   [[**مقدمة ولوجيات الويب**]](/intro/accessibility/)
+*   [[**فيديو أفاق ولوجيات الويب**: استكشف التأثير والفوائد للجميع]](/perspective-videos/) — مقاطع الفيديو ومعلومات حول موضوعات الولوجيات محددة.
 *   [**موقع WAI**](/) — للعثور على مجموعة واسعة من الموارد على جوانب مختلفة من ولوجيات الويب [معايير](/standards-guidelines/)، [تربية](/teach-advocate/)، [اختبار / تقييم](/test-evaluate/)، [إدارة المشاريع ، والسياسة العامة](/planning/).
 
 ## إذن لاستخدام الفيديو {#permission}
 
-يمكنك استعمال هذا الفيديو بإدراج رابط لهذه الصفحة. مزيد من المعلومات متاحة في {% include link.html to="/about/using-wai-material/" fallback="استخدام مواد WAI: إذن للاستخدام بالنسب" %}.
+يمكنك استعمال هذا الفيديو بإدراج رابط لهذه الصفحة. مزيد من المعلومات متاحة في [[استخدام مواد WAI: إذن للاستخدام بالنسب]](/about/using-wai-material/).
 
 ## الوصف السمعي {#audio-description}
 
@@ -238,4 +238,4 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ### ترجمة إلى لغات أخرى
 
-نرحب بترجمات إضافية، إذا قمت بترجمة [ملف VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})، يرجى إرسالها إلى <public-wai-translations@w3.org>. إذا كنت ترغب في ترجمة صفحة الويب هذه أو غيرها ، فيرجى الرجوع إلى {% include link.html to="/about/translating/" fallback="ترجمة موارد WAI" %}.
+نرحب بترجمات إضافية، إذا قمت بترجمة [ملف VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})، يرجى إرسالها إلى <public-wai-translations@w3.org>. إذا كنت ترغب في ترجمة صفحة الويب هذه أو غيرها ، فيرجى الرجوع إلى [[ترجمة موارد WAI]](/about/translating/).

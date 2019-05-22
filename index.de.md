@@ -44,13 +44,13 @@ Dieses Video ist verfügbar:
 
 ## Verwendung des Videos {#permission}
 
-Sie können dieses Video verwenden, wenn Sie einen Link zu dieser Seite hinzufügen. Weitere Informationen siehe {% include link.html to="/about/using-wai-material/" fallback="Verwendung von WAI-Material: Berechtigung zur Verwendung mit Angabe der Quelle" %}.
+Sie können dieses Video verwenden, wenn Sie einen Link zu dieser Seite hinzufügen. Weitere Informationen siehe [[Verwendung von WAI-Material: Berechtigung zur Verwendung mit Angabe der Quelle]](/about/using-wai-material/).
 
 ## Audiodeskription {#audio-description}
 
 Dieses Video enthält keine Audiodeskription, da das Bildmaterial lediglich das Audio unterstützt und keine zusätzlichen Informationen liefert. In diesem Fall wäre die Audiodeskription für die meisten Menschen, einschließlich jener, die die Bilder nicht sehen können, mehr ablenkend als nützlich. Das untenstehende Transkript enthält Beschreibungen des unterstützenden Bildmaterials.
 
-Beispiele für Videos mit Audiodeskription finden Sie unter [Web-Accessibility-Perspektiven – Audiodeskription (YouTube-Playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Alternativ können Sie eins der Videos auf der Seite {% include link.html to="/perspective-videos/" fallback="Web-Accessibility-Perspektiven" %} ansehen und „{% include t.html t="Enable Audio Description" %}“ („<span lang='en'>Enable Audio Description</span>”) auswählen.
+Beispiele für Videos mit Audiodeskription finden Sie unter [Web-Accessibility-Perspektiven – Audiodeskription (YouTube-Playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Alternativ können Sie eins der Videos auf der Seite [[Web-Accessibility-Perspektiven]](/perspective-videos/) ansehen und „{% include t.html t="Enable Audio Description" %}“ („<span lang='en'>Enable Audio Description</span>”) auswählen.
 
 ## Transkript mit Beschreibung des Bildmaterials {#transcript}
 
@@ -206,4 +206,4 @@ Es sind verschiedene Übersetzungen dieser gesamten Seite verfügbar. Diese sind
 
 ### Übersetzungen in andere Sprachen
 
-Wir freuen uns über weitere Übersetzungen. Wenn Sie die [VTT-Datei](/wai-video-standards-and-benefits/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt) übersetzen, senden Sie sie bitte an <public-wai-translations@w3.org>. Falls Sie diese gesamte Seite oder andere übersetzen möchten, lesen Sie bitte {% include link.html to="/about/translating/" fallback="WAI-Ressourcen übersetzen" %}.
+Wir freuen uns über weitere Übersetzungen. Wenn Sie die [VTT-Datei](/wai-video-standards-and-benefits/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt) übersetzen, senden Sie sie bitte an <public-wai-translations@w3.org>. Falls Sie diese gesamte Seite oder andere übersetzen möchten, lesen Sie bitte [[WAI-Ressourcen übersetzen]](/about/translating/).

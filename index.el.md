@@ -38,13 +38,13 @@ footer: > # translate the words below; do NOT change the dates.
 
 Για περισσότερες πληροφορίες, δείτε:
 
-* **{% include link.html to="/intro/accessibility/" fallback="Εισαγωγή στην Προσβασιμότητα στον Παγκόσμιο Ιστό" %}**
-* {% include link.html to="/perspective-videos/" fallback="**Βίντεο με Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό**: Εξερευνήστε τον Αντίκτυπο και τα Οφέλη για Όλους" %} — βίντεο και πληροφορίες σχετικά με συγκεκριμένα θέματα προσβασιμότητας.
+* **[[Εισαγωγή στην Προσβασιμότητα στον Παγκόσμιο Ιστό]](/intro/accessibility/)**
+* [[**Βίντεο με Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό**: Εξερευνήστε τον Αντίκτυπο και τα Οφέλη για Όλους]](/perspective-videos/) — βίντεο και πληροφορίες σχετικά με συγκεκριμένα θέματα προσβασιμότητας.
 * **[πρότυπα](/" fallback="Ιστότοπος του <span lang='en'>WAI</span>" %}** — για να βρείτε ένα ευρύ φάσμα πηγών για διάφορες πτυχές της προσβασιμότητας στον Παγκόσμιο Ιστό όπως για: {% include link.html to="/standards-guidelines/), [εκπαίδευση](/teach-advocate/), [δοκιμή (<span lang='en'>testing</span>) / αξιολόγηση](/test-evaluate/), [διαχείριση έργου και πολιτική](/planning/).
 
 ## Δικαίωμα Χρήσης Βίντεο {#permission}
 
-Μπορείτε να χρησιμοποιήσετε αυτό το βίντεο εάν συμπεριλάβετε έναν σύνδεσμο προς αυτήν τη σελίδα. Περισσότερες πληροφορίες διατίθενται στο {% include link.html to="/about/using-wai-material/" fallback="Χρησιμοποιώντας Υλικά του <span lang='en'>WAI</span>: Άδεια Χρήσης με Απόδοση (<span lang='en'>Attribution</span>)" %}.
+Μπορείτε να χρησιμοποιήσετε αυτό το βίντεο εάν συμπεριλάβετε έναν σύνδεσμο προς αυτήν τη σελίδα. Περισσότερες πληροφορίες διατίθενται στο [[Χρησιμοποιώντας Υλικά του <span lang='en'>WAI</span>: Άδεια Χρήσης με Απόδοση (<span lang='en'>Attribution</span>)]](/about/using-wai-material/).
 
 ## Περιγραφή Ήχου {#audio-description}
 
@@ -209,4 +209,4 @@ footer: > # translate the words below; do NOT change the dates.
 
 ### Μετάφραση σε άλλες γλώσσες
 
-Χαιρετίζουμε επιπλέον μεταφράσεις. Εάν μεταφράσετε το [VTT αρχείο]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), παρακαλούμε, στείλτε το στο <public-wai-translations@w3.org>. Αν θέλετε να μεταφράσετε ολόκληρη την ιστοσελίδα ή άλλες, παρακαλούμε, δείτε τις {% include link.html to="/about/translating/" fallback="Οδηγίες Μετάφρασης του <span lang='en'>WAI</span>" %}.
+Χαιρετίζουμε επιπλέον μεταφράσεις. Εάν μεταφράσετε το [VTT αρχείο]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), παρακαλούμε, στείλτε το στο <public-wai-translations@w3.org>. Αν θέλετε να μεταφράσετε ολόκληρη την ιστοσελίδα ή άλλες, παρακαλούμε, δείτε τις [[Οδηγίες Μετάφρασης του <span lang='en'>WAI</span>]](/about/translating/).
