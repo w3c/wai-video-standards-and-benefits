@@ -43,7 +43,7 @@ Pour plus d’information, voir&#8239;:
 
 * {% include link.html to="/intro/accessibility/" fallback="**Introduction à l’accessibilité web**" %}
 * {% include link.html to="/perspective-videos/" fallback="**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorer l’impact et les bénéfices pour tous" %} — vidéos et informations sur des sujets spécifiques d’accessibilité.
-* {% include link.html to="/" text="**Le site de la WAI** (<span lang='en'>Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)" %} — pour trouver un grand nombre de ressources sur divers aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [sensibilisation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
+* [**Le site de la WAI** (<span lang='en'>Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)](/) — pour trouver un grand nombre de ressources sur divers aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [sensibilisation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
 
 ## Permission pour l’utilisation de cette vidéo {#permission}
 
@@ -53,7 +53,7 @@ Vous pouvez utiliser cette vidéo si vous incluez un lien vers la présente page
 
 Cette vidéo ne comprend pas d’audio-description parce que les visuels ne servent qu’à illustrer le discours et ne fournissent pas d’informations complémentaires. Dans ce cas, une audio-description serait plus gênante qu’utile pour la plupart des visiteurs, y compris les personnes ne pouvant pas voir les images. La transcription avec description ci-dessous fournit des descriptions des visuels utilisés comme illustration.
 
-Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang="en">playlist</span> sur Youtube « Perspectives sur l’accessibilité web »](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-) ; vous pouvez aussi sélectionner l’une des vidéos de la page {% include link.html to="/perspective-videos/" text=" Perspectives sur l’accessibilité web" %}, et sélectionner « Activer l’audio-description » (« <span lang="en">Enable Audio Description</span> »).
+Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang="en">playlist</span> sur Youtube « Perspectives sur l’accessibilité web »](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-) ; vous pouvez aussi sélectionner l’une des vidéos de la page [ Perspectives sur l’accessibilité web](/perspective-videos/), et sélectionner « Activer l’audio-description » (« <span lang="en">Enable Audio Description</span> »).
 
 ## Transcription textuelle avec description des visuels {#transcript}
 

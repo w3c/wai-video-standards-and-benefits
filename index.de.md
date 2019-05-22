@@ -38,9 +38,9 @@ Dieses Video ist verfügbar:
 
 ## Weitere Informationen {#moreinfo}
 
-* {% include link.html to="/intro/accessibility/" text="**Einführung in die Web-Accessibility**" %}
-* {% include link.html to="/perspective-videos/" text="**Web-Accessibility-Perspektiven (Videos)**: Über die Bedeutung und den Nutzen für alle" %}:<br> Videos and Informationen zu spezifischen Accessibility-Themen.
-* {% include link.html to="/" text="**WAI-Website**" %} — Eine breite Palette von Ressourcen zu verschiedenen Aspekten der Web-Accessibility:<br> {% include link.html to="/standards-guidelines/" text="Standards" %}, {% include link.html to="/teach-advocate/" text="Bildung" %}, {% include link.html to="/test-evaluate/" text="Tests/Evaluierungen" %}, {% include link.html to="/planning/" text="Projektmanagement und Regeln" %}.
+* [**Einführung in die Web-Accessibility**](/intro/accessibility/)
+* [**Web-Accessibility-Perspektiven (Videos)**: Über die Bedeutung und den Nutzen für alle](/perspective-videos/):<br> Videos and Informationen zu spezifischen Accessibility-Themen.
+* [**WAI-Website**](/) — Eine breite Palette von Ressourcen zu verschiedenen Aspekten der Web-Accessibility:<br> [Standards](/standards-guidelines/), [Bildung](/teach-advocate/), [Tests/Evaluierungen](/test-evaluate/), [Projektmanagement und Regeln](/planning/).
 
 ## Verwendung des Videos {#permission}
 

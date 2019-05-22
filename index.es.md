@@ -42,18 +42,18 @@ Esta información del video está disponible:
 Para más información:
 
 - **{% include link.html to="/intro/accessibility/" fallback="Introducción a la Accesibilidad Web" %}**
-- {% include link.html to="/perspective-videos/" text="**Videos de perspectivas de la Accesibilidad Web**: explore el impacto y los beneficios para todo el mundo" %} – videos e información sobre temas específicos de accesibilidad.
-- El {% include link.html to="/" text="**sitio web de WAI**" %} – para encontrar una amplia gama de recursos sobre diferentes aspectos de los {% include link.html to="/standards-guidelines/" text="estándares" %}, {% include link.html to="/teach-advocate/" text="educación" %}, {% include link.html to="/test-evaluate/" text="pruebas/evaluación" %}, {% include link.html to="/planning/" text="gestión de proyectos y política" %} en la accesibilidad web.
+- [**Videos de perspectivas de la Accesibilidad Web**: explore el impacto y los beneficios para todo el mundo](/perspective-videos/) – videos e información sobre temas específicos de accesibilidad.
+- El [**sitio web de WAI**](/) – para encontrar una amplia gama de recursos sobre diferentes aspectos de los [estándares](/standards-guidelines/), [educación](/teach-advocate/), [pruebas/evaluación](/test-evaluate/), [gestión de proyectos y política](/planning/) en la accesibilidad web.
 
 ## Permiso para usar el video {#permission}
 
-Puede usar este video si incluye un enlace a esta página. Hay más información disponible en {% include link.html to="/about/using-wai-material/" text="Uso del material de WAI: permiso para usar con reconocimiento" %}.
+Puede usar este video si incluye un enlace a esta página. Hay más información disponible en [Uso del material de WAI: permiso para usar con reconocimiento](/about/using-wai-material/).
 
 ## Descripción de audio {#audio-description}
 
 Este video no incluye una descripción del audio porque las imágenes son de apoyo al audio y no proporcionan información adicional. En este caso, la descripción de audio distraería y no sería útil para la mayoría de las personas, incluidas las personas que no pueden ver las imágenes. La Transcripción con Descripción, mostrada a continuación, incluye descripciones de las imágenes de apoyo.
 
-Si desea ejemplos de videos con descripción de audio, consulte [Perspectivas de Accesibilidad Web – Audio descrito (lista de reproducción de YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxyczADee-). O puede seleccionar uno de los videos en la {% include link.html to="/perspective-videos/" text="página web de Perspectivas de la Accesibilidad Web" %} y seleccione "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+Si desea ejemplos de videos con descripción de audio, consulte [Perspectivas de Accesibilidad Web – Audio descrito (lista de reproducción de YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxyczADee-). O puede seleccionar uno de los videos en la [página web de Perspectivas de la Accesibilidad Web](/perspective-videos/) y seleccione "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
 (Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)

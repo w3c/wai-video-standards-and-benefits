@@ -38,19 +38,19 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 Подробнее см .:
 
-* {% include link.html to="/intro/accessibility/" text="**Введение в веб-доступность**"%}
-* {% include link.html to="/perspective-videos/" text="**Видео о перспективах доступности веб-сайтов**: Узнайте о влиянии и преимуществах для всех"%} — видео и информация по отдельным темам доступности.
-* {% include link.html to="/" text="**веб-сайт WAI**"%} — узнайте о ресурсах по различным аспектам доступности веб-сайтов {% include link.html to="/standard-guidelines/" text ="стандарты"%}, {% include link.html to ="/teach-advocate/" text ="образование"%}, {% include link.html to ="/test-evaluate/" text="тестирование / оценка"%}, {% include link.html to="/planning/" text="управление проектом и политика"%}.
+* [**Введение в веб-доступность**](/intro/accessibility/)
+* [**Видео о перспективах доступности веб-сайтов**: Узнайте о влиянии и преимуществах для всех](/perspective-videos/) — видео и информация по отдельным темам доступности.
+* [**веб-сайт WAI**](/) — узнайте о ресурсах по различным аспектам доступности веб-сайтов [стандарты](/standard-guidelines/), [образование](/teach-advocate/), [тестирование / оценка](/test-evaluate/), [управление проектом и политика](/planning/).
 
 ## Разрешение на использование видео {#permission}
 
-Вы можете использовать это видео, если укажете ссылку на эту страницу. Дополнительная информация доступна в {% include link.html to="/about/using-wai-material/" text="Использование материалов WAI: разрешение на использование с указанием источника"%}.
+Вы можете использовать это видео, если укажете ссылку на эту страницу. Дополнительная информация доступна в [Использование материалов WAI: разрешение на использование с указанием источника](/about/using-wai-material/).
 
 ## Описание аудио {#audio-description}
 
 Это видео не содержит аудио описания, поскольку визуальные элементы поддерживают только аудио и не предоставляют дополнительную информацию. В этом случае аудио описание будет больше отвлекать, чем помогать большинству пользователей, включая людей, которые не могут видеть визуальную информацию. Ниже приведена расшифровка с описанием вспомогательных визуальных элементов.
 
-Если вам нужны примеры видео с аудио описанием, см. [Перспективы веб-доступности - аудио описание (плейлист YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&amp;list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). также вы можете выбрать один из видеороликов на странице {% include link.html to="/perspective-videos/" text="Веб-страница с точки зрения веб-доступности"%} и выберите "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+Если вам нужны примеры видео с аудио описанием, см. [Перспективы веб-доступности - аудио описание (плейлист YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&amp;list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). также вы можете выбрать один из видеороликов на странице [Веб-страница с точки зрения веб-доступности](/perspective-videos/) и выберите "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
 (Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
@@ -207,4 +207,4 @@ w3.org/WAI</td>
 
 ### Перевести на другие языки
 
-Мы приветствуем дополнительные переводы. Если вы переводите [файл VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), отправьте его по адресу <public-wai-translations@w3.org>. Если вы хотите перевести всю эту веб-страницу или другие, см. {% include link.html to="/about/translating/" text="Перевод ресурсов WAI" %}.
+Мы приветствуем дополнительные переводы. Если вы переводите [файл VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), отправьте его по адресу <public-wai-translations@w3.org>. Если вы хотите перевести всю эту веб-страницу или другие, см. [Перевод ресурсов WAI](/about/translating/).
