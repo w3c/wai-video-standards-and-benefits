@@ -3,7 +3,7 @@ title: "Changelog for Video Introduction to Web Accessibility and W3C Standards"
 title_html: 'Changelog for <a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a>'
 nav_title: "Changelog"
 lang: en
-last_updated: 2019-12-21
+last_updated: 2019-05-24
 permalink: /videos/standards-and-benefits/changelog/
 ref: /videos/standards-and-benefits/changelog/
 layout: default
@@ -11,16 +11,15 @@ github:
    repository: w3c/wai-video-standards-and-benefits
    path: 'changelog.md'
 changelog: /videos/standards-and-benefits/changelog/
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-   <p><strong>Date:</strong> Updated 21 February 2019. First published 4 December 2017. CHANGELOG.</p>
-   <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
 ---
 
-_This changelog includes Markdown syntax to facilitate updating translations._
+_This changelog includes some Markdown and HTML syntax to facilitate updating translations._
 
-## To be published
+## February – May 2019
 
 * Fixed typo "quite"->"quiet":<br>from: <q>For example, captions benefit anyone in a loud or in a quite environment.</q><br>&nbsp;&nbsp;&nbsp;&nbsp;to: <q>For example, captions benefit anyone in a loud or in a quiet environment.</q>
+* Added to footer: <blockquote>Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</blockquote>
+* Added quotes around "Language" in the [Translations section](https://www.w3.org/WAI/videos/standards-and-benefits/#translations).
 
 ## 21 February 2019
 
