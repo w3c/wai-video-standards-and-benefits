@@ -39,7 +39,7 @@ Informatie over deze video is beschikbaar
 
 Voor meer informatie, zie:
 
--   [**Introductie over Web-toegankelijkheid**](/intro/accessibility/)
+-   [**Introductie over Web-toegankelijkheid**](/fundamentals/accessibility-intro/)
 -   [**Video gezichtspunten op Web-toegankelijkheid**: Ontdek de invloed op en voordelen voor iedereen](/perspective-videos/) — video's en informatie over specifieke toegankelijkheidsonderwerpen.
 -   [**WAI website**](https://www.w3.org/WAI/) — om een breed scala aan hulpbronnen te vinden over verschillende aspecten van web-toegankelijkheid [standaarden](/standards-guidelines/), [onderwijs](/teach-advocate/), [testen/evaluatie](/test-evaluate/), [project-beheer, en beleid](/planning/).
 

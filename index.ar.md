@@ -39,7 +39,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 ## تعلم المزيد {#moreinfo}
 
 لمزيد من المعلومات ، انظر:
-*   [[**مقدمة ولوجيات الويب**]](/intro/accessibility/)
+*   [[**مقدمة ولوجيات الويب**]](/fundamentals/accessibility-intro/)
 *   [[**فيديو أفاق ولوجيات الويب**: استكشف التأثير والفوائد للجميع]](/perspective-videos/) — مقاطع الفيديو ومعلومات حول موضوعات الولوجيات محددة.
 *   [**موقع WAI**](https://www.w3.org/WAI/) — للعثور على مجموعة واسعة من الموارد على جوانب مختلفة من ولوجيات الويب [معايير](/standards-guidelines/)، [تربية](/teach-advocate/)، [اختبار / تقييم](/test-evaluate/)، [إدارة المشاريع ، والسياسة العامة](/planning/).
 

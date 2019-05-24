@@ -41,7 +41,7 @@ Cette vidéo est disponible&#8239;:
 
 Pour plus d’information, voir&#8239;:
 
-* [[**Introduction à l’accessibilité web**]](/intro/accessibility/)
+* [[**Introduction à l’accessibilité web**]](/fundamentals/accessibility-intro/)
 * [[**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorer l’impact et les bénéfices pour tous]](/perspective-videos/) — vidéos et informations sur des sujets spécifiques d’accessibilité.
 * [**Le site de la WAI** (<span lang='en'>Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)](https://www.w3.org/WAI/) — pour trouver un grand nombre de ressources sur divers aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [sensibilisation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
 

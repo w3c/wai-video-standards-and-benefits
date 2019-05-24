@@ -38,7 +38,7 @@ Dieses Video ist verfügbar:
 
 ## Weitere Informationen {#moreinfo}
 
-* [**Einführung in die Web-Accessibility**](/intro/accessibility/)
+* [**Einführung in die Web-Accessibility**](/fundamentals/accessibility-intro/)
 * [**Web-Accessibility-Perspektiven (Videos)**: Über die Bedeutung und den Nutzen für alle](/perspective-videos/):<br> Videos and Informationen zu spezifischen Accessibility-Themen.
 * [**WAI-Website**](https://www.w3.org/WAI/) — Eine breite Palette von Ressourcen zu verschiedenen Aspekten der Web-Accessibility:<br> [Standards](/standards-guidelines/), [Bildung](/teach-advocate/), [Tests/Evaluierungen](/test-evaluate/), [Projektmanagement und Regeln](/planning/).
 
