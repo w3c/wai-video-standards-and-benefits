@@ -4,15 +4,14 @@ title: "웹 접근성 소개 비디오와 W3C 표준"   # Do not translate "titl
 nav_title: "소개 비디오" # A short title that is used in the navigation
 lang: ko   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-05-28   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators: 
-# - name: "YongUi Lee"   # Replace @@ with name, add separate - name lines for every translator
-# contributors:
-permalink: /videos/standards-and-benefits/kr   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+translators: 
+- name: "YongUi Lee"   # Replace @@ with name, add separate - name lines for every translator
+permalink: /videos/standards-and-benefits/ko   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
-   path: 'index.kr.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'index.ko.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
    <p><strong>날짜:</strong> 2019년 2월 21일 업데이트됨. 첫 발행은 2017년 12월 4일. <a href="./changelog/">변경 기록</a>.</p>
    <p>프로젝트 리더: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. 기여한 사람들: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. 영상 촬영자와 편집자: Ulrich Grimm, av-design GmbH. 비디오는 European Commission에 의해 공동 창립된 <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>의 지원을 받아 만들어졌습니다. 번역은 Ford Foundation의 재정 지원을 받은 <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>의 지원을 받아 운영되고 있습니다.
