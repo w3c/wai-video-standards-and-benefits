@@ -27,7 +27,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
            %}
 
 이 비디오의 정보는 아래에서 이용 가능합니다 :
-* **다른 언어** — [자막과 대본을 볼 수 있는 방법](#translations)은 아래에 있습니다. 
+* **다른 언어** — [자막과 대본 보는 방법](#translations)은 아래에 있습니다. 
 * **[시각 정보가 포함된 텍스트 대본](#transcript)**은 아래에 있습니다. 
 * [유튜브](https://www.youtube.com/watch?v=20SHvU2PKsM)
 * W3C 서버 — [비디오 (파일 포맷: MP4, 파일 크기: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [영어 자막 파일 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt), [다른 언어 파일 목록](http://media.w3.org/wai/accessibility-intro/)
@@ -42,7 +42,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 * [[**웹 접근성 소개**]](/fundamentals/accessibility-intro/)
 * [[**웹 접근성 관점 영상**: 모두에게 끼치는 영향과 유익 확인하기]](/perspective-videos/) — 특정 접근성 주제에 대한 영상과 정보
-* [**WAI 사이트**](https://www.w3.org/WAI/) — 웹 접근성의 다른 주제에 대한 다양한 자료를 얻고 싶다면 [표준](/standards-guidelines/), [교육](/teach-advocate/), [테스트/평가](/test-evaluate/), [프로젝트 운영과 정책](/planning/)을 방문해보세요.
+* [**WAI 사이트**](https://www.w3.org/WAI/) — 웹 접근성관련 다른 주제에 대한 다양한 자료를 얻고 싶다면 [표준](/standards-guidelines/), [교육](/teach-advocate/), [테스트/평가](/test-evaluate/), [프로젝트 운영과 정책](/planning/)을 방문해보세요.
 
 ## 영상 사용 권한 {#permission}
 
@@ -50,7 +50,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## 오디오 설명 {#audio-description}
 
-이 영상은 오디오 설명을 포함하고 있지 않습니다. 시각 정보들은 오디오에 대한 보조 정보일 뿐이고, 새로운 추가 정보를 제공하고 있지 않기 때문입니다. 이러한 경우 오디오 설명은 시각 정보를 보지 못하는 사람뿐 아니라 대부분의 사람에게 도움보다는 방해하게 됩니다. 아래에 있는 대본은 시각 정보들에 대한 묘사도 포함하고 있습니다.
+이 영상은 오디오 설명을 포함하고 있지 않습니다. 시각 정보들은 오디오에 대한 보조 정보일 뿐이고, 새로운 추가 정보를 제공하고 있지 않기 때문입니다. 이러한 경우 오디오 설명은 시각 정보를 보지 못하는 사람뿐 아니라 대부분의 사람에게 도움보다는 방해가 됩니다. 아래에 있는 대본은 시각 정보들에 대한 묘사도 포함하고 있습니다.
 
 오디오 설명이 담긴 영상 예시를 보고 싶다면, [웹 접근성 관점 - 오디오 설명 포함 (유튜브 재생목록)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)를 참고하세요. 아니면 [웹 접근성 관점 웹 페이지](/perspective-videos/)의 영상들 중 하나를 고르고, "{% include t.html t='Enable Audio Description' %}"을 선택하세요.
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
