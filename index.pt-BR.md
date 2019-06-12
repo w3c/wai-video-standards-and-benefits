@@ -1,23 +1,23 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Vídeo de Introdução a Acesibilidade Web Accessibility and W3C Standards" # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Video Introduction" # A short title that is used in the navigation
-lang: en # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-03-07 # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translators:
-# - name: "@@"   # Replace @@ with name, add separate - name lines for every translator
+title: "Vídeo de Introdução a Acessibilidade Web e Padrões W3C" # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Vídeo de Introdução" # A short title that is used in the navigation
+lang: pt-BR # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2019-06-12 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+translators:
+- name: "Lucas Nogueira Nobrega"   # Replace @@ with name, add separate - name lines for every translator
 # contributors:
 # - name: "@@"   # Replace @@ with name, add separate - name lines for every
-permalink: /videos/standards-and-benefits/ # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+permalink: /videos/standards-and-benefits/pt-BR # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/ # Do not change this
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: "index.md" # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: "index.pt-BR.md" # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer:
   > # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Date:</strong> Updated 21 February 2019. First published 4 December 2017. <a href="./changelog/">Changelog</a>.</p>
-  <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
+  <p><strong>Data:</strong> Atualizado 21 Fevereiro 2019. Publicado inicialmente 4 December 2017. <a href="./changelog/">Changelog</a>.</p>
+  <p>Diretor do projeto: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Colaboradores: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Gravação e edição do vídeo: Ulrich Grimm, av-design GmbH. Vídeos desenvolvido com o suporte de <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-fundado pela Comissão Europeia. Traduções gerenciadas com o suporte de <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, fundado pela Ford Foundation.</p>
 
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
@@ -25,13 +25,13 @@ footer:
 {% include video-player.html
            yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
-           captions="W3C_INTRO_SFHI.vtt|en|default"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
+           captions="W3C_INTRO_SFHI.vtt|en"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR|default,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
            %}
 
-This video information is available:
+Esta infoormação do vídeo está disponível:
 
-- **In different languages** — [Instructions to see subtitles and transcripts](#translations) are below
+- **Em diferentes idiomas** — [Instruções para ver as legendas e os vídeo transcripto](#traducoes) estão abaixo
 - As a **[Text Transcript with Description of Visuals](#transcript)** below
 - [On YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
 - On a W3C server — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt), [list of other language files](http://media.w3.org/wai/accessibility-intro/)
@@ -197,22 +197,23 @@ w3.org/WAI</td>
   </tbody>
 </table>
 
-## Translations {#translations}
+## Traduções {#translations}
 
-There are some translations of this entire web page. They are linked at the top of this page.<br>There are **more translations of just the video**. They are available as subtitles and transcripts.
+Existe algumas traduções deste site por inteiro. Elas são atreladas ao topo desta página.<br>Existem **mais traduções somente do vídeo**. Elas estão disponiveis como legendas transcrisções.
 
-To get translations in the captions area in the bottom of the video:
+Para obter as traduções na área de subtítulos na parte inferior do vídeo:
 
-1. Select <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Captions".
+1. Select <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Legendas".
 
-2. Select the language.
+2. Escolha o idioma.
 
-To get translations in a separate transcript area:
+Para obter a traduções em uma área de transcrição separada:
 
-1. Select "Show transcript".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. Selecione "Mostrar transcrição".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Use the "Language" drop-down to select subtitles.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Use o menu despregavel de "Idiomas" para selecionar as legendas.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
-### Translate into Other Languages
+### Traduzir para outros idiomas
 
-We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see [[Translating WAI Resources]](/about/translating/).
+Agradecemos as traduções adicionais. Se você traduzir o
+[arquivo VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see [[Translating WAI Resources]](/about/translating/).
