@@ -6,6 +6,7 @@ lang: ko   # Change "en" to the translated language shortcode from https://www.i
 last_updated: 2019-05-28   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "YongUi Lee"   # Replace @@ with name, add separate - name lines for every translator
+  link: "https://twitter.com/yongui9"
 permalink: /videos/standards-and-benefits/ko   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
