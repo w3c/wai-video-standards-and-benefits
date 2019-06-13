@@ -196,7 +196,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## 번역 {#translations}
 
-전체 웹 페이지의 몇 가지 번역 버전이 있습니다. 페이지 상단에 링크가 있습니다. <br>**영상에는 좀 더 많은 번역 버전**이 있습니다. 자막이나 대본으로 볼 수 있습니다.
+전체 웹 페이지의 몇 가지 번역 버전이 있습니다. 페이지 상단에 링크가 있습니다. <br>**영상은 더 많은 번역 버전**이 있습니다. 자막이나 대본으로 볼 수 있습니다.
 
 영상 아래쪽인 캡션 부분에서 자막을 선택하는 방법: 
 
@@ -212,4 +212,4 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ### 다른 언어로 번역하기
 
-추가 번역을 하는 것을 환영합니다. [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})을 번역했다면, <public-wai-translations@w3.org>로 보내주세요. 전체 웹 페이지나 다른 것을 번역하고 싶으시다면, [[WAI 자료 번역하기]](/about/translating/)를 확인해주세요.
+추가 번역하는 것을 환영합니다. [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})을 번역했다면, <public-wai-translations@w3.org>로 보내주세요. 전체 웹 페이지나 다른 것을 번역하고 싶으시다면, [[WAI 자료 번역하기]](/about/translating/)를 확인해주세요.
