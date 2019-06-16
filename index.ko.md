@@ -3,10 +3,13 @@
 title: "웹 접근성 소개 영상과 W3C 표준"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "소개 영상" # A short title that is used in the navigation
 lang: ko   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-05-28   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2019-06-16   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
-- name: "YongUi Lee"   # Replace @@ with name, add separate - name lines for every translator
+- name: "Yong Ui Lee"   # Replace @@ with name, add separate - name lines for every translator
   link: "https://twitter.com/yongui9"
+contributors:
+- name: "Jun Ho Lee"
+  link: "gomjunho@gmail.com"
 permalink: /videos/standards-and-benefits/ko   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
@@ -26,7 +29,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
            subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
            %}
 
-이 영상의 정보는 아래에서 이용 가능합니다 :
+해당 영상의 정보는 다음을 참고하세요 :
 * **다른 언어** — [자막과 대본 보는 방법](#translations)은 아래에 있습니다. 
 * **[시각 정보가 포함된 텍스트 대본](#transcript)**은 아래에 있습니다. 
 * [유튜브](https://www.youtube.com/watch?v=20SHvU2PKsM)
@@ -38,7 +41,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## 자세한 정보 {#moreinfo}
 
-더 자세한 정보를 얻고 싶다면, 다음을 참고하세요:
+더 자세한 정보는 다음을 참고하세요:
 
 * [[**웹 접근성 소개**]](/fundamentals/accessibility-intro/)
 * [[**웹 접근성 관점 영상**: 모두에게 끼치는 영향과 이점 확인하기]](/perspective-videos/) — 특정 접근성 주제에 대한 영상과 정보
@@ -50,7 +53,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## 오디오 설명 {#audio-description}
 
-이 영상은 오디오 설명을 포함하고 있지 않습니다. 시각 정보들은 오디오에 대한 보조 정보일 뿐이고, 새로운 추가 정보를 제공하고 있지 않기 때문입니다. 이러한 경우 오디오 설명은 시각 정보를 보지 못하는 사람뿐 아니라 대부분의 사람에게 도움보다는 방해가 됩니다. 아래에 있는 대본은 시각 정보들에 대한 묘사도 포함하고 있습니다.
+시각 정보는 오디오에 대한 보조 정보이고, 새로운 추가 정보를 제공하고 있지 않기에 이 영상은 오디오 설명을 포함하고 있지 않습니다. 이러한 경우 오디오 설명은 시각 정보를 보지 못하는 사람뿐 아니라 대부분의 사람에게 도움보다는 방해가 됩니다. 아래에 있는 대본은 시각 정보들에 대한 묘사도 포함하고 있습니다.
 
 오디오 설명이 담긴 영상 예시를 보고 싶다면, [웹 접근성 관점 - 오디오 설명 포함 (유튜브 재생목록)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)를 참고하세요. 아니면 [웹 접근성 관점 웹 페이지](/perspective-videos/)의 영상들 중 하나를 고르고, "{% include t.html t='Enable Audio Description' %}"을 선택하세요.
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
@@ -196,7 +199,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ## 번역 {#translations}
 
-전체 웹 페이지의 몇 가지 번역 버전이 있습니다. 페이지 상단에 링크가 있습니다. <br>**영상은 더 많은 번역 버전**이 있습니다. 자막이나 대본으로 볼 수 있습니다.
+현재 웹 페이지의 몇 가지 번역 버전이 있습니다. 페이지 상단에 링크가 있습니다. <br>**영상은 더 많은 번역 버전**이 있습니다. 자막이나 대본으로 볼 수 있습니다.
 
 영상 아래쪽인 캡션 부분에서 자막을 선택하는 방법: 
 
@@ -204,7 +207,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 2. 언어를 선택하세요.
 
-분리된 대본 영역에서 자막을 보고 싶을 경우:
+새창으로 자막을 보고 싶을 경우:
 
 1. "Show transcript"을 선택하세요.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
@@ -212,4 +215,4 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 ### 다른 언어로 번역하기
 
-추가 번역하는 것을 환영합니다. [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})을 번역했다면, <public-wai-translations@w3.org>로 보내주세요. 전체 웹 페이지나 다른 것을 번역하고 싶으시다면, [[WAI 자료 번역하기]](/about/translating/)를 확인해주세요.
+여러분의 번역 참여를 환영합니다. [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})을 번역했다면, <public-wai-translations@w3.org>로 보내주세요. 현재 웹 페이지나 다른 페이지를 번역하고 싶으시다면, [[WAI 자료 번역하기]](/about/translating/)를 확인해주세요.
