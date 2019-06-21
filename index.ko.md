@@ -9,7 +9,6 @@ translators:
   link: "https://twitter.com/yongui9"
 contributors:
 - name: "Jun Ho Lee"
-  link: "gomjunho@gmail.com"
 permalink: /videos/standards-and-benefits/ko   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
