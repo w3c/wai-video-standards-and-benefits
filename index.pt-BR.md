@@ -79,120 +79,149 @@ If you want examples of videos with audio description, see [Web Accessibility Pe
     </tr>
     <tr>
       <td>The Web is for many people an essential part of daily life.</td>
+      <td>Para muitas pessoas a Web é uma parte essencial do dia a dia.</td>
       <td>People in an Internet cafe</td>
     </tr>
     <tr>
       <td>At work.</td>
+      <td>No trabalho.</td>
       <td>Someone in an office using a computer</td>
     </tr>
     <tr>
       <td>At home.</td>
+      <td>Em Casa.</td>
       <td>Someone sitting in a sofa using a laptop</td>
     </tr>
     <tr>
       <td>And on the road.</td>
+      <td>E em viagens.</td>
       <td>Someone using a mobile phone while walking</td>
     </tr>
     <tr>
       <td>Web accessibility means that people with disabilities can use the Web equally.</td>
+      <td>Acessibilidade na Web significa que pessoas com deficiências podem usar a Web igualmente.</td>
       <td>[Shadi speaking]</td>
     </tr>
     <tr>
       <td>For example, somebody who cannot use their arms, and uses a mouthstick to type.</td>
+      <td>Por exemplo, alguém que não pode usar os braços e usa um bastão de boca para digitar.</td>
       <td>Someone using a mouthstick to type</td>
     </tr>
     <tr>
       <td>Or someone who cannot hear well, and uses captions to watch videos.</td>
+      <td>Ou alguém que não ouve bem e usa legendas para assistir a vídeos.</td>
       <td>Someone using a hearing aid</td>
     </tr>
     <tr>
       <td>Or someone who cannot see well, and uses a screen reader to read aloud what's on the screen.</td>
+      <td>Ou alguém que não enxerga bem e utiliza um leitor de tela que lê em voz alta o que está na tela.</td>
       <td>Someone using a screen reader</td>
     </tr>
     <tr>
       <td>Accessibility has many benefits.</td>
+      <td>A acessibilidade possui muitos benefícios.</td>
       <td>[Shadi speaking]</td>
     </tr>
     <tr>
       <td>For example, captions benefit anyone in a loud or in a quiet environment.</td>
+      <td>Por exemplo, as legendas beneficiam qualquer um em ambientes silenciosos ou barulhentos.</td>
       <td>Someone watching a video with captions in an office</td>
     </tr>
     <tr>
       <td>And good color contrast works better when there is glare.</td>
+      <td>E um bom contraste de cor funciona melhor quando há brilho.</td>
       <td>Someone looking at a mobile phone with glare on the screen</td>
     </tr>
     <tr>
       <td>Also people with age-related impairments, such as reduced dexterity, benefit.</td>
+      <td>Pessoas com deficiências relativas à idade, tais como destreza reduzida, também beneficiam-se.</td>
       <td>Someone with tremors using a mouse with difficulty</td>
     </tr>
     <tr>
       <td>In fact, everyone has a better user experience with an improved layout and design.</td>
+      <td>Na verdade, com layout e design aprimorados, todos têm uma experiência de usuário melhor.</td>
       <td>Two people smiling happily at a well-designed website</td>
     </tr>
     <tr>
       <td>A lot of accessibility can be built into the underlying code of websites and applications.</td>
+      <td>Pode-se incorporar muita acessibilidade no código subjacente de sites e aplicativos.</td>
       <td>[Shadi speaking]</td>
     </tr>
     <tr>
       <td>Web technologies from W3C, such as HTML, provide many accessibility features.</td>
+      <td>Tecnologias Web do W3C, tais como HTML, fornecem suporte para muitos recursos de acessibilidade.</td>
       <td>HTML code of a web page</td>
     </tr>
     <tr>
       <td>For example, to provide textual descriptions for images, which are read aloud by screen readers and also used by search engines.</td>
+      <td>Por exemplo, recursos que fornecem alternativas de texto para imagens, que são lidas em voz alta por leitores de tela e também utilizadas pelos mecanismos de busca.</td>
       <td>Example code</td>
     </tr>
     <tr>
       <td>Also headings, labels, and other code supports accessibility and improves the quality overall.</td>
+      <td>Também cabeçalhos, rótulos e outros códigos suportam a acessibilidade e melhoram a qualidade em geral.</td>
       <td>Example code</td>
     </tr>
     <tr>
       <td>Good authoring tools, such as wikis, content management systems, and code editors, help create accessible code - either automatically or with input from the author.</td>
+      <td>Boas ferramentas de autoria, como wikis, sistemas de gerenciamento de conteúdo e editores de código, ajudam a criar um código acessível, tanto automaticamente ou com o input do autor.</td>
       <td>Example authoring tool used to create web content</td>
     </tr>
     <tr>
       <td>Also web browsers, media players, and apps need to support accessibility features.</td>
+      <td>Navegadores Web, players de mídia e aplicativos também precisam dar suporte a recursos de acessibilidade.</td>
       <td>Example web browser used to show web content</td>
     </tr>
     <tr>
       <td>W3C provides standards to help make the Web accessible, which are internationally recognized by governments and businesses.</td>
+      <td>O W3C fornece padrões para ajudar a tornar a Web acessível, reconhecidos internacionalmente por governos e empresas.</td>
       <td>[Shadi speaking]</td>
     </tr>
     <tr>
       <td>Most well-known is the Web Content Accessibility Guidelines - WCAG. WCAG is also ISO 40500, and adopted in the European standard called EN 301 549. It is built around four core principles:</td>
+      <td>O mais conhecido são as Diretrizes de Acessibilidade para Conteúdo Web - WCAG. As WCAG também são o padrão ISO 40500, e adotadas no padrão europeu denominado EN 301 549. Elas são fundamentadas em torno de quarto princípios:</td>
       <td>Web Content Accessibility Guidelines - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
       <td>First, Perceivable - for example, so people can see the content, or hear it.</td>
+      <td>Primeiramente Perceptível - por exemplo, para que as pessoas possam ver ou ouvir o conteúdo.</td>
       <td>Someone typing on their tablet computer and listening to it with headphones</td>
     </tr>
     <tr>
       <td>Operable - for example, so people can use the computer by typing, or by voice.</td>
+      <td>Operável – por exemplo, para que as pessoas possam utilizar o computador por meio de digitação ou da voz.</td>
       <td>Someone speaking to their computer</td>
     </tr>
     <tr>
       <td>Understandable - for example, so people get clear and simple language.</td>
+      <td>Compreensível – por exemplo, para que as pessoas contem com uma linguagem simples e clara.</td>
       <td>Two people looking confused at the computer screen with a dense website</td>
     </tr>
     <tr>
       <td>And Robust - so people can use different assistive technologies.</td>
+      <td>E Robusto – para que as pessoas possam usar diferentes tecnologias assistivas.</td>
       <td>Someone using screen magnification on a large computer screen</td>
     </tr>
     <tr>
       <td>Besides WCAG, W3C also provides the Authoring Tool Accessibility Guidelines - ATAG, which defines requirements for code management systems, code editors, and other software.</td>
+      <td>Além das WCAG, o W3C também fornece as Diretrizes de Acessibilidade para Ferramentas de Autoria - ATAG, que definem requerimentos para sistemas de gerenciamento de conteúdo, publicadores de código e outros softwares.</td>
       <td>Authoring Tool Accessibility Guidelines - ATAG</td>
     </tr>
     <tr>
       <td>And the User Agent Accessibility Guidelines - UAAG, defines requirements for web browsers and media players.</td>
+      <td>E as Diretrizes de Acessibilidade para Agente de Usuário - UAAG, que definem requerimentos para navegadores Web e players de mídia.</td>
       <td>User Agent Accessibility Guidelines - UAAG</td>
     </tr>
     <tr>
       <td>There are over one billion people with disabilities, or about 15-20% of the population. The UN Convention on the Rights of Persons with Disabilities defines that access to information, including the Web, as a human right. Most countries around the world have ratified this UN convention, and several have adopted binding policies too. Yet regardless of any laws and regulations, implementing the accessibility standards is essential for people with disabilities, and useful for all.</td>
-      <td>[Shadi speaking]</td>
+      <td>Há mais de um bilhão de pessoas com deficiência ou cerca de 15-20% da população. A Convenção da ONU sobre Direitos das Pessoas com Deficiência define o acesso à informação, inclusive à Web, como um direito humano. A maior parte dos países em todo o mundo ratificou essa convenção da ONU, e vários também adotaram políticas vinculativas. Porém, independentemente de quaisquer leis e regulamentos, implementar os padrões de acessibilidade é essencial para pessoas com deficiência e útil para todos.</td>
+      <td>[Shadi falando]</td>
     </tr>
     <tr>
       <td>For more information on web accessibility, visit w3.org/WAI</td>
+      <td>Para mais informações sobre acessibilidade na Web, visite w3.org/WAI</td>
       <td>W3C Web Accessibility Initiative<br>
-w3.org/WAI</td>
+          w3.org/WAI</td>
     </tr>
   </tbody>
 </table>
