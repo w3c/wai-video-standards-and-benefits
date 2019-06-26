@@ -29,7 +29,7 @@ footer:
            subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR|default,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
            %}
 
-Esta infoormação do vídeo está disponível:
+Esta informação do vídeo está disponível:
 
 - **Em diferentes idiomas** — [Instruções para ver as legendas e os vídeo transcripto](#traducoes) estão abaixo
 - As a **[Text Transcript with Description of Visuals](#transcript)** below
@@ -48,15 +48,25 @@ For more information, see:
 - [[**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone]](/perspective-videos/) — videos and information on specific accessibility topics.
 - [**WAI website**](https://www.w3.org/WAI/) — to find a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](/teach-advocate/), [testing/evaluation](/test-evaluate/), [project management, and policy](/planning/).
 
-## Permission to Use Video {#permission}
+## Permissão para Usar o Vídeo {#permission}
 
-You may use this video if you include a link to this page. More information is available in [[Using WAI Material: Permission to Use with Attribution]](/about/using-wai-material/).
+Você pode usar esse vídeo se incluir um _link_ para esta página. Mais informações disponiveis em [[Usando Material do WAI: Permissão para Usar com Reconhecimento]](/about/using-wai-material/).
+
 
 ## Audio Description {#audio-description}
 
+Este vídeo não inclui uma descrição de áudio porque as imagens somente reafirmam o áudio e não proveem informação adicional. Neste caso, a descrição do audio seria mais distrativa do que útil para a maioria das pessoas, incluido aquelas que não podem ver as imagens. A Transcrição com a Descrição abaixo inclui descrição das imagens do vídeo.
+
 This video does not include audio description because the visuals only support the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. The Transcript with Description below includes descriptions of the supporting visuals.
 
-If you want examples of videos with audio description, see [Web Accessibility Perspectives - Audio Described (YouTube playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Or you can select one of the videos on the [Web Accessibility Perspectives web page](/perspective-videos/) and select "{% include t.html t='Enable Audio Description' %}".
+Se deseja exemplos de vídeos com descrição de áudio, veja [Web Accessibility Perspectives - Audio Described (YouTube playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-).
+
+Ou pode selecionar um dos vídeos 
+
+Or you can select one of the videos on the [Web Accessibility Perspectives web page](/perspective-videos/)
+
+e selecionar "{% include t.html t='Enable Audio Description' %}".
+
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
 (Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
@@ -74,6 +84,7 @@ If you want examples of videos with audio description, see [Web Accessibility Pe
   <tbody>
     <tr>
       <td>Hi! My name is Shadi Abou-Zahra. I'm the Accessibility Strategy and Technology Specialist at W3C, the World Wide Web Consortium, and today I'd like to tell you about web accessibility.</td>
+      <td>Olá, meu nome é Shadi Abou-Zahra. Eu sou o Especialista em Tecnologia e Estratégia de acessibilidade do W3C, o, Consórcio World Wide Web e hoje eu gostaria de informá-lo sobre acessibilidade na Web.</td>
       <td>Web Accessibility<br>
         [Shadi speaking]</td>
     </tr>
@@ -232,7 +243,7 @@ Existe algumas traduções deste site por inteiro. Elas são atreladas ao topo d
 
 Para obter as traduções na área de subtítulos na parte inferior do vídeo:
 
-1. Select <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Legendas".
+1. Selecione <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Legendas".
 
 2. Escolha o idioma.
 
