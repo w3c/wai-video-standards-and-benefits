@@ -212,7 +212,7 @@ Para obter a traduções em uma área de transcrição separada:
 
 1. Selecione "Mostrar transcrição".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Use o menu despregavel de "Idiomas" para selecionar as legendas.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Use o menu despregavel de "Idiomas" para selecionar as legendas.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.pt-BR.png" | relative_url }}' alt="">
 
 ### Traduzir para outros idiomas
 
