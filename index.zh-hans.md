@@ -4,7 +4,8 @@ title: "网页无障碍和W3C标准的介绍视频" # translate this
 nav_title: "视频介绍" # A short title that is used in the navigation
 # nav_title: "" # A short title that is used in the navigation
 last_updated: 2019-03-07 # update date of this translation
-translator: "Ruoxi Ran" # replace @@ with name or names separated with a comma
+translators:
+- name: "Ruoxi Ran" # replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/zh-hans # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
 lang: zh-hans # Translated language shortcode
@@ -40,19 +41,19 @@ footer: > # translate the words below; do NOT change the dates.
 
 有关详情，请参阅：
 
--   {% include link.html to="/intro/accessibility" text="**网页无障碍介绍**" %}
--   {% include link.html to="/perspective-videos/" text="**网页无障碍愿景视频**: 探索对每个人的影响和好处" %} — 关于特定无障碍主题的视频和信息.
--   [**WAI网站**](https://www.w3.org/WAI/) — 从不同方面寻求有关网页无障碍的{% include link.html to=" /standards-guidelines/" text="标准" %}, {% include link.html to=" /teach-advocate/" text="教育" %}, {% include link.html to=" /test-evaluate/" text="测试/评价" %}, {% include link.html to=" /planning/" text="项目管理, 和政策" %}的资源.
+-   [**网页无障碍介绍**](/fundamentals/accessibility-intro/)
+-   [**网页无障碍愿景视频**: 探索对每个人的影响和好处](/perspective-videos/) — 关于特定无障碍主题的视频和信息.
+-   [**WAI网站**](https://www.w3.org/WAI/) — 从不同方面寻求有关网页无障碍的[标准](/standards-guidelines/), [教育](/teach-advocate/), [测试/评价](/test-evaluate/), [项目管理, 和政策](/planning/)的资源.
 
 ## 使用视频的权限 {#permission}
 
-如果你包含这个页面的链接，那么你就可以使用该视频。 更多信息可在 {% include link.html to="/about/using-wai-material/" text="使用WAI相关资料:注明出处即可使用" %}中找到。
+如果你包含这个页面的链接，那么你就可以使用该视频。 更多信息可在 [使用WAI相关资料:注明出处即可使用](/about/using-wai-material/)中找到。
 
 ## 音频描述 {#audio-description}
 
 本视频不包含音频描述，因为视频只支持音频，不提供额外的信息。在这种情况下，对大多数人来说，包括那些看不到图像的人来说，音频描述与其说是有用，不如说是会让人分心。下面的文字说明包含了对辅助视觉效果的描述。
 
-如果您想要带有音频描述的视频示例，请参见[网页无障碍愿景 - 音频描述 (YouTube播放列表)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). 或者您可以从 {% include link.html to="/perspective-videos/" text="网页无障碍愿景网页" %}中选择一个视频，然后选择“{% include t.html t='Enable Audio Description' %}” (“<span lang='en'>Enable Audio Description</span>”)。
+如果您想要带有音频描述的视频示例，请参见[网页无障碍愿景 - 音频描述 (YouTube播放列表)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). 或者您可以从 [网页无障碍愿景网页](/perspective-videos/)中选择一个视频，然后选择“{% include t.html t='Enable Audio Description' %}” (“<span lang='en'>Enable Audio Description</span>”)。
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
 (Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
@@ -210,4 +211,4 @@ w3.org/WAI</td>
 
 ### 翻译成其他语言
 
-我们欢迎更多的翻译。如果你翻译 [VTT 文件]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})，请发送至 public-wai-translations@w3.org。如果你想翻译整个网页或其他内容，请参见 {% include link.html to="/about/translating/" text="WAI的资源翻译" %}。
+我们欢迎更多的翻译。如果你翻译 [VTT 文件]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})，请发送至 public-wai-translations@w3.org。如果你想翻译整个网页或其他内容，请参见 [WAI的资源翻译](/about/translating/)。

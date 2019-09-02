@@ -4,8 +4,10 @@ title: "Video Introduction to Web Accessibility and W3C Standards"   # Do not tr
 nav_title: "Video Introduction" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-03-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-# translator: "@@"   # Replace @@ with name or names separated with a comma
-# contributors: "@@"   # Replace @@ with name(s) or delete this line
+# translators: 
+# - name: "@@"   # Replace @@ with name, add separate - name lines for every translator
+# contributors:
+# - name: "@@"   # Replace @@ with name, add separate - name lines for every 
 permalink: /videos/standards-and-benefits/   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
@@ -14,7 +16,7 @@ github:
    path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
    <p><strong>Date:</strong> Updated 21 February 2019. First published 4 December 2017. <a href="./changelog/">Changelog</a>.</p>
-   <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH.</p>
+   <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
@@ -39,19 +41,19 @@ This video information is available:
 
 For more information, see:
 
-* {% include link.html to="/intro/accessibility/" fallback="**Introduction to Web Accessibility**" %}
-* {% include link.html to="/perspective-videos/" fallback="**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone" %} — videos and information on specific accessibility topics.
-* {% include link.html to="/" text="**WAI website**" %} — to find a wide range of resources on different aspects of web accessibility {% include link.html to="/standards-guidelines/" text="standards" %}, {% include link.html to="/teach-advocate/" text="education" %}, {% include link.html to="/test-evaluate/" text="testing/evaluation" %}, {% include link.html to="/planning/" text="project management, and policy" %}.
+* [[**Introduction to Web Accessibility**]](/fundamentals/accessibility-intro/)
+* [[**Web Accessibility Perspectives Videos**: Explore the Impact and Benefits for Everyone]](/perspective-videos/) — videos and information on specific accessibility topics.
+* [**WAI website**](https://www.w3.org/WAI/) — to find a wide range of resources on different aspects of web accessibility [standards](/standards-guidelines/), [education](/teach-advocate/), [testing/evaluation](/test-evaluate/), [project management, and policy](/planning/).
 
 ## Permission to Use Video {#permission}
 
-You may use this video if you include a link to this page. More information is available in {% include link.html to="/about/using-wai-material/" fallback="Using WAI Material: Permission to Use with Attribution" %}.
+You may use this video if you include a link to this page. More information is available in [[Using WAI Material: Permission to Use with Attribution]](/about/using-wai-material/).
 
 ## Audio Description {#audio-description}
 
 This video does not include audio description because the visuals only support the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. The Transcript with Description below includes descriptions of the supporting visuals.
 
-If you want examples of videos with audio description, see [Web Accessibility Perspectives - Audio Described (YouTube playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Or you can select one of the videos on the {% include link.html to="/perspective-videos/" text="Web Accessibility Perspectives web page" %} and select "{% include t.html t='Enable Audio Description' %}".
+If you want examples of videos with audio description, see [Web Accessibility Perspectives - Audio Described (YouTube playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Or you can select one of the videos on the [Web Accessibility Perspectives web page](/perspective-videos/) and select "{% include t.html t='Enable Audio Description' %}".
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
 (Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
@@ -211,4 +213,4 @@ To get translations in a separate transcript area:
 
 ### Translate into Other Languages
 
-We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see {% include link.html to="/about/translating/" fallback="Translating WAI Resources" %}.
+We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see [[Translating WAI Resources]](/about/translating/).

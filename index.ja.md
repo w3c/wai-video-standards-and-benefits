@@ -4,7 +4,8 @@ title: "W3Cのアクセシビリティと標準技術"   # Do not translate "tit
 nav_title: “紹介" # A short title that is used in the navigation
 lang: ja   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-02-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translator: "Naomi Yoshizawa"   # Replace @@ with name or names separated with a comma
+translators: 
+- name: "Naomi Yoshizawa"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ja   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
@@ -26,7 +27,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 本動画は下記でご覧いただけます：
 * **言語** — [字幕の使用説明書](#translations)は下記の通りです
-* は **[画像の説明文](#transcript)**下記の通り
+* **[画像の説明文](#transcript)**は下記の通りです
 * [YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
 * W3C — [MP4、28MB](http://media.w3.org/wai/accessibility-intro/intro.mp4), [日本語字幕 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt), [他言語翻訳](http://media.w3.org/wai/accessibility-intro/)
 {% comment %}# For translations, replace:
@@ -38,19 +39,19 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 その他詳細：
 
--   {% include link.html to="/intro/accessibility/" text="**ウェブアクセシビリティの紹介**" %}
--   {% include link.html to="/perspective-videos/" text="**ウェブアクセシビリティとは**：すべての人に対する影響とその価値" %} ー本動画と情報は特定のアクセシビリティ要件に特化しています
--   {% include link.html to="/" text="**WAIウェブサイト**" %}ーウェブアクセシビリティの異なる様々な状況を幅広くサポートするために {% include link.html to="/standards-guidelines/" text="標準" %}, {% include link.html to="/teach-advocate/" text="教育" %}, {% include link.html to="/test-evaluate/" text="テスト／評価" %}, {% include link.html to="/planning/" text="プロジェクト管理と指針" %}.
+-   [**ウェブアクセシビリティの紹介**](/fundamentals/accessibility-intro/)
+-   [**ウェブアクセシビリティとは**：すべての人に対する影響とその価値](/perspective-videos/) ー本動画と情報は特定のアクセシビリティ要件に特化しています
+-   [**WAIウェブサイト**](https://www.w3.org/WAI/)ーウェブアクセシビリティの異なる様々な状況を幅広くサポートするために [標準](/standards-guidelines/), [教育](/teach-advocate/), [テスト／評価](/test-evaluate/), [プロジェクト管理と指針](/planning/).
 
 ## 本動画使用許可 {#permission}
 
-本動画を使用したい場合は下記のリンクを添付して下さい。詳しくは {% include link.html to="/about/using-wai-material/" text="WAI資料を使用するには：属性使用の許可" %}.
+本動画を使用したい場合は下記のリンクを添付して下さい。詳細: [WAI資料使用方法：属性使用の許可](/about/using-wai-material/).
 
 ## 音声 {#audio-description}
 
 本動画は動画のみをサポートし音声描写を含んでいないため、視覚に難しさを持つ人や多くの人にとって物足りない音声情報である可能性がありますが、シナリオが視覚をサポートします。
 
-音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から ー 音声 (YouTubeプレイリスト)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)、{% include link.html to="/perspective-videos/" text="ウェブアクセシビリティの観点から" %}、”音声描写を有効化するために”を参照下さい
+音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から ー 音声 (YouTubeプレイリスト)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)、[ウェブアクセシビリティの観点から](/perspective-videos/)、”音声描写を有効化するために”を参照下さい。
 
 ## 視覚に対する説明文 {#transcript}
 
@@ -180,7 +181,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
       <td>[シャディが話している]</td>
     </tr>
     <tr>
-      <td>ウェブアクセシビリティのさらに詳しいお問い合わせはw3.org/WAIをご覧ください。</td>
+      <td>ウェブアクセシビリティの詳細はw3.org/WAIをご覧ください。</td>
       <td>W3C Web Accessibility Initiative<br>
 w3.org/WAI</td>
     </tr>
@@ -191,7 +192,7 @@ w3.org/WAI</td>
 
 本ウェブページは翻訳を備えています。そのリンクは本ページ冒頭にあります。<br>**動画の翻訳**には、字幕とシナリオがあります。
 
-キャプションお翻訳の入手は本動画末尾をご覧ください：
+キャプション翻訳の入手は本動画末尾をご覧ください：
 
 1. 選択 <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "キャプション".
 
@@ -199,9 +200,9 @@ w3.org/WAI</td>
 
 翻訳されたシナリオ：
 
-1. "字幕を見る"を選択.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. "字幕を見る"を選択<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. ドロップダウンで選択した字幕の言語を使用する<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.ja.png" | relative_url }}' alt="">
+2. ドロップダウンで選択した字幕の言語を使用<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.ja.png" | relative_url }}' alt="">
 
 ### 多言語の翻訳
 

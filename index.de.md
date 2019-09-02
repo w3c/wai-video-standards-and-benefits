@@ -4,8 +4,10 @@ title: "Video-Einführung in Web-Accessibility und W3C-Standards"   # Do not tra
 nav_title: "Video-Einführung"
 lang: de   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-03-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translator: "Sandra Kallmeyer"   # Replace @@ with name or names separated with a comma
-contributors: "Stefanie Hegele"  # Replace @@ with name(s) or delete this line
+translators:
+- name: "Sandra Kallmeyer"   # Replace @@ with name or names separated with a comma
+contributors:
+- name: "Stefanie Hegele"  # Replace @@ with name(s) or delete this line
 permalink: /videos/standards-and-benefits/de   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
@@ -36,19 +38,19 @@ Dieses Video ist verfügbar:
 
 ## Weitere Informationen {#moreinfo}
 
-* {% include link.html to="/intro/accessibility/" text="**Einführung in die Web-Accessibility**" %}
-* {% include link.html to="/perspective-videos/" text="**Web-Accessibility-Perspektiven (Videos)**: Über die Bedeutung und den Nutzen für alle" %}:<br> Videos and Informationen zu spezifischen Accessibility-Themen.
-* {% include link.html to="/" text="**WAI-Website**" %} — Eine breite Palette von Ressourcen zu verschiedenen Aspekten der Web-Accessibility:<br> {% include link.html to="/standards-guidelines/" text="Standards" %}, {% include link.html to="/teach-advocate/" text="Bildung" %}, {% include link.html to="/test-evaluate/" text="Tests/Evaluierungen" %}, {% include link.html to="/planning/" text="Projektmanagement und Regeln" %}.
+* [**Einführung in die Web-Accessibility**](/fundamentals/accessibility-intro/)
+* [**Web-Accessibility-Perspektiven (Videos)**: Über die Bedeutung und den Nutzen für alle](/perspective-videos/):<br> Videos and Informationen zu spezifischen Accessibility-Themen.
+* [**WAI-Website**](https://www.w3.org/WAI/) — Eine breite Palette von Ressourcen zu verschiedenen Aspekten der Web-Accessibility:<br> [Standards](/standards-guidelines/), [Bildung](/teach-advocate/), [Tests/Evaluierungen](/test-evaluate/), [Projektmanagement und Regeln](/planning/).
 
 ## Verwendung des Videos {#permission}
 
-Sie können dieses Video verwenden, wenn Sie einen Link zu dieser Seite hinzufügen. Weitere Informationen siehe {% include link.html to="/about/using-wai-material/" fallback="Verwendung von WAI-Material: Berechtigung zur Verwendung mit Angabe der Quelle" %}.
+Sie können dieses Video verwenden, wenn Sie einen Link zu dieser Seite hinzufügen. Weitere Informationen siehe [[Verwendung von WAI-Material: Berechtigung zur Verwendung mit Angabe der Quelle]](/about/using-wai-material/).
 
 ## Audiodeskription {#audio-description}
 
 Dieses Video enthält keine Audiodeskription, da das Bildmaterial lediglich das Audio unterstützt und keine zusätzlichen Informationen liefert. In diesem Fall wäre die Audiodeskription für die meisten Menschen, einschließlich jener, die die Bilder nicht sehen können, mehr ablenkend als nützlich. Das untenstehende Transkript enthält Beschreibungen des unterstützenden Bildmaterials.
 
-Beispiele für Videos mit Audiodeskription finden Sie unter [Web-Accessibility-Perspektiven – Audiodeskription (YouTube-Playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Alternativ können Sie eins der Videos auf der Seite {% include link.html to="/perspective-videos/" fallback="Web-Accessibility-Perspektiven" %} ansehen und „{% include t.html t="Enable Audio Description" %}“ („<span lang='en'>Enable Audio Description</span>”) auswählen.
+Beispiele für Videos mit Audiodeskription finden Sie unter [Web-Accessibility-Perspektiven – Audiodeskription (YouTube-Playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Alternativ können Sie eins der Videos auf der Seite [[Web-Accessibility-Perspektiven]](/perspective-videos/) ansehen und „{% include t.html t="Enable Audio Description" %}“ („<span lang='en'>Enable Audio Description</span>”) auswählen.
 
 ## Transkript mit Beschreibung des Bildmaterials {#transcript}
 
@@ -204,4 +206,4 @@ Es sind verschiedene Übersetzungen dieser gesamten Seite verfügbar. Diese sind
 
 ### Übersetzungen in andere Sprachen
 
-Wir freuen uns über weitere Übersetzungen. Wenn Sie die [VTT-Datei](/wai-video-standards-and-benefits/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt) übersetzen, senden Sie sie bitte an <public-wai-translations@w3.org>. Falls Sie diese gesamte Seite oder andere übersetzen möchten, lesen Sie bitte {% include link.html to="/about/translating/" fallback="WAI-Ressourcen übersetzen" %}.
+Wir freuen uns über weitere Übersetzungen. Wenn Sie die [VTT-Datei](/wai-video-standards-and-benefits/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt) übersetzen, senden Sie sie bitte an <public-wai-translations@w3.org>. Falls Sie diese gesamte Seite oder andere übersetzen möchten, lesen Sie bitte [[WAI-Ressourcen übersetzen]](/about/translating/).

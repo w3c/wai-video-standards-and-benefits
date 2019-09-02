@@ -3,7 +3,8 @@ title: "Video-introductie over Web-toegankelijkheid en W3C-standaarden"
 nav_title: "Video-introductie" # A short title that is used in the navigation
 lang: nl
 last_updated: 2019-03-07
-translator: Bert Bos
+translators: 
+- name: "Bert Bos"
 permalink: /videos/standards-and-benefits/nl
 ref: /videos/standards-and-benefits/
 layout: default
@@ -38,13 +39,13 @@ Informatie over deze video is beschikbaar
 
 Voor meer informatie, zie:
 
--   {% include link.html to="/intro/accessibility/" text="**Introductie over Web-toegankelijkheid**" %}
--   {% include link.html to="/perspective-videos/" text="**Video gezichtspunten op Web-toegankelijkheid**: Ontdek de invloed op en voordelen voor iedereen" %} — video's en informatie over specifieke toegankelijkheidsonderwerpen.
--   {% include link.html to="/" text="**WAI website**" %} — om een breed scala aan hulpbronnen te vinden over verschillende aspecten van web-toegankelijkheid {% include link.html to="/standards-guidelines/" text="standaarden" %}, {% include link.html to="/teach-advocate/" text="onderwijs" %}, {% include link.html to="/test-evaluate/" text="testen/evaluatie" %}, {% include link.html to="/planning/" text="project-beheer, en beleid" %}.
+-   [**Introductie over Web-toegankelijkheid**](/fundamentals/accessibility-intro/)
+-   [**Video gezichtspunten op Web-toegankelijkheid**: Ontdek de invloed op en voordelen voor iedereen](/perspective-videos/) — video's en informatie over specifieke toegankelijkheidsonderwerpen.
+-   [**WAI website**](https://www.w3.org/WAI/) — om een breed scala aan hulpbronnen te vinden over verschillende aspecten van web-toegankelijkheid [standaarden](/standards-guidelines/), [onderwijs](/teach-advocate/), [testen/evaluatie](/test-evaluate/), [project-beheer, en beleid](/planning/).
 
 ## Permissie om de video te gebruiken {#permission}
 
-U mag deze video gebruiken als u een link naar deze pagina bijsluit. Meer informatie is beschikbaar in {% include link.html to="/about/using-wai-material/" fallback="WAI-materiaal gebruiken: gebruik toegestaan met naamsvermelding" %}.
+U mag deze video gebruiken als u een link naar deze pagina bijsluit. Meer informatie is beschikbaar in [[WAI-materiaal gebruiken: gebruik toegestaan met naamsvermelding]](/about/using-wai-material/).
 
 ## Audiodescriptie {#audio-description}
 
@@ -208,5 +209,5 @@ Om de vertalingen weer te geven in een apart veld voor transcripties:
 
 ### Vertalen in andere talen
 
-We verwelkomen nieuwe vertalingen. Als u het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}) vertaalt, zend het naar <public-wai-translations@w3.org>. Als u deze hele pagina of andere pagina's wilt vertalen, kijk dan op {% include link.html to="/about/translating/" fallback="WAI-hulpbronnen vertalen" %}.
+We verwelkomen nieuwe vertalingen. Als u het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}) vertaalt, zend het naar <public-wai-translations@w3.org>. Als u deze hele pagina of andere pagina's wilt vertalen, kijk dan op [[WAI-hulpbronnen vertalen]](/about/translating/).
 
