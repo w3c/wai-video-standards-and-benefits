@@ -4,9 +4,9 @@ title: "Vidéo : introduction à l’accessibilité web et aux standards du W3C"
 title_html: "Vidéo&#8239;: introduction à l’accessibilité web et aux standards du W3C" # translate this
 nav_title: "Introduction en vidéo" # A short title that is used in the navigation
 last_updated: 2018-03-07 # update date of this translation
-translators: 
+translators:
 - name: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
-contributors: 
+contributors:
 - name: "Sylvie Duchateau"
 permalink: /videos/standards-and-benefits/fr # Add the language shortcode; for example: /videos/standards-and-benefits/zh
 ref: /videos/standards-and-benefits/ # do NOT change this
@@ -19,12 +19,12 @@ feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
   <p><strong>Date&#8239;:</strong> Updated 20 December 2018. First published 4 December 2017. CHANGELOG.</p>
-  <p>Direction de projet&#8239;: <a hreflang="en" href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributeurs: <a hreflang="en" href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a hreflang="en" href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a hreflang="en" href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Capture et montage de la vidéo&#8239;: Ulrich Grimm, av-design GmbH.</p>
+  <p>Direction de projet&#8239;: <a hreflang="en" href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributeurs: <a hreflang="en" href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a hreflang="en" href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a hreflang="en" href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Capture et montage de la vidéo&#8239;: Ulrich Grimm, av-design GmbH. Vidéos produites avec le soutien du projet WAI-DEV, co-financées par la Commission Européenne. Traductions produites avec le soutien du projet <span lang="en">WAI Expanding Access</span>, financé par la Fondation Ford.</p>
 # end of translation notes
 ---
 
-{% include video-player.html 
-           yt-id="20SHvU2PKsM" 
+{% include video-player.html
+           yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
            subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr|default,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
@@ -192,7 +192,7 @@ w3.org/WAI</td>
 
 ## Traductions {#translations}
 
-Vous pouvez trouver des traductions complètes de cette page web. Elles sont en lien en haut de la page.<br>Il existe d’autres traductions de la vidéo. Elles sont disponibles sous forme de sous-titres et de transcriptions.
+Vous pouvez trouver des traductions complètes de cette page web. Elles sont en lien en haut de la page.<br>Il existe **d’autres traductions de la vidéo**. Elles sont disponibles sous forme de sous-titres et de transcriptions.
 
 Pour afficher les sous-titres traduits dans le bas de la vidéo&#8239;:
 
@@ -202,9 +202,9 @@ Pour afficher les sous-titres traduits dans le bas de la vidéo&#8239;:
 
 Pour afficher une traduction dans une zone de transcription séparée&#8239;:
 
-1. Choisissez “Afficher la transcription”.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. Choisissez «&#8239;Afficher la transcription&#8239;».<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Utilisez la liste déroulante “Langue” pour sélectionner la transcription.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.fr.png" | relative_url }}' alt="">
+2. Utilisez la liste déroulante «&#8239;Langue&#8239;» pour sélectionner la transcription.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.fr.png" | relative_url }}' alt="">
 
 ### Traduire dans d’autres langues
 
