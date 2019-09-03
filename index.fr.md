@@ -3,7 +3,7 @@
 title: "Vidéo : introduction à l’accessibilité web et aux standards du W3C" # translate this
 title_html: "Vidéo&#8239;: introduction à l’accessibilité web et aux standards du W3C" # translate this
 nav_title: "Introduction en vidéo" # A short title that is used in the navigation
-last_updated: 2018-03-07 # update date of this translation
+last_updated: 2019-09-03 # update date of this translation
 translators:
 - name: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
 contributors:
