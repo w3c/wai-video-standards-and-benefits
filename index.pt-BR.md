@@ -5,9 +5,9 @@ nav_title: "Vídeo de Introdução" # A short title that is used in the navigati
 lang: pt-BR # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2019-07-23 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
-- name: "Lucas Nobrega"   # Replace @@ with name, add separate - name lines for every translator
+  - name: "Lucas Nobrega" # Replace @@ with name, add separate - name lines for every translator
 contributors:
-- name: "Reinaldo Ferraz"   # Replace @@ with name, add separate - name lines for every
+  - name: "Reinaldo Ferraz" # Replace @@ with name, add separate - name lines for every
 permalink: /videos/standards-and-benefits/pt-BR # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/ # Do not change this
 layout: default
@@ -32,9 +32,9 @@ footer:
 Esta informação do vídeo está disponível:
 
 - **Em diferentes idiomas** — [Instruções para ver as legendas e os vídeos transcritos](#traducoes) estão abaixo
-- Abaixo com o  **[Texto Transcrito com a Descrição das Imagens](#transcript)** 
+- Abaixo com o **[Texto Transcrito com a Descrição das Imagens](#transcript)**
 - [No YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-- On a W3C server — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Brazilian portuguese subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.pt-BR.vtt), [list of other language files](http://media.w3.org/wai/accessibility-intro/)
+- No servidor da W3C — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [arquivo de legenda em português Brasileiro (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.pt-BR.vtt), [lista de outros arquivos de idioma](http://media.w3.org/wai/accessibility-intro/)
   {% comment %}# For translations, replace:
   "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
   "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
@@ -52,12 +52,11 @@ Para mais informações, veja:
 
 Você pode usar esse vídeo se incluir um _link_ para esta página. Mais informações disponiveis em [[Usando Material do WAI: Permissão para Usar com Reconhecimento]](/about/using-wai-material/).
 
-
 ## Descrição de Áudio {#audio-description}
 
 Este vídeo não inclui uma descrição de áudio porque as imagens somente reafirmam o áudio e não proveem informação adicional. Neste caso, a descrição do audio seria mais distrativa do que útil para a maioria das pessoas, incluido aquelas que não podem ver as imagens. A Transcrição com a Descrição abaixo inclui descrição das imagens do vídeo.
 
-Se deseja exemplos de vídeos com descrição de áudio, veja [Web Accessibility Perspectives - Audio Described (YouTube playlist)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Ou pode selecionar um dos vídeos [Web Accessibility Perspectives web page](/perspective-videos/) e selecionar "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+Se deseja exemplos de vídeos com descrição de áudio, veja [Perspectivas de Acessibilidade Web - Descrição do Audio (lista de reprodução do YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Ou pode selecionar um dos vídeos [no site Perspectivas de Acessibilidade Web](/perspective-videos/) e selecionar "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
 (Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
@@ -75,8 +74,8 @@ Se deseja exemplos de vídeos com descrição de áudio, veja [Web Accessibility
   <tbody>
     <tr>
       <td>Olá, meu nome é Shadi Abou-Zahra. Eu sou o Especialista em Tecnologia e Estratégia de acessibilidade do W3C, o, Consórcio World Wide Web e hoje eu gostaria de informá-lo sobre acessibilidade na Web.</td>
-      <td>Web Accessibility<br>
-        [Shadi speaking]</td>
+      <td>Acessibilidade Web<br>
+        [Shadi falando]</td>
     </tr>
     <tr>
       <td>Para muitas pessoas a Web é uma parte essencial do dia a dia.</td>
@@ -96,7 +95,7 @@ Se deseja exemplos de vídeos com descrição de áudio, veja [Web Accessibility
     </tr>
     <tr>
       <td>Acessibilidade na Web significa que pessoas com deficiências podem usar a Web igualmente.</td>
-      <td>[Shadi speaking]</td>
+      <td>[Shadi falando]</td>
     </tr>
     <tr>
       <td>Por exemplo, alguém que não pode usar os braços e usa um bastão de boca para digitar.</td>
@@ -217,4 +216,4 @@ Para obter a traduções em uma área de transcrição separada:
 ### Traduzir para outros idiomas
 
 Agradecemos as traduções adicionais. Se você traduzir o
-[arquivo VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. Se você talvez deseja traduzir esse site inteiro ou outras, por favor veja [[Translating WAI Resources]](/about/translating/).
+[arquivo VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), por favor enviar para o email <public-wai-translations@w3.org>. Se você talvez deseja traduzir esse site inteiro ou outras, por favor veja [[Traduzindo recursos WAI]](/about/translating/).
