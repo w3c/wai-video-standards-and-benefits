@@ -215,10 +215,4 @@ Para obter a traduções em uma área de transcrição separada:
 
 ### Traduzir para outros idiomas
 
-Agradecemos as traduções adicionais. Se você traduzir o
-<<<<<<< HEAD
-[arquivo VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), por favor enviar para o email <public-wai-translations@w3.org>. Se você talvez deseja traduzir esse site inteiro ou outras, por favor veja [[Traduzindo recursos WAI]](/about/translating/).
-=======
-[arquivo VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. Se você talvez deseja traduzir esse site inteiro ou outras, por favor veja [[Translating WAI Resources]](/about/translating/).
-
->>>>>>> 434ec78e1a4ae13365a4c8d24eba094aabc4642f
+Agradecemos as traduções adicionais. Se você traduzir o [arquivo VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), por favor enviar para o email <public-wai-translations@w3.org>. Se você talvez deseja traduzir esse site inteiro ou outras, por favor veja [[Traduzindo recursos WAI]](/about/translating/).
