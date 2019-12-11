@@ -34,7 +34,7 @@ Esta informação do vídeo está disponível:
 - **Em diferentes idiomas** — [Instruções para ver as legendas e os vídeos transcritos](#traducoes) estão abaixo
 - Abaixo com o **[Texto Transcrito com a Descrição das Imagens](#transcript)**
 - [No YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-- No servidor da W3C — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [arquivo de legenda em português Brasileiro (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.pt-BR.vtt), [lista de outros arquivos de idioma](http://media.w3.org/wai/accessibility-intro/)
+- No servidor do W3C — [video (formato do arquivo: MP4, tamanho do arquivo: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [arquivo de legenda em português Brasileiro (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.pt-BR.vtt), [lista de outros arquivos de idioma](http://media.w3.org/wai/accessibility-intro/)
   {% comment %}# For translations, replace:
   "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
   "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
