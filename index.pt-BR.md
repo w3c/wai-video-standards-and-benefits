@@ -31,7 +31,7 @@ footer:
 
 Esta informação do vídeo está disponível:
 
-- **Em diferentes idiomas** — [Instruções para ver as legendas e os vídeos transcritos](#traducoes) estão abaixo
+- **Em diferentes idiomas** — [Instruções para ver as legendas e transcrições](#traducoes) estão abaixo
 - Abaixo com o **[Texto Transcrito com a Descrição das Imagens](#transcript)**
 - [No YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
 - No servidor do W3C — [video (formato do arquivo: MP4, tamanho do arquivo: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [arquivo de legenda em português Brasileiro (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.pt-BR.vtt), [lista de outros arquivos de idioma](http://media.w3.org/wai/accessibility-intro/)
@@ -42,21 +42,21 @@ Esta informação do vídeo está disponível:
 
 ## Mais informações {#moreinfo}
 
-Para mais informações, veja:
+Para mais informações acesse:
 
 - [[**Introdução a Acessibilidade Web**]](/fundamentals/accessibility-intro/)
-- [[**Videos de Perspectivas de Acessiblilidade Web**: Explore o impacto e os benefícios para todo o mundo]](/perspective-videos/) — videos e informação sobre temas específicos de acessibilidade.
+- [[**Videos de Perspectivas de Acessibilidade Web**: Explore o impacto e os benefícios para todos]](/perspective-videos/) — videos e informação sobre temas específicos de acessibilidade.
 - [**WAI website**](https://www.w3.org/WAI/) — para encontrar uma ampla variedade de recursos sobre diferentes aspectos [padrões](/standards-guidelines/), [educação](/teach-advocate/), [teste/evolução](/test-evaluate/), [gestão de projetos e política](/planning/) na acessibilidade web.
 
 ## Permissão para Usar o Vídeo {#permission}
 
-Você pode usar esse vídeo se incluir um _link_ para esta página. Mais informações disponiveis em [[Usando Material do WAI: Permissão para Usar com Reconhecimento]](/about/using-wai-material/).
+Você pode usar esse vídeo se incluir um _link_ para esta página. Mais informações disponiveis em [[Usando Material da WAI: Permissão para Usar com Atribuição]](/about/using-wai-material/).
 
 ## Descrição de Áudio {#audio-description}
 
-Este vídeo não inclui uma descrição de áudio porque as imagens somente reafirmam o áudio e não proveem informação adicional. Neste caso, a descrição do audio seria mais distrativa do que útil para a maioria das pessoas, incluido aquelas que não podem ver as imagens. A Transcrição com a Descrição abaixo inclui descrição das imagens do vídeo.
+Este vídeo não inclui uma descrição de áudio porque as imagens somente reafirmam o áudio e não proveem informação adicional. Neste caso, a descrição do áudio seria mais distrativa do que útil para a maioria das pessoas, incluindo aquelas que não podem ver as imagens. A Transcrição com a Descrição abaixo inclui descrição das imagens do vídeo.
 
-Se deseja exemplos de vídeos com descrição de áudio, veja [Perspectivas de Acessibilidade Web - Descrição do Audio (lista de reprodução do YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Ou pode selecionar um dos vídeos [no site Perspectivas de Acessibilidade Web](/perspective-videos/) e selecionar "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+Se deseja exemplos de vídeos com descrição de áudio, acesse [Perspectivas de Acessibilidade Web - Descrição do Audio (lista de reprodução do YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Ou você pode selecionar um dos vídeos [no site Perspectivas de Acessibilidade Web](/perspective-videos/) e selecionar "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
 (Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
@@ -199,19 +199,19 @@ Se deseja exemplos de vídeos com descrição de áudio, veja [Perspectivas de A
 
 ## Traduções {#translations}
 
-Existe algumas traduções deste site por inteiro. Elas são atreladas ao topo desta página.<br>Existem **mais traduções somente do vídeo**. Elas estão disponiveis como legendas transcrisções.
+Existem algumas traduções deste site por inteiro. Elas são atreladas ao topo desta página.<br>Existem **mais traduções somente do vídeo**. Elas estão disponíveis como legendas e transcrições.
 
-Para obter as traduções na área de subtítulos na parte inferior do vídeo:
+Para habilitar as traduções de legendas na parte inferior do vídeo:
 
 1. Selecione <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Legendas".
 
 2. Escolha o idioma.
 
-Para obter a traduções em uma área de transcrição separada:
+Para habilitar traduções em uma área de transcrição separada:
 
 1. Selecione "Mostrar transcrição".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Use o menu despregavel de "Idiomas" para selecionar as legendas.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.pt-BR.png" | relative_url }}' alt="">
+2. Use o menu drop-down de "Idiomas" para selecionar as legendas.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.pt-BR.png" | relative_url }}' alt="">
 
 ### Traduzir para outros idiomas
 
