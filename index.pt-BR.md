@@ -7,7 +7,8 @@ last_updated: 2019-07-23 # Put the date of this translation YYYY-MM-DD (with mon
 translators:
   - name: "Lucas Nobrega" # Replace @@ with name, add separate - name lines for every translator
 contributors:
-  - name: "Reinaldo Ferraz" # Replace @@ with name, add separate - name lines for every
+  - name: "Reinaldo Ferraz" # Replace @@ with name, add separate - name lines for every translator
+  - name: "Caroline Burle" # Replace @@ with name, add separate - name lines for every translator
 permalink: /videos/standards-and-benefits/pt-BR # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/ # Do not change this
 layout: default
@@ -17,8 +18,8 @@ github:
 footer:
   > # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Data:</strong> Atualizado 21 Fevereiro 2019. Publicado inicialmente 4 December 2017. <a href="./changelog/">Log de mudanças</a>.</p>
-  <p>Diretor do projeto: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Colaboradores: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Gravação e edição do vídeo: Ulrich Grimm, av-design GmbH. Vídeos desenvolvido com o suporte de <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-fundado pela Comissão Europeia. Traduções gerenciadas com o suporte de <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, fundado pela Ford Foundation.</p>
-
+  <p>Diretor do projeto: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Colaboradores: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Gravação e edição do vídeo: Ulrich Grimm, av-design GmbH. Vídeos desenvolvidos com o suporte da <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-financiado pela Comissão Europeia. Traduções gerenciadas com o suporte da <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, financiado pela Ford Foundation.</p>
+ 
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
@@ -29,12 +30,12 @@ footer:
            subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR|default,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
            %}
 
-Esta informação do vídeo está disponível:
+As informações sobre esse vídeo estão disponíveis:
 
-- **Em diferentes idiomas** — [Instruções para ver as legendas e transcrições](#traducoes) estão abaixo
+- **Em diferentes idiomas** — [Instruções para ver as legendas e transcrições](#traduções) estão abaixo
 - Abaixo com o **[Texto Transcrito com a Descrição das Imagens](#transcript)**
 - [No YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-- No servidor do W3C — [video (formato do arquivo: MP4, tamanho do arquivo: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [arquivo de legenda em português Brasileiro (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.pt-BR.vtt), [lista de outros arquivos de idioma](http://media.w3.org/wai/accessibility-intro/)
+- No servidor do W3C — [vídeo (formato do arquivo: MP4, tamanho do arquivo: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [arquivo de legenda em português Brasileiro (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.pt-BR.vtt), [lista de outros arquivos de idioma](http://media.w3.org/wai/accessibility-intro/)
   {% comment %}# For translations, replace:
   "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
   "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
@@ -45,12 +46,12 @@ Esta informação do vídeo está disponível:
 Para mais informações acesse:
 
 - [[**Introdução a Acessibilidade Web**]](/fundamentals/accessibility-intro/)
-- [[**Videos de Perspectivas de Acessibilidade Web**: Explore o impacto e os benefícios para todos]](/perspective-videos/) — videos e informação sobre temas específicos de acessibilidade.
+- [[**Vídeos sobre Perspectivas de Acessibilidade Web**: Explore o impacto e os benefícios para todos]](/perspective-videos/) — vídeos e informações sobre temas específicos de acessibilidade.
 - [**WAI website**](https://www.w3.org/WAI/) — para encontrar uma ampla variedade de recursos sobre diferentes aspectos [padrões](/standards-guidelines/), [educação](/teach-advocate/), [teste/evolução](/test-evaluate/), [gestão de projetos e política](/planning/) na acessibilidade web.
 
 ## Permissão para Usar o Vídeo {#permission}
 
-Você pode usar esse vídeo se incluir um _link_ para esta página. Mais informações disponiveis em [[Usando Material da WAI: Permissão para Usar com Atribuição]](/about/using-wai-material/).
+Você pode usar esse vídeo se incluir um _link_ para esta página. Mais informações disponíveis em [[Usando Material da WAI: Permissão para Usar com Atribuição]](/about/using-wai-material/).
 
 ## Descrição de Áudio {#audio-description}
 
@@ -158,7 +159,7 @@ Se deseja exemplos de vídeos com descrição de áudio, acesse [Perspectivas de
       <td>[Shadi falando]</td>
     </tr>
     <tr>
-      <td>O mais conhecido são as Diretrizes de Acessibilidade para Conteúdo Web - WCAG. As WCAG também são o padrão ISO 40500, e adotadas no padrão europeu denominado EN 301 549. Elas são fundamentadas em torno de quarto princípios:</td>
+      <td>Alguns dos mais conhecidos são as Diretrizes de Acessibilidade para Conteúdo Web - WCAG. As WCAG também são o padrão ISO 40500, e adotadas no padrão europeu denominado EN 301 549. Elas são fundamentadas em torno de quarto princípios:</td>
       <td>Diretrizes de Acessibilidade para Conteúdo Web - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
