@@ -3,7 +3,7 @@ title: "Changelog for Video Introduction to Web Accessibility and W3C Standards"
 title_html: 'Changelog for <a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a>'
 nav_title: "Changelog"
 lang: en
-last_updated: 2019-05-24
+last_updated: 200 -08-24
 permalink: /videos/standards-and-benefits/changelog/
 ref: /videos/standards-and-benefits/changelog/
 layout: default
@@ -17,12 +17,7 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 
 ## August 2020
 
-* Added video subtitle file "W3C_INTRO_SFHI.cs.vtt|cs" :
-  ```markdown
-   {% include video-player.html 
-    ... subtitles="W3C_INTRO_SFHI.ar.vtt|ar, ... W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs"
-           %}
-    ```
+* Added video subtitle file: W3C_INTRO_SFHI.cs.vtt|cs
 
 ## February – May 2019
 
