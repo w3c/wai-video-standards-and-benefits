@@ -6,7 +6,7 @@ nav_title: "Video úvod" # A short title that is used in the navigation
  
 lang: cs # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
  
-last_updated: 2020-08-23  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2020-08-24  # Put the date of this translation YYYY-MM-DD (with month in the middle)
  
 translators:
 - name: "Kristýna Švecová" # Replace @@ with translator name
