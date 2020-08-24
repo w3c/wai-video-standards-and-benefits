@@ -15,6 +15,15 @@ changelog: /videos/standards-and-benefits/changelog/
 
 _This changelog includes some Markdown and HTML syntax to facilitate updating translations._
 
+## August 2020
+
+* Added video subtitle file "W3C_INTRO_SFHI.cs.vtt|cs" :
+  ```markdown
+   {% include video-player.html 
+    ... subtitles="W3C_INTRO_SFHI.ar.vtt|ar, ... W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs"
+           %}
+    ```
+
 ## February – May 2019
 
 * Fixed typo "quite"->"quiet":<br>from: <q>For example, captions benefit anyone in a loud or in a quite environment.</q><br>&nbsp;&nbsp;&nbsp;&nbsp;to: <q>For example, captions benefit anyone in a loud or in a quiet environment.</q>
