@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
  
-title: "Video úvod pro webovou přístupnost a W3C standardy"  # Do not translate "title:". Do translate the text after "title:".
+title: "Video úvod do webové přístupnosti a W3C standardů"  # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video úvod" # A short title that is used in the navigation
  
 lang: cs # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
@@ -36,7 +36,7 @@ footer: >   # Do not change the dates in the footer text below.
  
 Informace ve videu jsou dostupné:
 * **V různých jazycích** — [Instrukce pro zobrazení titulků a přepisů](#translations) následují
-* jako**[textový přepis s popisem vizuálního obsahu](#transcript)** níže
+* Jako **[textový přepis s popisem vizuálního obsahu](#transcript)** níže
 * [Na YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
 * Na serveru W3C — [video (formát souboru: MP4, velikost souboru: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [český soubor s titulky (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.cs.vtt), [seznam souborů vs ostatními jazyky](http://media.w3.org/wai/accessibility-intro/)
 {% comment %}# For translations, replace above:
@@ -46,7 +46,7 @@ Informace ve videu jsou dostupné:
  
 ## Více {#moreinfo}
  
-Pro více informací, navštivte:
+Pro více informací navštivte:
  
 * [[**Úvod do webové přístupnosti**]](/intro/accessibility/)
 * [[**Videa o perspektivách webové přístupnosti**: Prozkoumejte dopady a výhody pro všechny uživatele]](/perspective-videos/) — videa a informace o konkrétních tématech přístupnosti.
@@ -54,13 +54,13 @@ Pro více informací, navštivte:
  
 ## Povolení použít video {#permission}
  
-Můžete použít toto video, pokud uvedete link na tuto stránku. Více informací na [[Používání materiálů WAI: Povolení použití s uvedením autorství]](/about/using-wai-material/).
+Toto video můžete použít, pokud uvedete odkaz na tuto stránku. Více informací na [[Používání materiálů WAI: Povolení použití s uvedením autorství]](/about/using-wai-material/).
  
 ## Audio popis {#audio-description}
 
 Toto video nezahrnuje audio popis, protože vizuální stránka pouze podporuje audio a neposkytuje žádné dodatečné informace. V tomto případě by byl audio popis pro většinu uživatelů více rušivý než užitečný, včetně lidí, kteří nevidí vizuální obsah. Následující Přepis s Popisem zahrnuje popis podpůrného vizuálního obsahu.
  
-Pokud chcete ukázky videí s audio popisem, navštivte [Perspektivy webové přístupnosti - Audio Popis (seznam YouTube videí)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Nebo můžete vybrat jedno z videí na [webové stránce Perspektiv webové přístupnosti](/perspective-videos/) a vyberte "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+Pokud chcete ukázky videí s audio popisem, navštivte [Perspektivy webové přístupnosti - Audio Popis (seznam YouTube videí)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Nebo můžete vybrat jedno z videí na [webové stránce Perspektiv webové přístupnosti](/perspective-videos/), kde zvolíte možnost "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate "Enable Audio Description". It will be automatically translated. (Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
 {% endcomment %}
  
@@ -108,8 +108,8 @@ Pokud chcete ukázky videí s audio popisem, navštivte [Perspektivy webové př
     	<td>Člověk používá naslouchátko</td>
     	</tr>
     	<tr>
-    	<td> Nebo někdo, kdo nevidí dobře a používá odečítač obrazovky, který nahlas přečte, co je na obrazovce.</td>
-    	<td>Člověk používá odečítač obrazovky</td>
+    	<td>Nebo někdo, kdo nevidí dobře a používá čtečku obrazovky, která nahlas přečte, co je na obrazovce.</td>
+    	<td>Člověk používá čtečku obrazovky</td>
     	</tr>
     	<tr>
     	<td>Webová přístupnost má mnoho výhod.</td>
@@ -125,10 +125,10 @@ Pokud chcete ukázky videí s audio popisem, navštivte [Perspektivy webové př
     	</tr>
     	<tr>
     	<td>Přístupnost je dobrá také pro lidi staršího věku, jejichž zručnost může být zhoršena.</td>
-    	<td>Člověk s třesoucíma rukama má problémy použít myš</td>
+    	<td>Člověk s třesoucíma se rukama má problémy použít myš</td>
     	</tr>
     	<tr>
-    	<td>Zlepšení dispozice a designu je lepší pro uživatelký prožitek každého uživatele.</td>
+    	<td>Zlepšení dispozice a designu je lepší pro uživatelský prožitek.</td>
     	<td>Dva lidé se usmívají nad dobře navrženou webovou stránkou</td>
     	</tr>
     	<tr>
