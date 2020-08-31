@@ -10,6 +10,8 @@ last_updated: 2020-08-24  # Put the date of this translation YYYY-MM-DD (with mo
  
 translators:
 - name: "Kristýna Švecová" # Replace @@ with translator name
+contributors: #Add one -name: line for every contributor
+- name: "Jiří Zmrhal"
  
  
 ref: /videos/standards-and-benefits/   # Do not change this
