@@ -66,7 +66,7 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
   </thead>
   <tbody>
     <tr>
-      <td>Bonjour&#8239;! Je m’appelle Shadi Abou-Zahra. Je suis le Spécialiste Technologie et Stratégie pour l’Accessibilité au W3C, le <span lang="en">World Wide Web Consortium</span>, et aujourd’hui j’aimerais vous parler de l’accessibilité du web.</td>
+      <td>Bonjour&#8239;! Je suis Shadi Abou-Zahra. Je suis le Spécialiste Technologie et Stratégie pour l’Accessibilité au W3C, le «&#8239;<span lang="en">World Wide Web Consortium</span>&#8239;», et aujourd’hui j’aimerais vous parler d’accessibilité web.</td>
       <td>Accessibilité web<br>
         [Shadi parle]</td>
     </tr>
@@ -151,15 +151,15 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
       <td>[Shadi parle]</td>
     </tr>
     <tr>
-      <td>Les plus connus sont les Recommandations de Contenus Web Accessibles (WCAG). Les WCAG sont aussi le standard ISO 40500, et elles ont été adoptées dans le standard européen nommé EN 301 549. Elles s’articulent autour de quatre grands principes&#8239;:</td>
+      <td>Les plus connus sont les Recommandations de Contenus Web Accessibles — WCAG. Les WCAG sont aussi le standard ISO 40500, et elles ont été adoptées dans le standard européen nommé EN 301 549. Elles s’articulent autour de quatre grands principes&#8239;:</td>
       <td><span lang="en">Web Content Accessibility Guidelines</span> (Règles pour l’accessibilité des contenus Web) - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
-      <td>Tout d’abord&#8239;: Perceptible. Par exemple, on doit pouvoir voir le contenu ou l’entendre.</td>
+      <td>Un&#8239;: Perceptible. Par exemple, on doit pouvoir voir le contenu ou l’entendre.</td>
       <td>Une personne tape sur sa tablette et écoute dans un casque audio</td>
     </tr>
     <tr>
-      <td>Utilisable. On doit pouvoir utiliser l’ordinateur avec un clavier comme avec la voix, par exemple.</td>
+      <td>Opérable. On doit pouvoir utiliser l’ordinateur avec un clavier comme avec la voix, par exemple.</td>
       <td>Une personne parle à son ordinateur</td>
     </tr>
     <tr>
@@ -171,19 +171,19 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
       <td>Une personne utilise une loupe logicielle sur un grand écran d’ordinateur</td>
     </tr>
     <tr>
-      <td>En plus des WCAG, W3C fournit aussi les Recommandations d’Accessibilité des Outils de Production (ATAG), qui définissent des exigences pour les gestionnaires de contenu, les éditeurs de codes et d’autres logiciels.</td>
+      <td>En plus des WCAG, W3C fournit aussi les Recommandations d’Accessibilité des Outils de Production — ATAG, qui définissent des exigences pour les gestionnaires de contenu, les éditeurs de codes et d’autres logiciels.</td>
       <td><span lang="en">Authoring Tool Accessibility Guidelines</span> - ATAG</td>
     </tr>
     <tr>
-      <td>Et les Recommandations d’Accessibilité des Agents Utilisateurs (UAAG), définissent des exigences pour les navigateurs et les lecteurs multimédia.</td>
+      <td>Et les Recommandations d’Accessibilité des Agents Utilisateurs — UAAG, définissent des exigences pour les navigateurs et les lecteurs multimédia.</td>
       <td><span lang="en">User Agent Accessibility Guidelines</span> - UAAG</td>
     </tr>
     <tr>
-      <td>Plus d’un milliard de personnes ont un handicap, soit 15 à 20 % de la population. La convention des Nations Unies sur les Droits des Personnes Handicapées stipule que l’accès à l’information, y compris au Web, est un droit humain. La plupart des pays du monde a ratifié cette convention de l’ONU et plusieurs d’entre eux ont légiféré sur le sujet. Mais même sans lois ni règlements, intégrer les standards de l’accessibilité est une nécessité pour les personnes handicapées, et utile à tous.</td>
+      <td>Plus d’un milliard de personnes ont un handicap, soit 15 à 20 % de la population. La convention des Nations Unies sur les Droits des Personnes Handicapées stipule que l’accès à l’information, y compris au Web, est un droit humain. La plupart des pays du monde a ratifié cette convention de l’ONU et plusieurs d’entre eux ont légiféré sur le sujet. Mais même sans lois ni règlements, intégrer les standards de l’accessibilité est une nécessité pour les personnes handicapées, et est utile à tous.</td>
       <td>[Shadi parle]</td>
     </tr>
     <tr>
-      <td>Pour plus d’informations sur l’accessibilité web, visitez [w3.org/WAI](https://w3.org/WAI)</td>
+      <td>Pour plus d’informations sur l’accessibilité web, visitez w3.org/WAI</td>
       <td>W3C <span lang="en">Web Accessibility Initiative</span><br>
 w3.org/WAI</td>
     </tr>
