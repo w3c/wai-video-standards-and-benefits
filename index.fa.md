@@ -1,24 +1,25 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "ویدیو آشنایی با دسترسی‌پذیری وب و استانداردهای W3C"   # Do not translate "title:". Do translate the text after "title:".
+title: "ویدیو آشنایی با دسترسی‌پذیری وب و استانداردهای W3C" # Do not translate "title:". Do translate the text after "title:".
 nav_title: "ویدیو آشنایی" # A short title that is used in the navigation
-lang: fa   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2020-09-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translators: 
+lang: fa # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2020-09-07 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+translators:
   - name: "Goudarz Jafari"
-  link: https://twitter.com/GoudarzJafari
 
 # contributors:
-# - name: "@@"   # Replace @@ with name, add separate - name lines for every 
-permalink: /videos/standards-and-benefits/fa   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /videos/standards-and-benefits/   # Do not change this
+# - name: "@@"   # Replace @@ with name, add separate - name lines for every
+permalink: /videos/standards-and-benefits/fa # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /videos/standards-and-benefits/ # Do not change this
 layout: default
 github:
-   repository: w3c/wai-video-standards-and-benefits
-   path: 'index.fa.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-   <p><strong>تاریخ:</strong> به روز شده در ۲۴ آگوست ۲۰۲۰ (پرونده زیرنویس ویدیو اضافه شده). اولین بار ۴ دسامبر ۲۰۱۷ منتشر شد. <a href="./changelog/">تغییرات</a>.</p>
-   <p>سرپرست پروژه: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. همكاران: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>، <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>، <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. فیلم‌بردار و ویرایشگر فیلم: Ulrich Grimm، av-design GmbH. کلیپ‌های ویدیویی با پشتیبانی پروژه WAI-DEV، که توسط کمیسیون اروپا تامین مالی شده است، ساخته شده‌اند. ترجمه‌ها با پشتیبانی از پروژه WAI Expanding Access، که توسط بنیاد Ford تامین می‌شود، مدیریت می‌شوند.</p>
+  repository: w3c/wai-video-standards-and-benefits
+  path: "index.fa.md" # Add the language shortcode to the middle of the filename, for example index.fr.md
+footer:
+  > # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
+  <p><strong>تاریخ:</strong> به روز شده در ۲۴ آگوست ۲۰۲۰ (پرونده زیرنویس ویدیو اضافه شده). اولین بار ۴ دسامبر ۲۰۱۷ منتشر شد. <a href="./changelog/">تغییرات</a>.</p>
+  <p>سرپرست پروژه: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. همكاران: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>، <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>، <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. فیلم‌بردار و ویرایشگر فیلم: Ulrich Grimm، av-design GmbH. کلیپ‌های ویدیویی با پشتیبانی پروژه WAI-DEV، که توسط کمیسیون اروپا تامین مالی شده است، ساخته شده‌اند. ترجمه‌ها با پشتیبانی از پروژه WAI Expanding Access، که توسط بنیاد Ford تامین می‌شود، مدیریت می‌شوند.</p>
+
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
