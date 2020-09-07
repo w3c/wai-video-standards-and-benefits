@@ -3,38 +3,39 @@
 title: "Vídeo de Introducción a la Accesibilidad Web y los Estándares del W3C"
 nav_title: "Vídeo de Introducción" # A short title that is used in the navigation
 last_updated: 2019-06-20
-translators: 
-- name: "Martín Álvarez-Espinar"
-  org: CTIC
+translators:
+  - name: "Martín Álvarez-Espinar"
+    org: CTIC
 permalink: /videos/standards-and-benefits/es
 ref: /videos/standards-and-benefits/ # do NOT change this
 lang: es
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.es.md'
+  path: "index.es.md"
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: >
   <p><strong>Fecha:</strong> Actualizado el 20 de diciembre de 2018. Publicado inicialmente el 4 de diciembre de 2017. Historial de Cambios.</p>
   <p>Director del proyecto: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Colaboradores: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Grabación y edición del vídeo: Ulrich Grimm, av-design GmbH. Videoclips elaborados con el apoyo del <a href="https://www.w3.org/WAI/DEV/">proyecto WAI-DEV</a>, cofinanciado por la  Comisión Europea. Traducciones gestionadas con el apoyo del <a href="https://www.w3.org/WAI/expand-access/">proyecto WAI Expanding Access</a>, financiado por la Fundación Ford.</p>
+
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 # end of translation instructions
 ---
 
-{% include video-player.html 
-           yt-id="20SHvU2PKsM" 
+{% include video-player.html
+           yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es|default,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es|default,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.fa.vtt|fa"
            %}
 
 Esta información del video está disponible:
 
-* **Como subtítulos en diferentes idiomas**. Vea [instrucciones para ver las traducciones](#traducciones) más abajo.
-* Como **[transcripción de texto con descripción de las imágenes](#transcript)**, más abajo.
-* [En YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* En un servidor del W3C — [vídeo (formato del archivo: MP4, tamaño del archivo: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Archivo de subtítulo en Castellano (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.es.vtt), [listado de otros ficheros de idiomas](http://media.w3.org/wai/accessibility-intro/)
+- **Como subtítulos en diferentes idiomas**. Vea [instrucciones para ver las traducciones](#traducciones) más abajo.
+- Como **[transcripción de texto con descripción de las imágenes](#transcript)**, más abajo.
+- [En YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+- En un servidor del W3C — [vídeo (formato del archivo: MP4, tamaño del archivo: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Archivo de subtítulo en Castellano (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.es.vtt), [listado de otros ficheros de idiomas](http://media.w3.org/wai/accessibility-intro/)
 
 ## Más información {#moreinfo}
 
@@ -55,7 +56,7 @@ Este video no incluye una descripción del audio porque las imágenes son de apo
 Si deseas ejemplos de videos con descripción de audio, consulta [Perspectivas de Accesibilidad Web – Audio descrito (lista de reproducción de YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxyczADee-). O puedes seleccionar uno de los videos en la [página web de Perspectivas de la Accesibilidad Web](/perspective-videos/) y selecciona "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
-(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+(Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
 {% endcomment %}
 
 ## Transcripción de texto con descripción de imágenes {#transcript}

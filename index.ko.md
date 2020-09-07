@@ -1,50 +1,53 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "웹 접근성 소개 영상과 W3C 표준"   # Do not translate "title:". Do translate the text after "title:".
+title: "웹 접근성 소개 영상과 W3C 표준" # Do not translate "title:". Do translate the text after "title:".
 nav_title: "소개 영상" # A short title that is used in the navigation
-lang: ko   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-06-16   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translators: 
-- name: "Yong Ui Lee"   # Replace @@ with name, add separate - name lines for every translator
-  link: "https://twitter.com/yongui9"
+lang: ko # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2019-06-16 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+translators:
+  - name: "Yong Ui Lee" # Replace @@ with name, add separate - name lines for every translator
+    link: "https://twitter.com/yongui9"
 contributors:
-- name: "Jun Ho Lee"
-permalink: /videos/standards-and-benefits/ko   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /videos/standards-and-benefits/   # Do not change this
+  - name: "Jun Ho Lee"
+permalink: /videos/standards-and-benefits/ko # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /videos/standards-and-benefits/ # Do not change this
 layout: default
 github:
-   repository: w3c/wai-video-standards-and-benefits
-   path: 'index.ko.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-   <p><strong>날짜:</strong> 2019년 2월 21일 업데이트됨. 첫 발행은 2017년 12월 4일. <a href="./changelog/">변경 기록</a>.</p>
-   <p>프로젝트 리더: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. 기여한 사람들: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. 영상 촬영자와 편집자: Ulrich Grimm, av-design GmbH. 영상은 European Commission에 의해 공동 창립된 <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>의 지원을 받아 만들어졌습니다. 번역은 Ford Foundation의 재정 지원을 받은 <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>의 지원을 받아 운영되고 있습니다.
+  repository: w3c/wai-video-standards-and-benefits
+  path: "index.ko.md" # Add the language shortcode to the middle of the filename, for example index.fr.md
+footer:
+  > # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
+  <p><strong>날짜:</strong> 2019년 2월 21일 업데이트됨. 첫 발행은 2017년 12월 4일. <a href="./changelog/">변경 기록</a>.</p>
+  <p>프로젝트 리더: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. 기여한 사람들: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. 영상 촬영자와 편집자: Ulrich Grimm, av-design GmbH. 영상은 European Commission에 의해 공동 창립된 <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>의 지원을 받아 만들어졌습니다. 번역은 Ford Foundation의 재정 지원을 받은 <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>의 지원을 받아 운영되고 있습니다.
+
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
-{% include video-player.html 
-           yt-id="20SHvU2PKsM" 
+{% include video-player.html
+           yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko|default,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko|default,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.fa.vtt|fa"
            %}
 
 해당 영상의 정보는 다음을 참고하세요 :
-* **다른 언어** — [자막과 대본 보는 방법](#translations)은 아래에 있습니다. 
-* **[시각 정보가 포함된 텍스트 대본](#transcript)**은 아래에 있습니다. 
-* [유튜브](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* W3C 서버 — [영상(파일 포맷: MP4, 파일 크기: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [영어 자막 파일 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt), [다른 언어 파일 목록](http://media.w3.org/wai/accessibility-intro/)
-{% comment %}# For translations, replace:
-"[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
-"[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
-{% endcomment %}
+
+- **다른 언어** — [자막과 대본 보는 방법](#translations)은 아래에 있습니다.
+- **[시각 정보가 포함된 텍스트 대본](#transcript)**은 아래에 있습니다.
+- [유튜브](https://www.youtube.com/watch?v=20SHvU2PKsM)
+- W3C 서버 — [영상(파일 포맷: MP4, 파일 크기: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [영어 자막 파일 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt), [다른 언어 파일 목록](http://media.w3.org/wai/accessibility-intro/)
+  {% comment %}# For translations, replace:
+  "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
+  "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
+  {% endcomment %}
 
 ## 자세한 정보 {#moreinfo}
 
 더 자세한 정보는 다음을 참고하세요:
 
-* [[**웹 접근성 소개**]](/fundamentals/accessibility-intro/)
-* [[**웹 접근성 관점 영상**: 모두에게 끼치는 영향과 이점 확인하기]](/perspective-videos/) — 특정 접근성 주제에 대한 영상과 정보
-* [**WAI 사이트**](https://www.w3.org/WAI/) — 웹 접근성관련 다른 주제에 대한 다양한 자료를 얻고 싶다면 [표준](/standards-guidelines/), [교육](/teach-advocate/), [테스트/평가](/test-evaluate/), [프로젝트 운영과 정책](/planning/)을 방문해보세요.
+- [[**웹 접근성 소개**]](/fundamentals/accessibility-intro/)
+- [[**웹 접근성 관점 영상**: 모두에게 끼치는 영향과 이점 확인하기]](/perspective-videos/) — 특정 접근성 주제에 대한 영상과 정보
+- [**WAI 사이트**](https://www.w3.org/WAI/) — 웹 접근성관련 다른 주제에 대한 다양한 자료를 얻고 싶다면 [표준](/standards-guidelines/), [교육](/teach-advocate/), [테스트/평가](/test-evaluate/), [프로젝트 운영과 정책](/planning/)을 방문해보세요.
 
 ## 영상 사용 권한 {#permission}
 
@@ -57,9 +60,8 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 오디오 설명이 담긴 영상 예시를 보고 싶다면, [웹 접근성 관점 - 오디오 설명 포함 (유튜브 재생목록)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)를 참고하세요. 아니면 [웹 접근성 관점 웹 페이지](/perspective-videos/)의 영상들 중 하나를 고르고, "{% include t.html t='Enable Audio Description' %}"을 선택하세요.
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
-(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+(Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
 {% endcomment %}
-
 
 ## 시각 정보가 포함된 텍스트 대본 {#transcript}
 
@@ -200,7 +202,7 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 현재 웹 페이지의 몇 가지 번역 버전이 있습니다. 페이지 상단에 링크가 있습니다. <br>**영상은 더 많은 번역 버전**이 있습니다. 자막이나 대본으로 볼 수 있습니다.
 
-영상 아래쪽인 캡션 부분에서 자막을 선택하는 방법: 
+영상 아래쪽인 캡션 부분에서 자막을 선택하는 방법:
 
 1. <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Captions"를 선택하세요.
 

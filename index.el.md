@@ -3,44 +3,46 @@
 title: "Εισαγωγικό Βίντεο για την Προσβασιμότητα στον Παγκόσμιο Ιστό (Web Accessibility) και τα Πρότυπα του W3C" # translate this
 nav_title: "Εισαγωγή Βίντεο" # A short title that is used in the navigation
 last_updated: 2019-03-07 # update date of this translation
-translators: 
-- name: "Πάνος Κουτσοδημητρόπουλος" # replace @@ with name or names separated with a comma
-  link: "https://gr.linkedin.com/in/panoskoutsodimitropoulos"
+translators:
+  - name: "Πάνος Κουτσοδημητρόπουλος" # replace @@ with name or names separated with a comma
+    link: "https://gr.linkedin.com/in/panoskoutsodimitropoulos"
 permalink: /videos/standards-and-benefits/el # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
 lang: el # Translated language shortcode
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.el.md' # Add the language shortcode after index; for example, index.fr.md
+  path: "index.el.md" # Add the language shortcode after index; for example, index.fr.md
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
   <p><strong>Ημερομηνία:</strong> Ενημερώθηκε 20 Δεκεμβρίου 2018. Πρώτη δημοσίευση 4 Δεκεμβρίου 2017. CHANGELOG.</p>
   <p>Επικεφαλής του έργου: <a href="https://www.w3.org/People/shadi/"><span lang="en">Shadi Abou-Zahra</span></a>. Συνεισφέροντες: <a href="https://www.w3.org/People/Shawn/"><span lang="en">Shawn Lawton Henry</span></a>, <a href="https://www.w3.org/People/Brewer/"><span lang="en">Judy Brewer</span></a>, <a href="https://www.w3.org/People/yatil/"><span lang="en">Eric Eggert</span></a>. Εικονοληψία και επεξεργασία βίντεο: <span lang="en">Ulrich Grimm, av-design GmbH</span>.</p>
+
 # end of translation notes
 ---
 
-{% include video-player.html 
-           yt-id="20SHvU2PKsM" 
+{% include video-player.html
+           yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el|default,W3C_INTRO_SFHI.ru.vtt|ru"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el|default,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.fa.vtt|fa"
            %}
 
 Αυτές οι πληροφορίες για το βίντεο είναι διαθέσιμες:
-* **Σε διαφορετικές γλώσσες** — [Οι οδηγίες για να δείτε τις μεταφράσεις](#translations) είναι παρακάτω.
-* Ως **[Μεταγραφή Κειμένου (Transcript) με Περιγραφή των Οπτικών Στοιχείων](#transcript)** παρακάτω.
-* [Στο YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* Σε εξυπηρετητή (server) του W3C — [βίντεο (τύπος αρχείου: MP4, μέγεθος αρχείου: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Αρχείο ελληνικών υπότιτλών (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.el.vtt), [λίστα αρχείων άλλων γλωσσών](http://media.w3.org/wai/accessibility-intro/)
+
+- **Σε διαφορετικές γλώσσες** — [Οι οδηγίες για να δείτε τις μεταφράσεις](#translations) είναι παρακάτω.
+- Ως **[Μεταγραφή Κειμένου (Transcript) με Περιγραφή των Οπτικών Στοιχείων](#transcript)** παρακάτω.
+- [Στο YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+- Σε εξυπηρετητή (server) του W3C — [βίντεο (τύπος αρχείου: MP4, μέγεθος αρχείου: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Αρχείο ελληνικών υπότιτλών (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.el.vtt), [λίστα αρχείων άλλων γλωσσών](http://media.w3.org/wai/accessibility-intro/)
 
 ## Μάθετε Περισσότερα {#moreinfo}
 
 Για περισσότερες πληροφορίες, δείτε:
 
-* **[[Εισαγωγή στην Προσβασιμότητα στον Παγκόσμιο Ιστό]](/fundamentals/accessibility-intro/)**
-* [[**Βίντεο με Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό**: Εξερευνήστε τον Αντίκτυπο και τα Οφέλη για Όλους]](/perspective-videos/) — βίντεο και πληροφορίες σχετικά με συγκεκριμένα θέματα προσβασιμότητας.
-* **[[Ιστότοπος του <span lang='en'>WAI</span>]](https://www.w3.org/WAI/)** — για να βρείτε ένα ευρύ φάσμα πηγών για διάφορες πτυχές της προσβασιμότητας στον Παγκόσμιο Ιστό όπως για: [πρότυπα](/standards-guidelines/), [εκπαίδευση](/teach-advocate/), [δοκιμή (<span lang='en'>testing</span>) / αξιολόγηση](/test-evaluate/), [διαχείριση έργου και πολιτική](/planning/).
+- **[[Εισαγωγή στην Προσβασιμότητα στον Παγκόσμιο Ιστό]](/fundamentals/accessibility-intro/)**
+- [[**Βίντεο με Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό**: Εξερευνήστε τον Αντίκτυπο και τα Οφέλη για Όλους]](/perspective-videos/) — βίντεο και πληροφορίες σχετικά με συγκεκριμένα θέματα προσβασιμότητας.
+- **[[Ιστότοπος του <span lang='en'>WAI</span>]](https://www.w3.org/WAI/)** — για να βρείτε ένα ευρύ φάσμα πηγών για διάφορες πτυχές της προσβασιμότητας στον Παγκόσμιο Ιστό όπως για: [πρότυπα](/standards-guidelines/), [εκπαίδευση](/teach-advocate/), [δοκιμή (<span lang='en'>testing</span>) / αξιολόγηση](/test-evaluate/), [διαχείριση έργου και πολιτική](/planning/).
 
 ## Δικαίωμα Χρήσης Βίντεο {#permission}
 
@@ -53,7 +55,7 @@ footer: > # translate the words below; do NOT change the dates.
 Αν θέλετε παραδείγματα βίντεο με περιγραφή του ήχου, δείτε: [Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό: Αναγνώριση φωνής - Περιγραφόμενη Έκδοση Ήχου (λίστα αναπαραγωγής <span lang="en">YouTube</span>)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-), ή μπορείτε να επιλέξετε ένα από τα βίντεο στην [ιστοσελίδα Προοπτικές Προσβασιμότητας στον Παγκόσμιο Ιστό](/perspective-videos/) και επιλέξτε "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
-(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+(Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
 {% endcomment %}
 
 ## Μεταγραφή Κειμένου (<span lang="en">Transcript</span>) με Περιγραφή των Οπτικών Στοιχείων {#transcript}

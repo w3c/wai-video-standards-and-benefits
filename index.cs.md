@@ -1,73 +1,73 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
- 
-title: "Video úvod do webové přístupnosti a W3C standardů"  # Do not translate "title:". Do translate the text after "title:".
+
+title: "Video úvod do webové přístupnosti a W3C standardů" # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video úvod" # A short title that is used in the navigation
- 
+
 lang: cs # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
- 
-last_updated: 2020-08-24  # Put the date of this translation YYYY-MM-DD (with month in the middle)
- 
+
+last_updated: 2020-08-24 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+
 translators:
-- name: "Kristýna Švecová" # Replace @@ with translator name
+  - name: "Kristýna Švecová" # Replace @@ with translator name
 contributors: #Add one -name: line for every contributor
-- name: "Jiří Zmrhal"
- 
- 
-ref: /videos/standards-and-benefits/   # Do not change this
+  - name: "Jiří Zmrhal"
+
+ref: /videos/standards-and-benefits/ # Do not change this
 layout: default
 github:
-   repository: w3c/wai-video-standards-and-benefits
-   path: 'index.cs.md' # Add the language shortcode to the middle of the filename, for example index.fr.md
+  repository: w3c/wai-video-standards-and-benefits
+  path: "index.cs.md" # Add the language shortcode to the middle of the filename, for example index.fr.md
 permalink: /videos/standards-and-benefits/cs # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
- 
-footer: >   # Do not change the dates in the footer text below.
-   <p><strong>Datum:</strong> Aktualizováno 21. února 2019. Poprvé zveřejněno 4. prosince 2017. <a href="./changelog/">Záznam změn</a>.</p>
-   <p>Vedoucí projektu: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Přispěvatelé: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Tvůrce a editor videa: Ulrich Grimm, av-design GmbH. Video klipy vytvořeny za podpory <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, spolu financováno European Commission. Překlady spravovány za podpory <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, financováno Ford Foundation.</p>
- 
+
+footer: > # Do not change the dates in the footer text below.
+  <p><strong>Datum:</strong> Aktualizováno 21. února 2019. Poprvé zveřejněno 4. prosince 2017. <a href="./changelog/">Záznam změn</a>.</p>
+  <p>Vedoucí projektu: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Přispěvatelé: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Tvůrce a editor videa: Ulrich Grimm, av-design GmbH. Video klipy vytvořeny za podpory <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, spolu financováno European Commission. Překlady spravovány za podpory <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, financováno Ford Foundation.</p>
+
 # Read Important Translations Guidance at https://www.w3.org/wiki/WAI/Translation_Instructions
 # end of translation instructions
 ---
- 
+
 {% include video-player.html
        	yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en|default"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.ru.vtt|cs"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.ru.vtt|cs,W3C_INTRO_SFHI.fa.vtt|fa"
        	%}
- 
+
 Informace ve videu jsou dostupné:
-* **V různých jazycích** — [Instrukce pro zobrazení titulků a přepisů](#translations) následují
-* Jako **[textový přepis s popisem vizuálního obsahu](#transcript)** níže
-* [Na YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* Na serveru W3C — [video (formát souboru: MP4, velikost souboru: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [český soubor s titulky (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.cs.vtt), [seznam souborů vs ostatními jazyky](http://media.w3.org/wai/accessibility-intro/)
-{% comment %}# For translations, replace above:
-"[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
-"[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
-{% endcomment %}
- 
+
+- **V různých jazycích** — [Instrukce pro zobrazení titulků a přepisů](#translations) následují
+- Jako **[textový přepis s popisem vizuálního obsahu](#transcript)** níže
+- [Na YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+- Na serveru W3C — [video (formát souboru: MP4, velikost souboru: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [český soubor s titulky (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.cs.vtt), [seznam souborů vs ostatními jazyky](http://media.w3.org/wai/accessibility-intro/)
+  {% comment %}# For translations, replace above:
+  "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
+  "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
+  {% endcomment %}
+
 ## Více {#moreinfo}
- 
+
 Pro více informací navštivte:
- 
-* [[**Úvod do webové přístupnosti**]](/intro/accessibility/)
-* [[**Videa o perspektivách webové přístupnosti**: Prozkoumejte dopady a výhody pro všechny uživatele]](/perspective-videos/) — videa a informace o konkrétních tématech přístupnosti.
-* [**WAI webová stránka**](https://www.w3.org/WAI/) — pro zdroje o různých aspektech [standardů](/standards-guidelines/) webové přístupnosti, [vzdělání](/teach-advocate/), [testování/hodnocení](/test-evaluate/), [projektový management a předpisy](/planning/).
- 
+
+- [[**Úvod do webové přístupnosti**]](/intro/accessibility/)
+- [[**Videa o perspektivách webové přístupnosti**: Prozkoumejte dopady a výhody pro všechny uživatele]](/perspective-videos/) — videa a informace o konkrétních tématech přístupnosti.
+- [**WAI webová stránka**](https://www.w3.org/WAI/) — pro zdroje o různých aspektech [standardů](/standards-guidelines/) webové přístupnosti, [vzdělání](/teach-advocate/), [testování/hodnocení](/test-evaluate/), [projektový management a předpisy](/planning/).
+
 ## Povolení použít video {#permission}
- 
+
 Toto video můžete použít, pokud uvedete odkaz na tuto stránku. Více informací na [[Používání materiálů WAI: Povolení použití s uvedením autorství]](/about/using-wai-material/).
- 
+
 ## Audio popis {#audio-description}
 
 Toto video nezahrnuje audio popis, protože vizuální stránka pouze podporuje audio a neposkytuje žádné dodatečné informace. V tomto případě by byl audio popis pro většinu uživatelů více rušivý než užitečný, včetně lidí, kteří nevidí vizuální obsah. Následující Přepis s Popisem zahrnuje popis podpůrného vizuálního obsahu.
- 
+
 Pokud chcete ukázky videí s audio popisem, navštivte [Perspektivy webové přístupnosti - Audio Popis (seznam YouTube videí)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Nebo můžete vybrat jedno z videí na [webové stránce Perspektiv webové přístupnosti](/perspective-videos/), kde zvolíte možnost "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate "Enable Audio Description". It will be automatically translated. (Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
 {% endcomment %}
- 
+
 ## Textový Přepis s Popisem vizuálního obsahu {#transcript}
- 
+
 <table>
   <thead>
     	<tr>
@@ -206,7 +206,7 @@ w3.org/WAI</td>
 Celá tato webová stránka má překlady. Odkazy na ně jsou na začátku této stránky.<br>Existuje **více překladů pouze pro video**. Jsou dostupné jako titulky a přepis.
 
 {% comment %}# For translators:
- To know whether or not to translate "Captions", "Show transcript", and "Language", in the steps below, see Translations Notes at:
+To know whether or not to translate "Captions", "Show transcript", and "Language", in the steps below, see Translations Notes at:
 https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 {% endcomment %}
 
@@ -221,7 +221,7 @@ Pro otevření překladů ve zvláštním prostoru pro přepis:
 1. Vyberte "Show transcript".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
 2. Použijte rozbalovací nabídku "Language" a vyberte titulky.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
- 
+
 ### Překlad do dalších jazyků
- 
+
 Vítáme další překlady. Pokud přeložíte [soubor VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), zašlete ho prosím na <public-wai-translations@w3.org>. Pokud byste chtěli přeložit celou tuto webovou stránku a další, navštivte prosím [[Překládaní WAI zdrojů]](/about/translating/).

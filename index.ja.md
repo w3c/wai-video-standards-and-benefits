@@ -1,57 +1,60 @@
 ---
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
-title: "W3Cのアクセシビリティと標準技術"   # Do not translate "title:". Do translate the text after "title:".
+title: "W3Cのアクセシビリティと標準技術" # Do not translate "title:". Do translate the text after "title:".
 nav_title: “紹介" # A short title that is used in the navigation
-lang: ja   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-02-26   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translators: 
-- name: "Naomi Yoshizawa"   # Replace @@ with name or names separated with a comma
-permalink: /videos/standards-and-benefits/ja   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /videos/standards-and-benefits/   # Do not change this
+lang: ja # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2019-02-26 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+translators:
+  - name: "Naomi Yoshizawa" # Replace @@ with name or names separated with a comma
+permalink: /videos/standards-and-benefits/ja # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /videos/standards-and-benefits/ # Do not change this
 layout: default
 github:
-   repository: w3c/wai-video-standards-and-benefits
-   path: 'index.ja.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-   <p><strong>更新日:</strong>2019年2月21日 初版2017年12月4日<a href="./changelog/">Change log</a>.</p>
-   <p>プロジェクトリーダー：<a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.寄稿者：<a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>.撮影・編集者：Ulrich Grimm, av-design GmbH.</p>
+  repository: w3c/wai-video-standards-and-benefits
+  path: "index.ja.md" # Add the language shortcode to the middle of the filename, for example index.fr.md
+footer:
+  > # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
+  <p><strong>更新日:</strong>2019年2月21日 初版2017年12月4日<a href="./changelog/">Change log</a>.</p>
+  <p>プロジェクトリーダー：<a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.寄稿者：<a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>.撮影・編集者：Ulrich Grimm, av-design GmbH.</p>
+
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
-{% include video-player.html 
-           yt-id="20SHvU2PKsM" 
+{% include video-player.html
+           yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja|default,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja|default,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.fa.vtt|fa"
            %}
 
 本動画は下記でご覧いただけます：
-* **言語** — [字幕の使用説明書](#translations)は下記の通りです
-* **[画像の説明文](#transcript)**は下記の通りです
-* [YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* W3C — [MP4、28MB](http://media.w3.org/wai/accessibility-intro/intro.mp4), [日本語字幕 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt), [他言語翻訳](http://media.w3.org/wai/accessibility-intro/)
-{% comment %}# For translations, replace:
-"[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
-"[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
-{% endcomment %}
+
+- **言語** — [字幕の使用説明書](#translations)は下記の通りです
+- **[画像の説明文](#transcript)**は下記の通りです
+- [YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+- W3C — [MP4、28MB](http://media.w3.org/wai/accessibility-intro/intro.mp4), [日本語字幕 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt), [他言語翻訳](http://media.w3.org/wai/accessibility-intro/)
+  {% comment %}# For translations, replace:
+  "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
+  "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
+  {% endcomment %}
 
 ## その他 {#moreinfo}
 
 その他詳細：
 
--   [**ウェブアクセシビリティの紹介**](/fundamentals/accessibility-intro/)
--   [**ウェブアクセシビリティとは**：すべての人に対する影響とその価値](/perspective-videos/) ー本動画と情報は特定のアクセシビリティ要件に特化しています
--   [**WAIウェブサイト**](https://www.w3.org/WAI/)ーウェブアクセシビリティの異なる様々な状況を幅広くサポートするために [標準](/standards-guidelines/), [教育](/teach-advocate/), [テスト／評価](/test-evaluate/), [プロジェクト管理と指針](/planning/).
+- [**ウェブアクセシビリティの紹介**](/fundamentals/accessibility-intro/)
+- [**ウェブアクセシビリティとは**：すべての人に対する影響とその価値](/perspective-videos/) ー本動画と情報は特定のアクセシビリティ要件に特化しています
+- [**WAI ウェブサイト**](https://www.w3.org/WAI/)ーウェブアクセシビリティの異なる様々な状況を幅広くサポートするために [標準](/standards-guidelines/), [教育](/teach-advocate/), [テスト／評価](/test-evaluate/), [プロジェクト管理と指針](/planning/).
 
 ## 本動画使用許可 {#permission}
 
-本動画を使用したい場合は下記のリンクを添付して下さい。詳細: [WAI資料使用方法：属性使用の許可](/about/using-wai-material/).
+本動画を使用したい場合は下記のリンクを添付して下さい。詳細: [WAI 資料使用方法：属性使用の許可](/about/using-wai-material/).
 
 ## 音声 {#audio-description}
 
 本動画は動画のみをサポートし音声描写を含んでいないため、視覚に難しさを持つ人や多くの人にとって物足りない音声情報である可能性がありますが、シナリオが視覚をサポートします。
 
-音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から ー 音声 (YouTubeプレイリスト)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)、[ウェブアクセシビリティの観点から](/perspective-videos/)、”音声描写を有効化するために”を参照下さい。
+音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から ー 音声 (YouTube プレイリスト)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)、[ウェブアクセシビリティの観点から](/perspective-videos/)、”音声描写を有効化するために”を参照下さい。
 
 ## 視覚に対する説明文 {#transcript}
 
@@ -206,7 +209,4 @@ w3.org/WAI</td>
 
 ### 多言語の翻訳
 
-W3Cは他言語の翻訳を歓迎します。[VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})の翻訳物は <public-wai-translations@w3.org>までお送り下さい。本ウェブページ全体や他資料を翻訳ご希望の方は[[Translating WAI Resources](https://www.w3.org/WAI/about/translating/)をご覧ください。
-
-
-
+W3C は他言語の翻訳を歓迎します。[VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})の翻訳物は <public-wai-translations@w3.org>までお送り下さい。本ウェブページ全体や他資料を翻訳ご希望の方は[[Translating WAI Resources](https://www.w3.org/WAI/about/translating/)をご覧ください。

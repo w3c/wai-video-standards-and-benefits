@@ -5,58 +5,57 @@ nav_title: "视频介绍" # A short title that is used in the navigation
 # nav_title: "" # A short title that is used in the navigation
 last_updated: 2019-03-07 # update date of this translation
 translators:
-- name: "Ruoxi Ran" # replace @@ with name or names separated with a comma
+  - name: "Ruoxi Ran" # replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/zh-hans # Add the language shortcode; for example: /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/ # do NOT change this
 lang: zh-hans # Translated language shortcode
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.zh-hans.md' # Add the language shortcode after index; for example, index.fr.md
+  path: "index.zh-hans.md" # Add the language shortcode after index; for example, index.fr.md
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
   <p><strong>日期:</strong> 2018年12月20日更新。首次出发布于2017年12月4日。 CHANGELOG。</p>
   <p>项目主管： <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. 参与者： <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. 摄像师和视频编辑： Ulrich Grimm, s.</p>
+
 # end of translation notes
 ---
 
-{% include video-player.html 
-           yt-id="20SHvU2PKsM" 
+{% include video-player.html
+           yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh|default,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh|default,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.fa.vtt|fa"
            %}
-
-
 
 该视频资料可供参考：
 
-* **以其他不同语言** — [字幕来观看视频的说明](#translations) 在下方
-* 作为**[带有视觉描述的文本记录](#transcript)** 如下
-* [在YouTube中](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* 在W3C服务器中  — [视频(文件格式： MP4，文件大小：28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4)， [日文字幕文件 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt)，[其他语言列表](http://media.w3.org/wai/accessibility-intro/)
+- **以其他不同语言** — [字幕来观看视频的说明](#translations) 在下方
+- 作为**[带有视觉描述的文本记录](#transcript)** 如下
+- [在 YouTube 中](https://www.youtube.com/watch?v=20SHvU2PKsM)
+- 在 W3C 服务器中 — [视频(文件格式： MP4，文件大小：28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4)， [日文字幕文件 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt)，[其他语言列表](http://media.w3.org/wai/accessibility-intro/)
 
 ## 了解更多 {#moreinfo}
 
 有关详情，请参阅：
 
--   [**网页无障碍介绍**](/fundamentals/accessibility-intro/)
--   [**网页无障碍愿景视频**: 探索对每个人的影响和好处](/perspective-videos/) — 关于特定无障碍主题的视频和信息.
--   [**WAI网站**](https://www.w3.org/WAI/) — 从不同方面寻求有关网页无障碍的[标准](/standards-guidelines/), [教育](/teach-advocate/), [测试/评价](/test-evaluate/), [项目管理, 和政策](/planning/)的资源.
+- [**网页无障碍介绍**](/fundamentals/accessibility-intro/)
+- [**网页无障碍愿景视频**: 探索对每个人的影响和好处](/perspective-videos/) — 关于特定无障碍主题的视频和信息.
+- [**WAI 网站**](https://www.w3.org/WAI/) — 从不同方面寻求有关网页无障碍的[标准](/standards-guidelines/), [教育](/teach-advocate/), [测试/评价](/test-evaluate/), [项目管理, 和政策](/planning/)的资源.
 
 ## 使用视频的权限 {#permission}
 
-如果你包含这个页面的链接，那么你就可以使用该视频。 更多信息可在 [使用WAI相关资料:注明出处即可使用](/about/using-wai-material/)中找到。
+如果你包含这个页面的链接，那么你就可以使用该视频。 更多信息可在 [使用 WAI 相关资料:注明出处即可使用](/about/using-wai-material/)中找到。
 
 ## 音频描述 {#audio-description}
 
 本视频不包含音频描述，因为视频只支持音频，不提供额外的信息。在这种情况下，对大多数人来说，包括那些看不到图像的人来说，音频描述与其说是有用，不如说是会让人分心。下面的文字说明包含了对辅助视觉效果的描述。
 
-如果您想要带有音频描述的视频示例，请参见[网页无障碍愿景 - 音频描述 (YouTube播放列表)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). 或者您可以从 [网页无障碍愿景网页](/perspective-videos/)中选择一个视频，然后选择“{% include t.html t='Enable Audio Description' %}” (“<span lang='en'>Enable Audio Description</span>”)。
+如果您想要带有音频描述的视频示例，请参见[网页无障碍愿景 - 音频描述 (YouTube 播放列表)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). 或者您可以从 [网页无障碍愿景网页](/perspective-videos/)中选择一个视频，然后选择“{% include t.html t='Enable Audio Description' %}” (“<span lang='en'>Enable Audio Description</span>”)。
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
-(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+(Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
 {% endcomment %}
 
 ## 带有视觉描述的文本记录 {#transcript}
@@ -211,4 +210,4 @@ w3.org/WAI</td>
 
 ### 翻译成其他语言
 
-我们欢迎更多的翻译。如果你翻译 [VTT 文件]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})，请发送至 public-wai-translations@w3.org。如果你想翻译整个网页或其他内容，请参见 [WAI的资源翻译](/about/translating/)。
+我们欢迎更多的翻译。如果你翻译 [VTT 文件]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})，请发送至 public-wai-translations@w3.org。如果你想翻译整个网页或其他内容，请参见 [WAI 的资源翻译](/about/translating/)。

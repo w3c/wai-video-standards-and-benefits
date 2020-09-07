@@ -4,46 +4,47 @@ title: "Vidéo : introduction à l’accessibilité web et aux standards du W3C"
 title_html: "Vidéo&#8239;: introduction à l’accessibilité web et aux standards du W3C" # translate this
 nav_title: "Introduction en vidéo" # A short title that is used in the navigation
 last_updated: 2018-03-07 # update date of this translation
-translators: 
-- name: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
-contributors: 
-- name: "Sylvie Duchateau"
+translators:
+  - name: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
+contributors:
+  - name: "Sylvie Duchateau"
 permalink: /videos/standards-and-benefits/fr # Add the language shortcode; for example: /videos/standards-and-benefits/zh
 ref: /videos/standards-and-benefits/ # do NOT change this
 lang: fr # Translated language shortcode
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.fr.md' # Add the language shortcode after index; for example, index.zh.md
+  path: "index.fr.md" # Add the language shortcode after index; for example, index.zh.md
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
   <p><strong>Date&#8239;:</strong> Updated 20 December 2018. First published 4 December 2017. CHANGELOG.</p>
   <p>Direction de projet&#8239;: <a hreflang="en" href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributeurs: <a hreflang="en" href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a hreflang="en" href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a hreflang="en" href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Capture et montage de la vidéo&#8239;: Ulrich Grimm, av-design GmbH.</p>
+
 # end of translation notes
 ---
 
-{% include video-player.html 
-           yt-id="20SHvU2PKsM" 
+{% include video-player.html
+           yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr|default,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr|default,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.fa.vtt|fa"
            %}
 
 Cette vidéo est disponible&#8239;:
 
-* **Dans différentes langues** — les [instructions pour voir les sous-titres et les transcriptions](#translations) sont ci-dessous
-* Sous forme de  **[transcription texte avec description des visuels](#transcript)** ci-dessous
-* [Sur YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* Sur un serveur du W3C — [vidéo (format&#8239;: MP4, taille de fichier&#8239;: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [fichier de sous-titres français (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.fr.vtt), [liste des autres fichiers de langues](http://media.w3.org/wai/accessibility-intro/)
+- **Dans différentes langues** — les [instructions pour voir les sous-titres et les transcriptions](#translations) sont ci-dessous
+- Sous forme de **[transcription texte avec description des visuels](#transcript)** ci-dessous
+- [Sur YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+- Sur un serveur du W3C — [vidéo (format&#8239;: MP4, taille de fichier&#8239;: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [fichier de sous-titres français (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.fr.vtt), [liste des autres fichiers de langues](http://media.w3.org/wai/accessibility-intro/)
 
 ## En savoir plus {#moreinfo}
 
 Pour plus d’information, voir&#8239;:
 
-* [[**Introduction à l’accessibilité web**]](/fundamentals/accessibility-intro/)
-* [[**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorer l’impact et les bénéfices pour tous]](/perspective-videos/) — vidéos et informations sur des sujets spécifiques d’accessibilité.
-* [**Le site de la WAI** (<span lang='en'>Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)](https://www.w3.org/WAI/) — pour trouver un grand nombre de ressources sur divers aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [sensibilisation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
+- [[**Introduction à l’accessibilité web**]](/fundamentals/accessibility-intro/)
+- [[**Vidéos&#8239;: Perspectives sur l’accessibilité web**&#8239;: explorer l’impact et les bénéfices pour tous]](/perspective-videos/) — vidéos et informations sur des sujets spécifiques d’accessibilité.
+- [**Le site de la WAI** (<span lang='en'>Web Accessibility Initiative</span>, Initiative pour l’accessibilité du Web)](https://www.w3.org/WAI/) — pour trouver un grand nombre de ressources sur divers aspects de l’accessibilité web&#8239;: [standards](https://www.w3.org/WAI/standards-guidelines/), [sensibilisation](https://www.w3.org/WAI/teach-advocate/), [tests/évaluation](https://www.w3.org/WAI/test-evaluate/), [pilotage de projets, et politique](https://www.w3.org/WAI/planning/).
 
 ## Permission pour l’utilisation de cette vidéo {#permission}
 

@@ -1,20 +1,22 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Видео введение в веб-доступность и стандарты W3C"   # Do not translate "title:". Do translate the text after "title:".
+title: "Видео введение в веб-доступность и стандарты W3C" # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Введение" # A short title that is used in the navigation
-lang: ru   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-03-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-translators: 
-- name: "Daniel Novichkov"   # Replace @@ with name or names separated with a comma
-permalink: /videos/standards-and-benefits/ru   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
-ref: /videos/standards-and-benefits/   # Do not change this
+lang: ru # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+last_updated: 2019-03-07 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+translators:
+  - name: "Daniel Novichkov" # Replace @@ with name or names separated with a comma
+permalink: /videos/standards-and-benefits/ru # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
+ref: /videos/standards-and-benefits/ # Do not change this
 layout: default
 github:
-   repository: w3c/wai-video-standards-and-benefits
-   path: 'index.ru.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-   <p><strong>Дата:</strong> Обновлено 21 февраля 2019. Впервые опубликовано 4 декабря 2017. <a href="./changelog/">Журнал изменений</a>.</p>
-   <p>Руководитель проекта: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Авторы: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Оператор и монтажер: Ulrich Grimm, av-design GmbH.</p>
+  repository: w3c/wai-video-standards-and-benefits
+  path: "index.ru.md" # Add the language shortcode to the middle of the filename, for example index.fr.md
+footer:
+  > # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
+  <p><strong>Дата:</strong> Обновлено 21 февраля 2019. Впервые опубликовано 4 декабря 2017. <a href="./changelog/">Журнал изменений</a>.</p>
+  <p>Руководитель проекта: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Авторы: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Оператор и монтажер: Ulrich Grimm, av-design GmbH.</p>
+
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
@@ -22,25 +24,25 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
            yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru|default"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.fa.vtt|fa|default"
        	   %}
 
 Эта видеоинформация доступна:
 
-* **на разных языках** — [Инструкции, как смотреть субтитры и расшифровки](#translations) ниже
-* как **[текстовая расшифровка с описанием визуальных эффектов](#transcript)** ниже
-* [на YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* На сервере W3C — [видео (формат файла: MP4, размер файла: 28 МБ)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Файл русских субтитров (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ru.vtt), [список других языковых файлов](http://media.w3.org/wai/accessibility-intro/)
-{% comment%} # В переводе замените: «[Файл титров на английском языке (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)» с переводом: "[[ваш язык] файл субтитров (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI. [lang code] .vtt)".
-{% endcomment%}
+- **на разных языках** — [Инструкции, как смотреть субтитры и расшифровки](#translations) ниже
+- как **[текстовая расшифровка с описанием визуальных эффектов](#transcript)** ниже
+- [на YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
+- На сервере W3C — [видео (формат файла: MP4, размер файла: 28 МБ)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Файл русских субтитров (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ru.vtt), [список других языковых файлов](http://media.w3.org/wai/accessibility-intro/)
+  {% comment%} # В переводе замените: «[Файл титров на английском языке (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)» с переводом: "[[ваш язык] файл субтитров (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI. [lang code] .vtt)".
+  {% endcomment%}
 
 ## Подробнее {#moreinfo}
 
 Подробнее см .:
 
-* [**Введение в веб-доступность**](/fundamentals/accessibility-intro/)
-* [**Видео о перспективах доступности веб-сайтов**: Узнайте о влиянии и преимуществах для всех](/perspective-videos/) — видео и информация по отдельным темам доступности.
-* [**веб-сайт WAI**](https://www.w3.org/WAI/) — узнайте о ресурсах по различным аспектам доступности веб-сайтов [стандарты](/standard-guidelines/), [образование](/teach-advocate/), [тестирование / оценка](/test-evaluate/), [управление проектом и политика](/planning/).
+- [**Введение в веб-доступность**](/fundamentals/accessibility-intro/)
+- [**Видео о перспективах доступности веб-сайтов**: Узнайте о влиянии и преимуществах для всех](/perspective-videos/) — видео и информация по отдельным темам доступности.
+- [**веб-сайт WAI**](https://www.w3.org/WAI/) — узнайте о ресурсах по различным аспектам доступности веб-сайтов [стандарты](/standard-guidelines/), [образование](/teach-advocate/), [тестирование / оценка](/test-evaluate/), [управление проектом и политика](/planning/).
 
 ## Разрешение на использование видео {#permission}
 
@@ -50,10 +52,10 @@ footer: >   # Translate all the words below, including "Date:" and "Editor:". Do
 
 Это видео не содержит аудио описания, поскольку визуальные элементы поддерживают только аудио и не предоставляют дополнительную информацию. В этом случае аудио описание будет больше отвлекать, чем помогать большинству пользователей, включая людей, которые не могут видеть визуальную информацию. Ниже приведена расшифровка с описанием вспомогательных визуальных элементов.
 
-Если вам нужны примеры видео с аудио описанием, см. [Перспективы веб-доступности - аудио описание (плейлист YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&amp;list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). также вы можете выбрать один из видеороликов на странице [Веб-страница с точки зрения веб-доступности](/perspective-videos/) и выберите "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+Если вам нужны примеры видео с аудио описанием, см. [Перспективы веб-доступности - аудио описание (плейлист YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). также вы можете выбрать один из видеороликов на странице [Веб-страница с точки зрения веб-доступности](/perspective-videos/) и выберите "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
-(Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
+(Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
 {% endcomment %}
 
 ## Текстовая расшифровка с описанием видео ряда {#transcript}
