@@ -3,10 +3,10 @@
 title: "Vidéo : introduction à l’accessibilité web et aux standards du W3C" # translate this
 title_html: "Vidéo&#8239;: introduction à l’accessibilité web et aux standards du W3C" # translate this
 nav_title: "Introduction en vidéo" # A short title that is used in the navigation
-last_updated: 2018-03-07 # update date of this translation
-translators: 
+last_updated: 2020-09-06 # update date of this translation
+translators:
 - name: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
-contributors: 
+contributors:
 - name: "Sylvie Duchateau"
 permalink: /videos/standards-and-benefits/fr # Add the language shortcode; for example: /videos/standards-and-benefits/zh
 ref: /videos/standards-and-benefits/ # do NOT change this
@@ -19,12 +19,12 @@ feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
   <p><strong>Date&#8239;:</strong> Updated 20 December 2018. First published 4 December 2017. CHANGELOG.</p>
-  <p>Direction de projet&#8239;: <a hreflang="en" href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributeurs: <a hreflang="en" href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a hreflang="en" href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a hreflang="en" href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Capture et montage de la vidéo&#8239;: Ulrich Grimm, av-design GmbH.</p>
+  <p>Direction de projet&#8239;: <a hreflang="en" href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributeurs: <a hreflang="en" href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a hreflang="en" href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a hreflang="en" href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Capture et montage de la vidéo&#8239;: Ulrich Grimm, av-design GmbH. Vidéos produites avec le soutien du projet WAI-DEV, co-financé par la Commission Européenne. Traductions produites avec le soutien du projet <span lang="en">WAI Expanding Access</span>, financé par la Fondation Ford.</p>
 # end of translation notes
 ---
 
-{% include video-player.html 
-           yt-id="20SHvU2PKsM" 
+{% include video-player.html
+           yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
            subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr|default,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
@@ -66,7 +66,7 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
   </thead>
   <tbody>
     <tr>
-      <td>Bonjour&#8239;! Je m’appelle Shadi Abou-Zahra. Je suis le Spécialiste Technologie et Stratégie pour l’Accessibilité au W3C, le <span lang="en">World Wide Web Consortium</span>, et aujourd’hui j’aimerais vous parler de l’accessibilité du web.</td>
+      <td>Bonjour&#8239;! Je suis Shadi Abou-Zahra. Je suis le Spécialiste Technologie et Stratégie pour l’Accessibilité au W3C, le «&#8239;<span lang="en">World Wide Web Consortium</span>&#8239;», et aujourd’hui j’aimerais vous parler d’accessibilité web.</td>
       <td>Accessibilité web<br>
         [Shadi parle]</td>
     </tr>
@@ -151,15 +151,15 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
       <td>[Shadi parle]</td>
     </tr>
     <tr>
-      <td>Les plus connus sont les Recommandations de Contenus Web Accessibles (WCAG). Les WCAG sont aussi le standard ISO 40500, et elles ont été adoptées dans le standard européen nommé EN 301 549. Elles s’articulent autour de quatre grands principes&#8239;:</td>
+      <td>Les plus connus sont les Recommandations de Contenus Web Accessibles — WCAG. Les WCAG sont aussi le standard ISO 40500, et elles ont été adoptées dans le standard européen nommé EN 301 549. Elles s’articulent autour de quatre grands principes&#8239;:</td>
       <td><span lang="en">Web Content Accessibility Guidelines</span> (Règles pour l’accessibilité des contenus Web) - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
-      <td>Tout d’abord&#8239;: Perceptible. Par exemple, on doit pouvoir voir le contenu ou l’entendre.</td>
+      <td>Un&#8239;: Perceptible. Par exemple, on doit pouvoir voir le contenu ou l’entendre.</td>
       <td>Une personne tape sur sa tablette et écoute dans un casque audio</td>
     </tr>
     <tr>
-      <td>Utilisable. On doit pouvoir utiliser l’ordinateur avec un clavier comme avec la voix, par exemple.</td>
+      <td>Opérable. On doit pouvoir utiliser l’ordinateur avec un clavier comme avec la voix, par exemple.</td>
       <td>Une personne parle à son ordinateur</td>
     </tr>
     <tr>
@@ -171,19 +171,19 @@ Si vous voulez des exemples de vidéos audio-décrites, consultez [La <span lang
       <td>Une personne utilise une loupe logicielle sur un grand écran d’ordinateur</td>
     </tr>
     <tr>
-      <td>En plus des WCAG, W3C fournit aussi les Recommandations d’Accessibilité des Outils de Production (ATAG), qui définissent des exigences pour les gestionnaires de contenu, les éditeurs de codes et d’autres logiciels.</td>
+      <td>En plus des WCAG, W3C fournit aussi les Recommandations d’Accessibilité des Outils de Production — ATAG, qui définissent des exigences pour les gestionnaires de contenu, les éditeurs de codes et d’autres logiciels.</td>
       <td><span lang="en">Authoring Tool Accessibility Guidelines</span> - ATAG</td>
     </tr>
     <tr>
-      <td>Et les Recommandations d’Accessibilité des Agents Utilisateurs (UAAG), définissent des exigences pour les navigateurs et les lecteurs multimédia.</td>
+      <td>Et les Recommandations d’Accessibilité des Agents Utilisateurs — UAAG, définissent des exigences pour les navigateurs et les lecteurs multimédia.</td>
       <td><span lang="en">User Agent Accessibility Guidelines</span> - UAAG</td>
     </tr>
     <tr>
-      <td>Plus d’un milliard de personnes ont un handicap, soit 15 à 20 % de la population. La convention des Nations Unies sur les Droits des Personnes Handicapées stipule que l’accès à l’information, y compris au Web, est un droit humain. La plupart des pays du monde a ratifié cette convention de l’ONU et plusieurs d’entre eux ont légiféré sur le sujet. Mais même sans lois ni règlements, intégrer les standards de l’accessibilité est une nécessité pour les personnes handicapées, et utile à tous.</td>
+      <td>Plus d’un milliard de personnes ont un handicap, soit 15 à 20 % de la population. La convention des Nations Unies sur les Droits des Personnes Handicapées stipule que l’accès à l’information, y compris au Web, est un droit humain. La plupart des pays du monde a ratifié cette convention de l’ONU et plusieurs d’entre eux ont légiféré sur le sujet. Mais même sans lois ni règlements, intégrer les standards de l’accessibilité est une nécessité pour les personnes handicapées, et est utile à tous.</td>
       <td>[Shadi parle]</td>
     </tr>
     <tr>
-      <td>Pour plus d’informations sur l’accessibilité web, visitez [w3.org/WAI](https://w3.org/WAI)</td>
+      <td>Pour plus d’informations sur l’accessibilité web, visitez w3.org/WAI</td>
       <td>W3C <span lang="en">Web Accessibility Initiative</span><br>
 w3.org/WAI</td>
     </tr>
@@ -192,7 +192,7 @@ w3.org/WAI</td>
 
 ## Traductions {#translations}
 
-Vous pouvez trouver des traductions complètes de cette page web. Elles sont en lien en haut de la page.<br>Il existe d’autres traductions de la vidéo. Elles sont disponibles sous forme de sous-titres et de transcriptions.
+Vous pouvez trouver des traductions complètes de cette page web. Elles sont en lien en haut de la page.<br>Il existe **d’autres traductions de la vidéo**. Elles sont disponibles sous forme de sous-titres et de transcriptions.
 
 Pour afficher les sous-titres traduits dans le bas de la vidéo&#8239;:
 
@@ -202,9 +202,9 @@ Pour afficher les sous-titres traduits dans le bas de la vidéo&#8239;:
 
 Pour afficher une traduction dans une zone de transcription séparée&#8239;:
 
-1. Choisissez “Afficher la transcription”.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. Choisissez «&#8239;Afficher la transcription&#8239;».<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Utilisez la liste déroulante “Langue” pour sélectionner la transcription.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.fr.png" | relative_url }}' alt="">
+2. Utilisez la liste déroulante «&#8239;Langue&#8239;» pour sélectionner la transcription.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.fr.png" | relative_url }}' alt="">
 
 ### Traduire dans d’autres langues
 
