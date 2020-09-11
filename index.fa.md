@@ -30,7 +30,7 @@ footer:
            subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.fa.vtt|fa"
            %}
 
-این اطلاعات ویدیویی در دسترس است:
+اطلاعات مربوط به این ویدیو شامل:
 
 - **به زبان‌های مختلف** — [دستورالعمل برای دیدن زیرنویس‌ها و متن‌ها](#translations) در پایین صفحه است
 - به عنوان **[متن رونوشت با توضیحات تصویری](#transcript)** در پایین
@@ -40,15 +40,15 @@ footer:
 
 ## بیشتر بدانید {#moreinfo}
 
-برای اطلاعات بیشتر، ببین:
+برای اطلاعات بیشتر، ببینید:
 
 - [[**آشنایی با دسترسی‌پذیری وب**]](/fundamentals/accessibility-intro/)
-- [[**ویدیو چشم‌اندازهای دسترسی‌پذیری وب**: تاثیر و مزایای آن را برای همه کشف کنید]](/perspective-videos/) — ویدیوها و اطلاعات در مورد موضوعات خاص دسترسی‌پذیری.
+- [[**ویدیو چشم‌اندازهای دسترسی‌پذیری وب**: تاثیر و مزایای آن را برای همه پیدا کنید]](/perspective-videos/) — ویدیوها و اطلاعات در مورد موضوعات خاص دسترسی‌پذیری.
 - [**وب‌سایت WAI**](https://www.w3.org/WAI/) — برای پیدا کردن طیف گسترده‌ای از منابع در جنبه‌های مختلف [استانداردهای](/standards-guidelines/) دسترسی‌پذیری وب، [آموزش](/teach-advocate/)، [آزمایش/ارزیابی](/test-evaluate/)، [مدیریت پروژه و سیاست](/planning/).
 
 ## اجازه استفاده از ویدیو {#permission}
 
-اگر پیوندی به این صفحه داشته باشید، شما می‌توانید از این ویدیو استفاده کنید. اطلاعات بیشتر در مورد [[استفاده از مطالب WAI: اجازه استفاده با ذکر منبع]](/about/using-wai-material/).
+اگر پیوندی به این صفحه داشته باشید، می‌توانید از این ویدیو استفاده کنید. اطلاعات بیشتر در مورد [[استفاده از مطالب WAI: اجازه استفاده با ذکر منبع]](/about/using-wai-material/).
 
 ## توضیحات صوتی {#audio-description}
 
@@ -96,8 +96,8 @@ footer:
       <td>[شادی در حال صحبت]</td>
     </tr>
     <tr>
-      <td>به عنوان مثال، کسی که نمی‌تواند از بازوهای خود استفاده کند از یک مَوت‌استیک برای تایپ استفاده می‌کند.</td>
-      <td>شخصی برای تایپ کردن از مَوت‌استیک استفاده می‌کند</td>
+      <td>به عنوان مثال، کسی که نمی‌تواند از بازوهای خود استفاده کند از یک مَوس‌استیک برای تایپ استفاده می‌کند.</td>
+      <td>شخصی برای تایپ کردن از مَوس‌استیک استفاده می‌کند</td>
     </tr>
     <tr>
       <td>یا شخصی که نمی‌تواند خوب بشنود، از زیرنویس‌ها برای تماشای ویدیو استفاده می‌کند.</td>
