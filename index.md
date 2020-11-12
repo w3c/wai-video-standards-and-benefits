@@ -8,7 +8,7 @@ last_updated: 2020-08-24   # Put the date of this translation YYYY-MM-DD (with m
 # - name: "@@"   # Replace @@ with name, add separate - name lines for every translator
 # contributors:
 # - name: "@@"   # Replace @@ with name, add separate - name lines for every 
-permalink: /videos/standards-and-benefits/   # Add the language shortcode to the end and trailing slash (/); for example /fundamentals/accessibility-intro/fr/
+permalink: /videos/standards-and-benefits/   # Add the language shortcode to the end; for example /videos/standards-and-benefits/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
 github:
