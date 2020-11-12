@@ -19,7 +19,7 @@ layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
    path: 'index.cs.md' # Add the language shortcode to the middle of the filename, for example index.fr.md
-permalink: /videos/standards-and-benefits/cs/   # Add the language shortcode to the end and trailing slash (/); for example /fundamentals/accessibility-intro/fr/
+permalink: /videos/standards-and-benefits/cs   # Add the language shortcode to the end; for example /videos/standards-and-benefits/fr
  
 footer: >   # Do not change the dates in the footer text below.
    <p><strong>Datum:</strong> Aktualizováno 21. února 2019. Poprvé zveřejněno 4. prosince 2017. <a href="./changelog/">Záznam změn</a>.</p>
