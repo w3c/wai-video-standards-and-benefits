@@ -18,7 +18,7 @@ ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
-   path: 'index.cs.md' # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'content/index.cs.md' # Add the language shortcode to the middle of the filename, for example index.fr.md
 permalink: /videos/standards-and-benefits/cs   # Add the language shortcode to the end; for example /videos/standards-and-benefits/fr
  
 footer: >   # Do not change the dates in the footer text below.
