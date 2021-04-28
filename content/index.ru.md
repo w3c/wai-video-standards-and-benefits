@@ -11,7 +11,7 @@ ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
-   path: 'index.ru.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'content/index.ru.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
    <p><strong>Дата:</strong> Обновлено 21 февраля 2019. Впервые опубликовано 4 декабря 2017. <a href="./changelog/">Журнал изменений</a>.</p>
    <p>Руководитель проекта: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Авторы: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Оператор и монтажер: Ulrich Grimm, av-design GmbH.</p>
