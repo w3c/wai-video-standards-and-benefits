@@ -12,7 +12,7 @@ lang: el # Translated language shortcode
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.el.md' # Add the language shortcode after index; for example, index.fr.md
+  path: 'content/index.el.md' # Add the language shortcode after index; for example, index.fr.md
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
