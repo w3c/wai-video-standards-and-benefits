@@ -12,7 +12,7 @@ lang: es
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.es.md'
+  path: 'content/index.es.md'
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: >
