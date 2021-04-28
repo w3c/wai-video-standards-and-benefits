@@ -11,7 +11,7 @@ ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
-   path: 'index.ja.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'content/index.ja.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
    <p><strong>更新日:</strong>2019年2月21日 初版2017年12月4日<a href="./changelog/">Change log</a>.</p>
    <p>プロジェクトリーダー：<a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.寄稿者：<a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>.撮影・編集者：Ulrich Grimm, av-design GmbH.</p>
