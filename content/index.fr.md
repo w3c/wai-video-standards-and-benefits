@@ -14,7 +14,7 @@ lang: fr # Translated language shortcode
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.fr.md' # Add the language shortcode after index; for example, index.zh.md
+  path: 'content/index.fr.md' # Add the language shortcode after index; for example, index.zh.md
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
