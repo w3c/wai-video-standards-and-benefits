@@ -13,7 +13,7 @@ ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
-   path: 'index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'content/index.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
    <p><strong>Date:</strong> Updated 24 August 2020 (added video subtitle file). First published 4 December 2017. <a href="./changelog/">Changelog</a>.</p>
    <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
