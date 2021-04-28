@@ -10,7 +10,7 @@ ref: /videos/standards-and-benefits/
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: 'index.nl.md'
+  path: 'content/index.nl.md'
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # Text in footer in HTML
