@@ -16,13 +16,19 @@ contributors: #Add one -name: line for every contributor
  
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
+changelog: /videos/standards-and-benefits/changelog/
 github:
    repository: w3c/wai-video-standards-and-benefits
    path: 'content/index.cs.md' # Add the language shortcode to the middle of the filename, for example index.fr.md
 permalink: /videos/standards-and-benefits/cs   # Add the language shortcode to the end; for example /videos/standards-and-benefits/fr
- 
-footer: >   # Do not change the dates in the footer text below.
-   <p><strong>Datum:</strong> Aktualizováno 21. února 2019. Poprvé zveřejněno 4. prosince 2017. <a href="./changelog/">Záznam změn</a>.</p>
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
+footer: >
+   <p><strong>Datum:</strong> Aktualizováno 21. února 2019. Poprvé zveřejněno 4. prosince 2017. CHANGELOG.</p>
    <p>Vedoucí projektu: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Přispěvatelé: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Tvůrce a editor videa: Ulrich Grimm, av-design GmbH. Video klipy vytvořeny za podpory <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, spolu financováno European Commission. Překlady spravovány za podpory <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, financováno Ford Foundation.</p>
  
 # Read Important Translations Guidance at https://www.w3.org/wiki/WAI/Translation_Instructions
