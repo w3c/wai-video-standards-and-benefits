@@ -9,11 +9,18 @@ translators:
 permalink: /videos/standards-and-benefits/ru   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
+changelog: /videos/standards-and-benefits/changelog/
 github:
    repository: w3c/wai-video-standards-and-benefits
    path: 'content/index.ru.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
-footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-   <p><strong>Дата:</strong> Обновлено 21 февраля 2019. Впервые опубликовано 4 декабря 2017. <a href="./changelog/">Журнал изменений</a>.</p>
+   
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.  
+footer: >
+   <p><strong>Дата:</strong> Обновлено 21 февраля 2019. Впервые опубликовано 4 декабря 2017. CHANGELOG.</p>
    <p>Руководитель проекта: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Авторы: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Оператор и монтажер: Ulrich Grimm, av-design GmbH.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
