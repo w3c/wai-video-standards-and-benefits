@@ -13,7 +13,7 @@ ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
-   path: 'index.de.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
+   path: 'content/index.de.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
 changelog: /videos/standards-and-benefits/changelog/
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
    <p><strong>Datum:</strong> Aktualisiert am 20. Dezember 2018. Erstmals veröffentlicht am 4. Dezember 2017. CHANGELOG.</p>

@@ -1,4 +1,4 @@
-﻿WEBVTT
+WEBVTT
 
 00:00:02.200 --> 00:00:05.200 align:middle
 ¡Hola! Mi nombre es Shadi Abou-Zahra.
@@ -49,7 +49,7 @@ Un buen contraste de color funciona mejor cuando hay reflejos.
 También se beneficia la gente con problemas relacionados con la edad, como en movilidad reducida.
 
 00:01:04.120 --> 00:01:09.120 align:middle
-De hecho, cualquiera tiene una mejor experiencia de usario con una estructura y diseño mejorados.
+De hecho, cualquiera tiene una mejor experiencia de usuario con una estructura y diseño mejorados.
 
 00:01:09.280 --> 00:01:14.760 align:middle
 Se puede construir gran parte de la accesibilidad en el código subyacente de las aplicaciones y sitios web.
@@ -64,25 +64,25 @@ Por ejemplo, características para ofrecer alternativas de texto en imágenes,
 que son leídas en alto por los lectores de pantalla y también usan los motores de búsqueda.
 
 00:01:34.640 --> 00:01:39.400 align:middle
-También otro código como las cabeceras o etiquetas apoyan la accesibilidad,
+También otro código como las cabeceras o etiquetas apoyan la accesibilidad
 
 00:01:39.880 --> 00:01:42.680 align:middle
 y mejoran la calidad en general.
 
 00:01:43.320 --> 00:01:49.840 align:middle
-Las buenas herramientas de autor, como los wikis, los sistemas gestores de contenido y los editores de código
+Las buenas herramientas de autor, como los wikis, sistemas de gestión de contenido y editores de código
 
 00:01:50.600 --> 00:01:56.760 align:middle
 ayudan a crear código accesible, bien de forma automática o a través del autor.
 
 00:01:57.440 --> 00:02:04.480 align:middle
-También los navegadores web, reproductores multimedia y aplicaciones necesitan características de accesibilidad.
+También los navegadores web, los reproductores multimedia y las aplicaciones deben ser compatibles con las funciones de accesibilidad.
 
 00:02:05.480 --> 00:02:09.600 align:middle
 El W3C ofrece estándares para ayudar a hacer la Web accesible,
 
 00:02:10.040 --> 00:02:13.920 align:middle
-que son internacionalmente reconocidos por gobiernos e industrias.
+que son reconocidos internacionalmente por gobiernos y empresas.
 
 00:02:14.480 --> 00:02:19.880 align:middle
 El más conocido son las Pautas de Accesibilidad para el Contenido Web - WCAG.
@@ -97,37 +97,37 @@ y se han adoptado en el estándar europeo EN 301 549.
 Se construyen sobre cuatro principios básicos:
 
 00:02:33.560 --> 00:02:39.920 align:middle
-Primero, Perceptible - por ejemplo, así la gente puede ver el contenido o escucharlo.
+Primero, Perceptible - por ejemplo, para que las personas puedan ver el contenido u oírlo.
 
 00:02:40.880 --> 00:02:47.160 align:middle
-Operable - por ejemplo, así la gente puede usar el dispositivo tecleando o por la voz.
+Operable - por ejemplo, para que las personas puedan usar un equipo informático escribiendo o con la voz.
 
 00:02:48.000 --> 00:02:53.360 align:middle
-Comprensible - por ejemplo, así la gente recibe un lenguaje claro y simple.
+Comprensible - por ejemplo, para que la gente entienda un lenguaje claro y sencillo.
 
 00:02:54.120 --> 00:02:58.600 align:middle
 Y Robusto - así la gente puede usar diferentes tecnologías asistivas.
 
 00:02:59.360 --> 00:03:07.000 align:middle
-Además de las WCAG, el W3C también ofrece las Pautas de Accesibilidad en Herramientas de Autor - ATAG,
+Además de las WCAG, el W3C también proporciona las Pautas de Accesibilidad de Herramientas de Autor – ATAG,
 
 00:03:07.440 --> 00:03:12.840 align:middle
-que definen los requisitos para los sistemas de gestión del contenido, editores de código y otro software.
+que definen los requisitos para los sistemas de gestión de código, editores de código y otros programas.
 
 00:03:13.240 --> 00:03:16.880 align:middle
 Y las Pautas de Accesibilidad para Agentes de Usuario - UAAG,
 
 00:03:17.160 --> 00:03:20.480 align:middle
-definen los requisitos para los navegadores web y los reproductores multimedia.
+que definen los requisitos para los navegadores web y los reproductores de medios.
 
 00:03:21.000 --> 00:03:27.280 align:middle
-Hay más de un billón de personas con discapacidades, sobre el 15-20% de la población.
+Hay más de mil millones de personas con discapacidades, o alrededor del 15-20% de la población.
 
 00:03:28.160 --> 00:03:31.880 align:middle
-La Convención de la ONU sobre los Derechos de las Personas con Discapacidad
+La Convención de las Naciones Unidas sobre los Derechos de las Personas con Discapacidad
 
 00:03:32.040 --> 00:03:37.040 align:middle
-define el acceso a la información, incluyendo la Web, como un derecho humano.
+define el acceso a la información, incluyendo la Web, como un derecho fundamental.
 
 00:03:38.800 --> 00:03:42.920 align:middle
 La mayoría de los países del mundo han ratificado esta convención de la ONU,
@@ -139,10 +139,10 @@ y muchos de ellos también han adoptado políticas asociadas.
 Incluso aparte de cualquier ley o regulación,
 
 00:03:51.160 --> 00:03:56.000 align:middle
-la implementación de los estándares de accesibilidad es esencial para la gente con discapacidades,
+la implementación de los estándares de accesibilidad es esencial para las personas con discapacidades
 
 00:03:56.160 --> 00:03:57.800 align:middle
-y útil para todo el mundo.
+y es útil para todo el mundo.
 
 00:03:59.000 --> 00:04:05.880 align:middle
-Para más información sobre accesibilidad web visita w3.org/WAI
+Para obtener más información sobre la accesibilidad web visita w3.org/WAI
