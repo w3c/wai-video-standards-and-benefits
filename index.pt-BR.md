@@ -57,7 +57,7 @@ Você pode usar esse vídeo se incluir um _link_ para esta página. Mais informa
 
 Este vídeo não inclui uma descrição de áudio porque as imagens somente reafirmam o áudio e não proveem informação adicional. Neste caso, a descrição do áudio seria mais distrativa do que útil para a maioria das pessoas, incluindo aquelas que não podem ver as imagens. A Transcrição com a Descrição abaixo inclui descrição das imagens do vídeo.
 
-Se deseja exemplos de vídeos com descrição de áudio, acesse [Perspectivas de Acessibilidade Web - Descrição do Audio (lista de reprodução do YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Ou você pode selecionar um dos vídeos [no site Perspectivas de Acessibilidade Web](/perspective-videos/) e selecionar "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
+Se deseja exemplos de vídeos com descrição de áudio, acesse [Perspectivas de Acessibilidade Web - Descrição do Áudio (lista de reprodução do YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Ou você pode selecionar um dos vídeos [no site Perspectivas de Acessibilidade Web](/perspective-videos/) e selecionar "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
 ("<span lang='en'>Enable Audio Description</span>").
 (Background is here: https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
