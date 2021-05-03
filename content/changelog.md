@@ -3,7 +3,6 @@ title: "Changelog for Video Introduction to Web Accessibility and W3C Standards"
 title_html: 'Changelog for <a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a>'
 nav_title: "Changelog"
 lang: en
-last_updated: 200 -08-24
 permalink: /videos/standards-and-benefits/changelog/
 ref: /videos/standards-and-benefits/changelog/
 layout: default
@@ -14,6 +13,8 @@ changelog: /videos/standards-and-benefits/changelog/
 ---
 
 _This changelog includes some Markdown and HTML syntax to facilitate updating translations._
+
+**Note: Some code-level fixes are missing below, and will be added in May 2021.**
 
 ## May 2021
 
