@@ -1,5 +1,5 @@
 # Video Introduction to Web Accessibility and W3C Standards
-
+ 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/86246365-26f1-4745-b693-797fa249a221/deploy-status)](https://app.netlify.com/sites/wai-video-standards-and-benefits/deploys)
 
 ## Translation Notes
