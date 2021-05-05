@@ -18,7 +18,7 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 
 ## May 2021
 
-* Added video subtitle files: ``` ,W3C_INTRO_SFHI.cs.vtt|id,W3C_INTRO_SFHI.cs.vtt|fa ```
+* Added video subtitle files: ``` ,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa ```
 
 ## August 2020
 
