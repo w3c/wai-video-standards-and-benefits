@@ -16,21 +16,34 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 
 **Note: Some code-level fixes are missing below, and will be added in May 2021.**
 
-## May 2021
+
+{::nomarkdown}
+{% include toc.html type="start" title="Page Contents" %}
+{:/}
+
+- This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2,3" /}
+{:toc}
+
+{::nomarkdown}
+{% include toc.html type="end" %}
+{:/} 
+
+## 2021-04(May)
 
 * Added video subtitle files: ``` ,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa ```
 
-## August 2020
+## 2020-08(August)
 
 * Added video subtitle file: ``` ,W3C_INTRO_SFHI.cs.vtt|cs ```
 
-## February – May 2019
+## 2019-02(Feb) through 2019-05(May)
 
 * Fixed typo "quite"->"quiet":<br>from: <q>For example, captions benefit anyone in a loud or in a quite environment.</q><br>&nbsp;&nbsp;&nbsp;&nbsp;to: <q>For example, captions benefit anyone in a loud or in a quiet environment.</q>
 * Added to footer: <blockquote>Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</blockquote>
 * Added quotes around "Language" in the [Translations section](https://www.w3.org/WAI/videos/standards-and-benefits/#translations).
 
-## 21 February 2019
+## 2019-02(Feb)-21
 
 * **Changed all 4 bullets under the video, after "This video information is available"** to:
 
