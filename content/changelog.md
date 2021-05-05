@@ -27,7 +27,7 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 
 {::nomarkdown}
 {% include toc.html type="end" %}
-{:/} 
+{:/}
 
 ## VTT files
 
@@ -37,21 +37,21 @@ Translators: Here is the latest list of subtitles. You can use this and not need
 subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
 </code>
 
-## May 2021
+## 2021-04(May)
 
 * Added video subtitle files: ``` ,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa ```
 
-## August 2020
+## 2020-08(August)
 
 * Added video subtitle file: ``` ,W3C_INTRO_SFHI.cs.vtt|cs ```
 
-## February – May 2019
+## 2019-02(Feb) through 2019-05(May)
 
 * Fixed typo "quite"->"quiet":<br>from: <q>For example, captions benefit anyone in a loud or in a quite environment.</q><br>&nbsp;&nbsp;&nbsp;&nbsp;to: <q>For example, captions benefit anyone in a loud or in a quiet environment.</q>
 * Added to footer: <blockquote>Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</blockquote>
 * Added quotes around "Language" in the [Translations section](https://www.w3.org/WAI/videos/standards-and-benefits/#translations).
 
-## 21 February 2019
+## 2019-02(Feb)-21
 
 * **Changed all 4 bullets under the video, after "This video information is available"** to:
 
