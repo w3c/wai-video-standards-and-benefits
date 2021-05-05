@@ -16,6 +16,19 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 
 **Note: Some code-level fixes are missing below, and will be added in May 2021.**
 
+
+{::nomarkdown}
+{% include toc.html type="start" title="Page Contents" %}
+{:/}
+
+- This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2,3" /}
+{:toc}
+
+{::nomarkdown}
+{% include toc.html type="end" %}
+{:/} 
+
 ## VTT files
 
 Translators: Here is the latest list of subtitles. You can use this and not need to find all the VTT additions below.
