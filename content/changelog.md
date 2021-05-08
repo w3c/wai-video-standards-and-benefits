@@ -28,7 +28,7 @@ subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.v
 
 ## May 2021 updates
 
-* Added to end of footer text (in the frontmatter near the top):<br>
+* Added to end of footer text (in the frontmatter near the top):
   ```Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.```
   * Shawn to check:
     * ... list which ones...
@@ -43,8 +43,9 @@ subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.v
    ```
   2. Added "CHANGELOG." after date:<br>
    ```First published 4 December 2017. CHANGELOG.```
-    * Shawn to check:
-      * ... list which ones...
+    * Shawn to do: ... list which ones...
 
 * Updated date:<br>
   ```last_updated: 2021-05-10```
+  
+_Thanks to Tolu Adegbite for work on May 2021 updates!_
