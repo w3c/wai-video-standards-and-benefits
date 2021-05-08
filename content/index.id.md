@@ -3,7 +3,7 @@
 title: "Video Pengenalan Aksesibilitas Web dan Standar W3C"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video Pengenalan" # A short title that is used in the navigation
 lang: id   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-05-01   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Fri Rasyidi"   # Replace @@ with name, add separate - name lines for every translator
 # contributors:
@@ -58,7 +58,7 @@ Anda boleh menggunakan video ini jika Anda menyertakan tautan ke halaman ini. In
 
 ## Deskripsi Audio {#audio-description}
 
-Video ini tidak disertakan deskripsi audio karena aspek visual hanya digunakan sebagai pendukung audio dan tidak memberikan informasi tambahan. Dalam kasus ini, deskripsi audio akan lebih bersifat menganggu dibandingkan membantu untuk sebagian besar orang, termasuk mereka yang tidak bisa melihat informasi visual. Transkripsi dan Deskripsi di bawah disertai dengan informasi visual terkait.
+Video ini tidak disertakan dengan deskripsi audio karena aspek visual hanya digunakan sebagai pendukung audio dan tidak memberikan informasi tambahan. Dalam kasus ini, deskripsi audio akan lebih menganggu daripada membantu bagi sebagian besar orang, termasuk mereka yang tidak bisa melihat informasi visual. Transkripsi dan Deskripsi di bawah disertai dengan informasi visual terkait.
 
 Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibilitas Web - Deskripsi Audio (playlist YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Atau Anda bisa memilih salah satu dari video pada [halaman Perspektif Aksesibilitas Web](/perspective-videos/) dan memilih "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
@@ -78,7 +78,7 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
   </thead>
   <tbody>
     <tr>
-      <td>Hai! Nama saya Shadi Abou-Zahra. Saya adalah Spesialis Strategi dan Teknologi Aksesibilitas di W3C, Konsorsium World Wide Web, dan hari ini saya ingin menceritakan pada Anda tentang aksesibilitas web.</td>
+      <td>Hai! Nama saya Shadi Abou-Zahra. Saya adalah Spesialis Strategi dan Teknologi Aksesibilitas di W3C, Konsorsium World Wide Web, dan hari ini saya ingin membicarakan pada Anda tentang aksesibilitas web.</td>
       <td>Aksesibilitas Web<br>
         [Shadi berbicara]</td>
     </tr>
@@ -151,8 +151,8 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
       <td>Contoh kode</td>
     </tr>
     <tr>
-      <td>Sarana pembuatan yang bagus, seperti wiki, sistem manajemen konten, dan editor kode, membantu membuat kode yang aksesibel — baik secara otomatis mau pun melalui input dari penulis.</td>
-      <td>Contoh sarana pembuatan yang digunakan untuk membuat konten web</td>
+      <td>Sarana penulisan yang bagus, seperti wiki, sistem manajemen konten, dan editor kode, membantu membuat kode yang aksesibel — baik secara otomatis mau pun melalui input dari penulis.</td>
+      <td>Contoh sarana penulisan yang digunakan untuk membuat konten web</td>
     </tr>
     <tr>
       <td>Browser web, pemutar media, dan aplikasi juga perlu mendukung fitur aksesibilitas.</td>
@@ -183,15 +183,15 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
       <td>Seseorang menggunakan pembesar layar untuk membesarkan tampilan komputernya</td>
     </tr>
     <tr>
-      <td>Selain WCAG, W3C juga menyediakan Pedoman Aksesibilitas Sarana Pembuatan - ATAG, yang mendefinisikan persyaratan untuk sistem manajemen konten, editor kode, dan perangkat lunak lainnya.</td>
-      <td>Pedoman Aksesibilitas Sarana Pembuatan - ATAG</td>
+      <td>Selain WCAG, W3C juga menyediakan Pedoman Aksesibilitas Sarana Penulisan - ATAG, yang mendefinisikan persyaratan untuk sistem manajemen konten, editor kode, dan perangkat lunak lainnya.</td>
+      <td>Pedoman Aksesibilitas Sarana Penulisan - ATAG</td>
     </tr>
     <tr>
       <td>Dan Pedoman Aksesibilitas Agen Pengguna - UAAG, yang mendefinisikan persyaratan untuk browser web dan pemutar media.</td>
       <td>Pedoman Aksesibilitas Agen Pengguna - UAAG</td>
     </tr>
     <tr>
-      <td>Ada lebih dari satu miliar orang penyandang disabilitas, atau sekitar 15–20% dari populasi. Konvensi PBB tentang Hak-hak Penyandang Disabilitas menjelaskan bahwa akses pada informasi, termasuk Web, sebagai bagian dari hak asasi manusia. Sebagian besar negara di seluruh dunia telah menyepakati konvensi PBB ini, dan beberapa juga sudah mengadopsi kebijakan yang mengikat. Namun, terlepas dari peraturan maupun regulasi yang ada, menerapkan standar aksesibilitas adalah esensial bagi penyandang disabilitas, dan bermanfaat bagi semua.</td>
+      <td>Ada lebih dari satu miliar orang penyandang disabilitas, atau sekitar 15–20% dari populasi. Konvensi PBB tentang Hak-hak Penyandang Disabilitas menjelaskan bahwa akses pada informasi, termasuk Web, sebagai bagian dari hak asasi manusia. Sebagian besar negara di seluruh dunia telah menyepakati konvensi PBB ini, dan beberapa juga sudah mengadopsi kebijakan yang mengikat. Namun, terlepas dari peraturan mau pun regulasi yang ada, menerapkan standar aksesibilitas besifat esensial bagi penyandang disabilitas, dan bermanfaat bagi semua.</td>
       <td>[Shadi berbicara]</td>
     </tr>
     <tr>
@@ -204,7 +204,7 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
 
 ## Terjemahan {#translations}
 
-Ada beberapa terjemahan untuk seluruh halaman web ini. Merka tertaut pada bagian atas halaman ini.<br>Ada **lebih banyak terjemahan khusus untuk video**. Tersedia juga sebagai teks dan transkripsi.
+Ada beberapa terjemahan untuk seluruh halaman web ini. Tautan ada di bagian atas halaman ini.<br>Ada **lebih banyak terjemahan khusus untuk video**. Tersedia juga sebagai teks dan transkripsi.
 
 Untuk mendapatkan terjemahan pada area teks di bagian bawah video:
 
