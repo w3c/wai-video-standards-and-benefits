@@ -12,10 +12,6 @@ github:
 changelog: /videos/standards-and-benefits/changelog/
 ---
 
-_This changelog includes some Markdown and HTML syntax to facilitate updating translations._
-
-**Note: Some code-level fixes are missing below, and will be added in May 2021. (Thanks, Tolu Adegbite!)**
-
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
 {:/}
@@ -28,17 +24,21 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 {% include toc.html type="end" %}
 {:/}
 
-## VTT files
+_This changelog includes some Markdown and HTML syntax to facilitate updating translations._
 
-Translators: Here is the latest list of subtitles. You can use this and not need to find all the VTT additions below.
+**Note: Some code-level fixes are missing below, and will be added in May 2021. (Thanks, Tolu Adegbite!)**
+
+## For Translators - VTT files
+
+Here is the latest list of subtitles. You can use this and not need to find all the VTT additions below.
 
 ```
 subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
 ```
 
-To set the video subtitles to default to your language:
+**To set the video subtitles to default to your language:**
 1. Delete ```|default``` from: ``` captions="W3C_INTRO_SFHI.vtt|en|default" ``` so it's:<br>```captions="W3C_INTRO_SFHI.vtt|en" ```
-2. Add ```|default``` after your language vtt. for example:<br>``` ,W3C_INTRO_SFHI.ar.vtt|ar|default, ```
+2. Add ```|default``` after your language vtt. For example:<br>``` ,W3C_INTRO_SFHI.ar.vtt|ar|default, ```
 
 ## 2021-04May
 
