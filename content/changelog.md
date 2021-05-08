@@ -14,8 +14,7 @@ changelog: /videos/standards-and-benefits/changelog/
 
 _This changelog includes some Markdown and HTML syntax to facilitate updating translations._
 
-**Note: Some code-level fixes are missing below, and will be added in May 2021.**
-
+**Note: Some code-level fixes are missing below, and will be added in May 2021. (Thanks, Tolu Adegbite!)**
 
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
@@ -38,8 +37,8 @@ subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.v
 ```
 
 To set the video subtitles to default to your language:
-1. Delete |default from: ``` captions="W3C_INTRO_SFHI.vtt|en|default" ``` so it's: ```captions="W3C_INTRO_SFHI.vtt|en" ```
-2. Add |default after your language vtt. for example: ``` ,W3C_INTRO_SFHI.ar.vtt|ar|default, ```
+1. Delete ```|default``` from: ``` captions="W3C_INTRO_SFHI.vtt|en|default" ``` so it's:<br>```captions="W3C_INTRO_SFHI.vtt|en" ```
+2. Add ```|default``` after your language vtt. for example:<br>``` ,W3C_INTRO_SFHI.ar.vtt|ar|default, ```
 
 ## 2021-04May
 
