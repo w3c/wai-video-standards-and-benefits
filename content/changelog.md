@@ -28,18 +28,19 @@ subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.v
 
 ## May 2021 updates
 
-* Added to end of footer text (in the frontmatter near the top): ```Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.```
+* Added to end of footer text (in the frontmatter near the top):<br>
+  ```Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.```
   * Shawn to check:
     * ... list which ones...
   * Added to: ... list which ones...
   * Already had: ... list which ones...
 * Added changelog:
   1. Added "changelog: /videos/standards-and-benefits/changelog/" between ref and layout:
-   <code
+   ```
    ref: /videos/standards-and-benefits/   # Do not change this
    changelog: /videos/standards-and-benefits/changelog/
    layout: default
-   </code>
+   ```
   2. Added "CHANGELOG." after date:<br>
    ```First published 4 December 2017. CHANGELOG.```
     * Shawn to check:
