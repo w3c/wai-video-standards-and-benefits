@@ -2,7 +2,7 @@
 # translation notes are after the "#" character in this first section
 title: "Εισαγωγικό Βίντεο για την Προσβασιμότητα στον Παγκόσμιο Ιστό (Web Accessibility) και τα Πρότυπα του W3C" # translate this
 nav_title: "Εισαγωγή Βίντεο" # A short title that is used in the navigation
-last_updated: 2019-03-07 # update date of this translation
+last_updated: 2021-05-08 # update date of this translation
 translators: 
 - name: "Πάνος Κουτσοδημητρόπουλος" # replace @@ with name or names separated with a comma
   link: "https://gr.linkedin.com/in/panoskoutsodimitropoulos"
@@ -18,7 +18,7 @@ changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
   <p><strong>Ημερομηνία:</strong> Ενημερώθηκε 20 Δεκεμβρίου 2018. Πρώτη δημοσίευση 4 Δεκεμβρίου 2017. CHANGELOG.</p>
   <p>Επικεφαλής του έργου: <a href="https://www.w3.org/People/shadi/"><span lang="en">Shadi Abou-Zahra</span></a>. Συνεισφέροντες: <a href="https://www.w3.org/People/Shawn/"><span lang="en">Shawn Lawton Henry</span></a>, <a href="https://www.w3.org/People/Brewer/"><span lang="en">Judy Brewer</span></a>, <a href="https://www.w3.org/People/yatil/"><span lang="en">Eric Eggert</span></a>. Εικονοληψία και επεξεργασία βίντεο: <span lang="en">Ulrich Grimm, av-design GmbH</span>.</p>
-  Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.
+  <p>Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 # end of translation notes
 ---
 
