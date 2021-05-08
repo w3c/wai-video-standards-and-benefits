@@ -30,6 +30,7 @@ subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.v
 
 * Added to end of footer text (in the frontmatter near the top):
   ```Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.```
+  Put it inside the closing ```</p>```
   * Shawn to check:
     * ... list which ones...
   * Added to: ... list which ones...
