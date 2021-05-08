@@ -12,11 +12,6 @@ github:
 changelog: /videos/standards-and-benefits/changelog/
 ---
 
-_This changelog includes some Markdown and HTML syntax to facilitate updating translations._
-
-**Note: Some code-level fixes are missing below, and will be added in May 2021.**
-
-
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
 {:/}
@@ -27,23 +22,39 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 
 {::nomarkdown}
 {% include toc.html type="end" %}
-{:/} 
+{:/}
 
-## 2021-04(May)
+_This changelog includes some Markdown and HTML syntax to facilitate updating translations._
+
+**Note: Some code-level fixes are missing below, and will be added in May 2021. (Thanks, Tolu Adegbite!)**
+
+## For Translators - VTT files
+
+Here is the latest list of subtitles. You can use this and not need to find all the VTT additions below.
+
+```
+subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
+```
+
+**To set the video subtitles to default to your language:**
+1. Delete ```|default``` from: ``` captions="W3C_INTRO_SFHI.vtt|en|default" ``` so it's:<br>```captions="W3C_INTRO_SFHI.vtt|en" ```
+2. Add ```|default``` after your language vtt. For example:<br>``` ,W3C_INTRO_SFHI.ar.vtt|ar|default, ```
+
+## 2021-04May
 
 * Added video subtitle files: ``` ,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa ```
 
-## 2020-08(August)
+## 2020-08August
 
 * Added video subtitle file: ``` ,W3C_INTRO_SFHI.cs.vtt|cs ```
 
-## 2019-02(Feb) through 2019-05(May)
+## 2019-02Feb through 2019-05May
 
 * Fixed typo "quite"->"quiet":<br>from: <q>For example, captions benefit anyone in a loud or in a quite environment.</q><br>&nbsp;&nbsp;&nbsp;&nbsp;to: <q>For example, captions benefit anyone in a loud or in a quiet environment.</q>
 * Added to footer: <blockquote>Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</blockquote>
 * Added quotes around "Language" in the [Translations section](https://www.w3.org/WAI/videos/standards-and-benefits/#translations).
 
-## 2019-02(Feb)-21
+## 2019-02Feb-21
 
 * **Changed all 4 bullets under the video, after "This video information is available"** to:
 
@@ -74,4 +85,4 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 
 * **Added to meta-data**: `nav_title: "Video Introduction" # A short title that is used in the navigation`<br>(Translators: Please provide a translation of "Video Introduction", or confirm the one we put in there.)
 
-* Added link to changelog in the page footer.<br>(Translators: You do not need to do anything for this; it is added automatically.)
+* Added link to changelog in the page footer.
