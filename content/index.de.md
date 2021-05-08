@@ -3,7 +3,7 @@
 title: "Video-Einführung in Web-Accessibility und W3C-Standards"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video-Einführung"
 lang: de   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-03-07   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
 - name: "Sandra Kallmeyer"   # Replace @@ with name or names separated with a comma
 contributors:
@@ -18,7 +18,7 @@ changelog: /videos/standards-and-benefits/changelog/
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
    <p><strong>Datum:</strong> Aktualisiert am 20. Dezember 2018. Erstmals veröffentlicht am 4. Dezember 2017. CHANGELOG.</p>
    <p>Projektleiter: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Mitwirkende: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videofilmer und -editor: Ulrich Grimm, av-design GmbH.</p>
-   Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.
+   <p>Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
