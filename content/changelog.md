@@ -30,11 +30,23 @@ subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.v
 
 * Added to end of footer text (in the frontmatter near the top):
   ```Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.```
-  <br>(Put it inside the closing ```</p>``` )
   * Shawn to check:
     * ... list which ones...
-  * Added to: ... list which ones...
+  * Added to: ... list which ones..
+      * index.ar.md
+      * index.de.md
+      * index.el.md
+      * index.id.md
+      * index.ja.md
+      * index.nl.md
+      * index.ru.md
+      * index.zh-hans.md
   * Already had: ... list which ones...
+      * index.cs.md
+      * index.es.md
+      * index.fr.md
+      * index.ko.md
+      * index.pt-BR.md
 * Added changelog:
   1. Added "changelog: /videos/standards-and-benefits/changelog/" between ref and layout:
    ```
