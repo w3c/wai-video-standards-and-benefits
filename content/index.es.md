@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: "Vídeo de Introducción a la Accesibilidad Web y los Estándares del W3C"
 nav_title: "Vídeo de Introducción" # A short title that is used in the navigation
-last_updated: 2019-06-20
+last_updated: 2021-05-08
 translators: 
 - name: "Martín Álvarez-Espinar"
   org: CTIC
