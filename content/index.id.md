@@ -3,7 +3,7 @@
 title: "Video Pengenalan Aksesibilitas Web dan Standar W3C"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video Pengenalan" # A short title that is used in the navigation
 lang: id   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-05-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Fri Rasyidi"   # Replace @@ with name, add separate - name lines for every translator
 # contributors:
@@ -35,8 +35,8 @@ footer: >
            %}
 
 Informasi video tersedia:
-* **Dalam berbagai bahasa** — [Instruksi untuk melihat teks dan transkripsi](#translations) di bawah
-* Dalam bentuk **[Transkripsi Teks dengan Deskripsi Visual](#transcript)** di bawah
+* **Dalam berbagai bahasa** — [Instruksi untuk melihat teks dan transkripsi](#translations) ada di bawah halaman
+* Dalam bentuk **[Transkripsi Teks dengan Deskripsi Visual](#transcript)** ada di bawah halaman
 * [Di YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
 * Di server W3C — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Berkas Teks Bahasa Indonesia (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.id.vtt), [daftar berkas bahasa lainnya](http://media.w3.org/wai/accessibility-intro/)
 {% comment %}# For translations, replace:
@@ -48,7 +48,7 @@ Informasi video tersedia:
 
 Untuk Informasi Lebih Lanjut, lihat:
 
-* [[**Pengenalan Aksesibilitas Web**]](/fundamentals/accessibility-intro/)
+* [[**Pengenalan pada Aksesibilitas Web**]](/fundamentals/accessibility-intro/)
 * [[**Video Perspektif Aksesibilitas**: Jelajahi Dampak dan Manfaatnya bagi Semua Orang]](/perspective-videos/) — video dan informasi mengenai topik aksesibilitas spesifik.
 * [**Situs WAI**](https://www.w3.org/WAI/) — untuk menemukan beragam sumber informasi mengenai berbagai aspek dari [standar](/standards-guidelines/), [pendidikan](/teach-advocate/), [pengujian/evaluasi](/test-evaluate/), [manajemen dan kebjakan proyek](/planning/) aksesibilitas web.
 
@@ -58,7 +58,7 @@ Anda boleh menggunakan video ini jika Anda menyertakan tautan ke halaman ini. In
 
 ## Deskripsi Audio {#audio-description}
 
-Video ini tidak disertakan dengan deskripsi audio karena aspek visual hanya digunakan sebagai pendukung audio dan tidak memberikan informasi tambahan. Dalam kasus ini, deskripsi audio akan lebih menganggu daripada membantu bagi sebagian besar orang, termasuk mereka yang tidak bisa melihat informasi visual. Transkripsi dan Deskripsi di bawah disertai dengan informasi visual terkait.
+Video ini tidak disertakan dengan deskripsi audio karena aspek visual hanya digunakan sebagai pendukung dan tidak memberikan informasi tambahan. Dalam kasus ini, bagi sebagian besar orang deskripsi audio akan lebih menganggu daripada membantu, termasuk bagi mereka yang tidak bisa melihat informasi visual. Transkripsi dan Deskripsi di bawah disertai dengan informasi visual terkait.
 
 Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibilitas Web - Deskripsi Audio (playlist YouTube)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-). Atau Anda bisa memilih salah satu dari video pada [halaman Perspektif Aksesibilitas Web](/perspective-videos/) dan memilih "{% include t.html t='Enable Audio Description' %}" ("<span lang='en'>Enable Audio Description</span>").
 {% comment %}# For translations: Do not translate the text in "{% include t.html t='Enable Audio Description' %}" (it will be automatically translated). After that code, please add this:
@@ -204,7 +204,7 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
 
 ## Terjemahan {#translations}
 
-Ada beberapa terjemahan untuk seluruh halaman web ini. Tautan ada di bagian atas halaman ini.<br>Ada **lebih banyak terjemahan khusus untuk video**. Tersedia juga sebagai teks dan transkripsi.
+Ada beberapa terjemahan untuk seluruh halaman web ini. Tautan terdapat pada bagian atas halaman ini.<br>Ada **lebih banyak terjemahan khusus untuk video**. Tersedia juga dalam bentuk teks dan transkripsi.
 
 Untuk mendapatkan terjemahan pada area teks di bagian bawah video:
 
@@ -216,8 +216,8 @@ Untuk mendapatkan terjemahan di bagian transkripsi terpisah:
 
 1. Pilih "Tampilkan transkripsi".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Gunakan boks-pilihan "Bahasa" untuk memilih teks.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Gunakan kotak pilihan "Bahasa" untuk memilih teks.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
 ### Terjemahkan ke Bahasa Lain
 
-Kami menyambut tambahan terjemahan. Jika kamu menerjemahkan [berkas VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), mohon kirimkan ke <public-wai-translations@w3.org>. Jika kamu ingin menerjemahkan seluruh halaman web ini atau halaman lainnya, mohon lihat [[Menerjemahkan Sumber Informasi WAI]](/about/translating/).
+Kami menyambut tambahan terjemahan. Jika kamu menerjemahkan [berkas VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), mohon kirimkan ke <public-wai-translations@w3.org>. Jika kamu ingin menerjemahkan seluruh halaman web ini atau halaman lainnya, mohon baca [[Menerjemahkan Sumber Informasi WAI]](/about/translating/).
