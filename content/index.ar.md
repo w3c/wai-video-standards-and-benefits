@@ -4,7 +4,7 @@ title: "مقدمة فيديو إلى ولوجية الويب ومعايير W3C"
 title_html: "مقدمة فيديو إلى ولوجية الويب ومعايير W3C"
 nav_title: "مقدمة فيديو" # A short title that is used in the navigation
 lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2020-05-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2020-05-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "نجيب التونسي"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
@@ -21,7 +21,7 @@ github:
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>االتاريخ:</strong> تم التحديث في 21 فبراير 2019. تم النشر لأول مرة في 4 ديسمبر 2017. CHANGELOG.</p>
+  <p><strong>االتاريخ:</strong>  تم التحديث في 4 مايو 2021. تم النشر لأول مرة في 4 ديسمبر 2017. CHANGELOG.</p>
   <p>قيادة المشروع: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. المساهمة: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. مصور وناشر فيديو: Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
