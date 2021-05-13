@@ -6,7 +6,7 @@ nav_title: "Video úvod" # A short title that is used in the navigation
  
 lang: cs # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
  
-last_updated: 2020-08-24  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-13  # Put the date of this translation YYYY-MM-DD (with month in the middle)
  
 translators:
 - name: "Kristýna Švecová" # Replace @@ with translator name
@@ -28,7 +28,7 @@ permalink: /videos/standards-and-benefits/cs   # Add the language shortcode to t
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Datum:</strong> Aktualizováno 21. února 2019. Poprvé zveřejněno 4. prosince 2017. CHANGELOG.</p>
+   <p><strong>Datum:</strong> Aktualizováno 4. května 2021. Poprvé zveřejněno 4. prosince 2017. CHANGELOG.</p>
    <p>Vedoucí projektu: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Přispěvatelé: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Tvůrce a editor videa: Ulrich Grimm, av-design GmbH. Video klipy vytvořeny za podpory <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, spolu financováno European Commission. Překlady spravovány za podpory <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, financováno Ford Foundation.</p>
  
 # Read Important Translations Guidance at https://www.w3.org/wiki/WAI/Translation_Instructions
@@ -38,8 +38,8 @@ footer: >
 {% include video-player.html
        	yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
-           captions="W3C_INTRO_SFHI.vtt|en|default"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.ru.vtt|cs"
+           captions="W3C_INTRO_SFHI.vtt|en"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs|default,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
        	%}
  
 Informace ve videu jsou dostupné:
