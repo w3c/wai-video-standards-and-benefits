@@ -22,8 +22,7 @@ github:
 # Do not change the dates in the footer below.
 footer: >
   <p><strong>االتاريخ:</strong> تم التحديث في 21 فبراير 2019. تم النشر لأول مرة في 4 ديسمبر 2017. CHANGELOG.</p>
-  <p>قيادة المشروع: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. المساهمة: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. مصور وناشر فيديو: Ulrich Grimm, av-design GmbH.</p>
-<p>Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
+  <p>قيادة المشروع: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. المساهمة: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. مصور وناشر فيديو: Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
