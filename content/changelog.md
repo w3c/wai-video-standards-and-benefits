@@ -3,16 +3,47 @@ title: "Changelog for Video Introduction to Web Accessibility and W3C Standards"
 title_html: 'Changelog for <a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a>'
 nav_title: "Changelog"
 lang: en
+layout: default
+class: tight-page
+
 permalink: /videos/standards-and-benefits/changelog/
 ref: /videos/standards-and-benefits/changelog/
-layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
-   path: 'changelog.md'
-changelog: /videos/standards-and-benefits/changelog/
+   path: 'content/changelog.md'
+
+feedbackmail: wai@w3.org
+footer: >
+ <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: Tolu Adegbite.</p>
 ---
 
-<!-- _This changelog includes some Markdown and HTML syntax to facilitate updating translations._ -->
+{::nomarkdown}
+{% include box.html type="start" title="About" class="" %}
+{:/}
+
+This page is designed so translators can copy and paste from this rendered changelog page.
+
+<!-- For others, **particularly significant or substantive changes are summarized after “Significant:”**. -->
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+{::nomarkdown}
+{% include toc.html type="start" title="Page Contents" %}
+{:/}
+
+- This will be replaced by an automatically generated TOC when using Markdown formatting.
+{::options toc_levels="2,3" /}
+{:toc}
+
+{::nomarkdown}
+{% include toc.html type="end" %}
+{:/}
+
+**_Translators:_**
+* Change `last_updated` to the date of the translation update.
+* The other dates after `footer >` should match the English version.
+* From the GitHub pull request, after a couple of minutes, you can get a preview of your rendered page by selecting the "Details" link after "netlify/wai-.../deploy-preview — Deploy preview ready!". Then select your language at the top.
 
 ## For Translators - VTT files
 
@@ -31,10 +62,6 @@ subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.v
 * Added to end of footer text (in the frontmatter near the top):
   ```Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.```
   <br>(Put it inside the closing ```</p>``` )
-  * Shawn to check:
-    * ... list which ones...
-  * Added to: ... list which ones...
-  * Already had: ... list which ones...
 * Added changelog:
   1. Added "changelog: /videos/standards-and-benefits/changelog/" between ref and layout:
    ```
@@ -43,10 +70,7 @@ subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.v
    layout: default
    ```
   2. Added "CHANGELOG." after date:<br>
-   ```First published 4 December 2017. CHANGELOG.```
+   ```Updated 4 May 2021. First published 4 December 2017. CHANGELOG.```
     * Shawn to do: ... list which ones...
-
-* Updated date:<br>
-  ```last_updated: 2021-05-10```
   
 _Thanks to Tolu Adegbite for work on May 2021 updates!_
