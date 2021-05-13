@@ -6,7 +6,7 @@ nav_title: "Video úvod" # A short title that is used in the navigation
  
 lang: cs # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
  
-last_updated: 2021-05-08  # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-13  # Put the date of this translation YYYY-MM-DD (with month in the middle)
  
 translators:
 - name: "Kristýna Švecová" # Replace @@ with translator name
@@ -28,7 +28,7 @@ permalink: /videos/standards-and-benefits/cs   # Add the language shortcode to t
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Datum:</strong> Aktualizováno 21. února 2019. Poprvé zveřejněno 4. prosince 2017. CHANGELOG.</p>
+   <p><strong>Datum:</strong> Aktualizováno 4. května 2021. Poprvé zveřejněno 4. prosince 2017. CHANGELOG.</p>
    <p>Vedoucí projektu: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Přispěvatelé: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Tvůrce a editor videa: Ulrich Grimm, av-design GmbH. Video klipy vytvořeny za podpory <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, spolu financováno European Commission. Překlady spravovány za podpory <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, financováno Ford Foundation.</p>
  
 # Read Important Translations Guidance at https://www.w3.org/wiki/WAI/Translation_Instructions
