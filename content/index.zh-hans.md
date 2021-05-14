@@ -3,7 +3,7 @@
 title: "网页无障碍和W3C标准的介绍视频" # translate this
 nav_title: "视频介绍" # A short title that is used in the navigation
 # nav_title: "" # A short title that is used in the navigation
-last_updated: 2021-05-08 # update date of this translation
+last_updated: 2021-05-13 # update date of this translation
 translators:
 - name: "Ruoxi Ran" # replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/zh-hans # Add the language shortcode; for example: /videos/standards-and-benefits/fr
@@ -16,10 +16,9 @@ github:
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
-  <p><strong>日期:</strong> 2018年12月20日更新。首次出发布于2017年12月4日。 CHANGELOG。</p>
-  <p>项目主管： <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. 参与者： <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. 摄像师和视频编辑： Ulrich Grimm, s.</p>
-  <p></p>
-# end of translation notes
+  <p><strong>日期:</strong> 2021年5月4日更新。首次出发布于2017年12月4日。CHANGELOG</p>
+  <p>项目主管： <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. 参与者： <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. 摄像师和视频编辑： Ulrich Grimm. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
+
 ---
 
 {% include video-player.html 
