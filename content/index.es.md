@@ -2,7 +2,7 @@
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: "Vídeo de Introducción a la Accesibilidad Web y los Estándares del W3C"
 nav_title: "Vídeo de Introducción" # A short title that is used in the navigation
-last_updated: 2019-06-20
+last_updated: 2021-05-13
 translators: 
 - name: "Martín Álvarez-Espinar"
   org: CTIC
@@ -16,7 +16,7 @@ github:
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: >   # Do not translate "CHANGELOG." Do *not* change the dates in the footer below.
-  <p><strong>Fecha:</strong> Actualizado el 20 de diciembre de 2018. Publicado inicialmente el 4 de diciembre de 2017. CHANGELOG.</p>
+  <p><strong>Fecha:</strong> Actualizado el 4 de mayo de 2021. Publicado inicialmente el 4 de diciembre de 2017. CHANGELOG.</p>
   <p>Director del proyecto: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Colaboradores: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Grabación y edición del vídeo: Ulrich Grimm, av-design GmbH. Videoclips elaborados con el apoyo del <a href="https://www.w3.org/WAI/DEV/">proyecto WAI-DEV</a>, cofinanciado por la  Comisión Europea. Traducciones gestionadas con el apoyo del <a href="https://www.w3.org/WAI/expand-access/">proyecto WAI Expanding Access</a>, financiado por la Fundación Ford.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 # end of translation instructions
@@ -26,7 +26,7 @@ footer: >   # Do not translate "CHANGELOG." Do *not* change the dates in the foo
            yt-id="20SHvU2PKsM" 
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es|default,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es|default,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
            %}
 
 Esta información del video está disponible:
