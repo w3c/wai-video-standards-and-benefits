@@ -3,7 +3,7 @@
 title: "W3Cのアクセシビリティと標準技術"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: “紹介" # A short title that is used in the navigation
 lang: ja   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-05-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Naomi Yoshizawa"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ja   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
@@ -20,9 +20,8 @@ github:
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.   
 footer: >
-   <p><strong>更新日:</strong>2019年2月21日 初版2017年12月4日 CHANGELOG.</p>
-   <p>プロジェクトリーダー：<a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.寄稿者：<a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>.撮影・編集者：Ulrich Grimm, av-design GmbH.</p>
-   <p>Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
+   <p><strong>更新日:</strong> 2021年5月4日初版2017年12月4日. CHANGELOG.</p>
+   <p>プロジェクトリーダー：<a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.寄稿者：<a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>.撮影・編集者：Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
