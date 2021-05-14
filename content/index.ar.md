@@ -4,7 +4,7 @@ title: "مقدمة فيديو إلى ولوجية الويب ومعايير W3C"
 title_html: "مقدمة فيديو إلى ولوجية الويب ومعايير W3C"
 nav_title: "مقدمة فيديو" # A short title that is used in the navigation
 lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2020-05-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "نجيب التونسي"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
