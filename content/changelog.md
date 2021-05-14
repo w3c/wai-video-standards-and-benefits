@@ -71,6 +71,5 @@ subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.v
    ```
   2. Added "CHANGELOG." after date:<br>
    ```Updated 4 May 2021. First published 4 December 2017. CHANGELOG.```
-    * Shawn to do: ... list which ones...
   
 _Thanks to Tolu Adegbite for work on May 2021 updates!_
