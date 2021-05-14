@@ -3,7 +3,7 @@
 title: "Видео введение в веб-доступность и стандарты W3C"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Введение" # A short title that is used in the navigation
 lang: ru   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-05-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Daniel Novichkov"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ru   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
@@ -20,9 +20,8 @@ github:
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.  
 footer: >
-   <p><strong>Дата:</strong> Обновлено 21 февраля 2019. Впервые опубликовано 4 декабря 2017. CHANGELOG.</p>
-   <p>Руководитель проекта: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Авторы: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Оператор и монтажер: Ulrich Grimm, av-design GmbH.</p>
-   <p>Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
+   <p><strong>Дата:</strong> Обновлено 4 мая 2021. Впервые опубликовано 4 декабря 2017. CHANGELOG.</p>
+   <p>Руководитель проекта: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Авторы: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Оператор и монтажер: Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 ---
 
