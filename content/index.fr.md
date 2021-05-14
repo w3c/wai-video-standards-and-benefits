@@ -3,7 +3,7 @@
 title: "Vidéo : introduction à l’accessibilité web et aux standards du W3C" # translate this
 title_html: "Vidéo&#8239;: introduction à l’accessibilité web et aux standards du W3C" # translate this
 nav_title: "Introduction en vidéo" # A short title that is used in the navigation
-last_updated: 2021-05-08 # update date of this translation
+last_updated: 2021-05-13 # update date of this translation
 translators:
 - name: "Stéphane Deschamps" # replace @@ with name or names separated with a comma
 contributors:
@@ -18,7 +18,7 @@ github:
 feedbackmail: wai@w3.org
 changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
-  <p><strong>Date&#8239;:</strong> Updated 20 December 2018. First published 4 December 2017. CHANGELOG.</p>
+  <p><strong>Date&#8239;:</strong> Updated 4 May 2021. First published 4 December 2017. CHANGELOG.</p>
   <p>Direction de projet&#8239;: <a hreflang="en" href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributeurs: <a hreflang="en" href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a hreflang="en" href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a hreflang="en" href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Capture et montage de la vidéo&#8239;: Ulrich Grimm, av-design GmbH. Vidéos produites avec le soutien du projet WAI-DEV, co-financé par la Commission Européenne. Traductions produites avec le soutien du projet <span lang="en">WAI Expanding Access</span>, financé par la Fondation Ford.</p>
 # end of translation notes
 ---
