@@ -18,7 +18,8 @@ changelog: /videos/standards-and-benefits/changelog/
 footer: > # translate the words below; do NOT change the dates.
   <p><strong>Ημερομηνία:</strong> Ενημερώθηκε 4 Μαΐου 2021. Πρώτη δημοσίευση 4 Δεκεμβρίου 2017. CHANGELOG.</p>
   <p>Επικεφαλής του έργου: <a href="https://www.w3.org/People/shadi/"><span lang="en">Shadi Abou-Zahra</span></a>. Συνεισφέροντες: <a href="https://www.w3.org/People/Shawn/"><span lang="en">Shawn Lawton Henry</span></a>, <a href="https://www.w3.org/People/Brewer/"><span lang="en">Judy Brewer</span></a>, <a href="https://www.w3.org/People/yatil/"><span lang="en">Eric Eggert</span></a>. Εικονοληψία και επεξεργασία βίντεο: <span lang="en">Ulrich Grimm, av-design GmbH</span>. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
-# end of translation notes
+
+# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
 
 {% include video-player.html 

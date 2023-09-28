@@ -24,7 +24,8 @@ github:
 footer: >
    <p><strong>Tanggal:</strong> Diperbarui 4 Mei 2021. Pertama kali dipublikasikan 4 Desember 2017. CHANGELOG.</p>
    <p>Pimpinan Proyek: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Kontributor: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videografer dan editor video: Ulrich Grimm, av-design GmbH. Klip video dibuat dengan dukungan dari <a href="https://www.w3.org/WAI/DEV/">proyek WAI-DEV</a>, didanai bersama dengan Komisi Eropa. Terjemahan dikelola dengan dukungan dari <a href="https://www.w3.org/WAI/expand-access/">proyek Ekspansi Akses WAI</a>, didanai oleh Ford Foundation.</p>
-# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
+
+# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
 
 {% include video-player.html 
