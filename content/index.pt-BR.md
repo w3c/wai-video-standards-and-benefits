@@ -20,8 +20,8 @@ footer:
   > # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
   <p><strong>Data:</strong> Atualizado em 4 de maio de 2021. Publicado inicialmente 4 December 2017. CHANGELOG.</p>
   <p>Diretor do projeto: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Colaboradores: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Gravação e edição do vídeo: Ulrich Grimm, av-design GmbH. Vídeos desenvolvidos com o suporte da <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-financiado pela Comissão Europeia. Traduções gerenciadas com o suporte da <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, financiado pela Ford Foundation.</p>
- 
-# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
+
+# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
 
 {% include video-player.html
