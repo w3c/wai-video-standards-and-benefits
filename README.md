@@ -4,8 +4,6 @@
 
 ## Translation Notes
 
-A file with highlighting to show what to translate and what to change is at: https://docs.google.com/document/d/1oVOIXH5mVvJSmznyWVU4A4N7E6vCOeHvYbpdAJvpbU0/edit
-
 **Check if the [player is available in your translated language](https://github.com/ableplayer/ableplayer/blob/master/README.md#user-content-supported-languages).**
 
 * **If the _is_ available in the translated language**, the player will automatically switch to the language. Therefore, you should translate the words from the video player interface. Please also update the image per the instructions below.<br>_If you are not able to update the image, let us know._
@@ -22,8 +20,7 @@ A file with highlighting to show what to translate and what to change is at: htt
      * "Show transcript"
      * "Language"
    * Mark up the English words with the language attribute: "`<span lang="en">Captions</span>`".
-   
-   
+
 ### Footer update April 2019
 
-[GitHub Diff](https://github.com/w3c/wai-video-standards-and-benefits/commit/e1f94d20042b9b60d1cda02c5bb58cbedf9acee8#diff-d680e8a854a7cbad6d490c445cba2eba) of footer changes. [Google doc](https://docs.google.com/document/d/1oVOIXH5mVvJSmznyWVU4A4N7E6vCOeHvYbpdAJvpbU0/edit#bookmark=id.ddeb6zwckwat) has highlighting to show which words to translate, and which to leave in English (organization names and project titles).
+[GitHub Diff](https://github.com/w3c/wai-video-standards-and-benefits/commit/e1f94d20042b9b60d1cda02c5bb58cbedf9acee8#diff-d680e8a854a7cbad6d490c445cba2eba) of footer changes.
