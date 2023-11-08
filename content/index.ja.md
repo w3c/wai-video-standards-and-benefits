@@ -26,12 +26,10 @@ footer: >
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
 
-{% include video-player.html 
-           yt-id="20SHvU2PKsM" 
-           path="/content-images/wai-video-standards-and-benefits/"
-           captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja|default,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
-           %}
+{% include video-player-data.html
+    video-id="video-introduction"
+    yt-id="20SHvU2PKsM"
+%}
 
 本動画は下記でご覧いただけます：
 * **言語** — [字幕の使用説明書](#translations)は下記の通りです
@@ -214,7 +212,7 @@ w3.org/WAI</td>
 
 ### 多言語の翻訳
 
-W3Cは他言語の翻訳を歓迎します。[VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})の翻訳物は <public-wai-translations@w3.org>までお送り下さい。本ウェブページ全体や他資料を翻訳ご希望の方は[[Translating WAI Resources](https://www.w3.org/WAI/about/translating/)をご覧ください。
+W3Cは他言語の翻訳を歓迎します。[VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }})の翻訳物は <public-wai-translations@w3.org>までお送り下さい。本ウェブページ全体や他資料を翻訳ご希望の方は[[Translating WAI Resources](https://www.w3.org/WAI/about/translating/)をご覧ください。
 
 
 
