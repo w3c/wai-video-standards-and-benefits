@@ -207,7 +207,7 @@ Para obtener traducciones en un área de transcripción separada:
 
 1. Selecciona "Mostrar transcripción".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Usa el menú desplegable de Idiomas para seleccionar los subtítulos.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Usa el menú desplegable de Idiomas para seleccionar los subtítulos.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.es.png" | relative_url }}' alt="">
 
 ### Traducir a otros idiomas
 

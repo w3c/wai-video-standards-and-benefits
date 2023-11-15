@@ -217,7 +217,7 @@ Untuk mendapatkan terjemahan di bagian transkripsi terpisah:
 
 1. Pilih "Tampilkan transkripsi".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Gunakan boks-pilihan "Bahasa" untuk memilih teks.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Gunakan boks-pilihan "Bahasa" untuk memilih teks.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.id.png" | relative_url }}' alt="">
 
 ### Terjemahkan ke Bahasa Lain
 
