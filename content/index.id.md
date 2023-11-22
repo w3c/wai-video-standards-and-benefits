@@ -167,7 +167,7 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
       <td>Pedoman Aksesibilitas Konten Web - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
-      <td>Pertama, Dapat Dipersepsikan - sebagai contoh, seseorang bisa melihat sebuah konten, atau mendegarnya.</td>
+      <td>Pertama, dapat diterima indra - sebagai contoh, seseorang bisa melihat sebuah konten, atau mendegarnya.</td>
       <td>Seseorang mengetik dari komputer tablet dan mendengarkannya melalui headphone</td>
     </tr>
     <tr>
