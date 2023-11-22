@@ -3,20 +3,31 @@ title: "Changelog for Video Introduction to Web Accessibility and W3C Standards"
 title_html: 'Changelog for <a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a>'
 nav_title: "Changelog"
 lang: en
+layout: default
+class: tight-page
+
 permalink: /videos/standards-and-benefits/changelog/
 ref: /videos/standards-and-benefits/changelog/
-layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
-   path: 'changelog.md'
-changelog: /videos/standards-and-benefits/changelog/
+   path: 'content/changelog.md'
+
+feedbackmail: wai@w3.org
+footer: >
+ <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>. Contributor: Tolu Adegbite.</p>
 ---
 
-_This changelog includes some Markdown and HTML syntax to facilitate updating translations._
+{::nomarkdown}
+{% include box.html type="start" title="About" class="" %}
+{:/}
 
-**Note: Some code-level fixes are missing below, and will be added in May 2021.**
+This page is designed so translators can copy and paste from this rendered changelog page.
 
+<!-- For others, **particularly significant or substantive changes are summarized after “Significant:”**. -->
 
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 {::nomarkdown}
 {% include toc.html type="start" title="Page Contents" %}
 {:/}
@@ -27,51 +38,38 @@ _This changelog includes some Markdown and HTML syntax to facilitate updating tr
 
 {::nomarkdown}
 {% include toc.html type="end" %}
-{:/} 
+{:/}
 
-## 2021-04(May)
+**_Translators:_**
+* Change `last_updated` to the date of the translation update.
+* The other dates after `footer >` should match the English version.
+* From the GitHub pull request, after a couple of minutes, you can get a preview of your rendered page by selecting the "Details" link after "netlify/wai-.../deploy-preview — Deploy preview ready!". Then select your language at the top.
 
-* Added video subtitle files: ``` ,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa ```
+## For Translators - VTT files
 
-## 2020-08(August)
+Here is the latest list of subtitles:
 
-* Added video subtitle file: ``` ,W3C_INTRO_SFHI.cs.vtt|cs ```
+```
+subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
+```
 
-## 2019-02(Feb) through 2019-05(May)
+**To set the video subtitles to default to your language:**
+1. Delete ```|default``` from: ``` captions="W3C_INTRO_SFHI.vtt|en|default" ``` so it's:<br><code>captions="W3C_INTRO_SFHI.vtt|en"</code>
+2. Add ```|default``` after your language vtt. For example:<br><conde> ,W3C_INTRO_SFHI.ar.vtt|ar|default, </code>
 
-* Fixed typo "quite"->"quiet":<br>from: <q>For example, captions benefit anyone in a loud or in a quite environment.</q><br>&nbsp;&nbsp;&nbsp;&nbsp;to: <q>For example, captions benefit anyone in a loud or in a quiet environment.</q>
-* Added to footer: <blockquote>Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</blockquote>
-* Added quotes around "Language" in the [Translations section](https://www.w3.org/WAI/videos/standards-and-benefits/#translations).
+## May 2021 updates
 
-## 2019-02(Feb)-21
-
-* **Changed all 4 bullets under the video, after "This video information is available"** to:
-
-  ```markdown
-  * **In different languages** — [Instructions to see subtitles and transcripts](#translations) are below
-  * As a **[Text Transcript with Description of Visuals](#transcript)** below
-  * [On YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-  * On a W3C server — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt), [list of other language files](http://media.w3.org/wai/accessibility-intro/)
-  {%raw%}{% comment %}# For translations, replace:
-  "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
-  "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
-  {% endcomment %}{%endraw%}
-  ```
-
-* **Changed paragraph under [Translate into Other Languages heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translate-into-other-languages)** to:
-
-  ```markdown
-  We welcome additional translations. If you translate the [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), please send it to <public-wai-translations@w3.org>. If you might want to translate this entire web page or others, please see [Translating WAI Resources](https://www.w3.org/WAI/about/translating/).
-  ```
-
-* **Added sentence/paragraph under [Translations heading](https://www.w3.org/WAI/videos/standards-and-benefits/#translations)**:
-
-  ```markdown
-  Translations are available as subtitles and transcripts.<br>
-  {%raw%}{% comment %}# For translations: The sentence above will change when we publish the translations. In your translation, please replace the paragraph above with: "There are some translations of this entire web page. They are linked at the top of this page.<br>There are **more translations of just the video**. They are available as subtitles and transcripts."<br>
-  {% endcomment %}{%endraw%}
-  ```
-
-* **Added to meta-data**: `nav_title: "Video Introduction" # A short title that is used in the navigation`<br>(Translators: Please provide a translation of "Video Introduction", or confirm the one we put in there.)
-
-* Added link to changelog in the page footer.<br>(Translators: You do not need to do anything for this; it is added automatically.)
+* Added to end of footer text (in the frontmatter near the top):
+  ```Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.```
+  <br>(Put it inside the closing ```</p>``` )
+* Added changelog:
+  1. Added "changelog: /videos/standards-and-benefits/changelog/" between ref and layout:
+   ```
+   ref: /videos/standards-and-benefits/   # Do not change this
+   changelog: /videos/standards-and-benefits/changelog/
+   layout: default
+   ```
+  2. Added "CHANGELOG." after date:<br>
+   ```Updated 4 May 2021. First published 4 December 2017. CHANGELOG.```
+  
+_Thanks to Tolu Adegbite for work on May 2021 updates!_

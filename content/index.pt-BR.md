@@ -3,7 +3,7 @@
 title: "Vídeo de Introdução a Acessibilidade Web e Padrões W3C" # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Vídeo de Introdução" # A short title that is used in the navigation
 lang: pt-BR # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-07-23 # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-13 # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
   - name: "Lucas Nobrega" # Replace @@ with name, add separate - name lines for every translator
 contributors:
@@ -11,29 +11,31 @@ contributors:
   - name: "Caroline Burle" # Replace @@ with name, add separate - name lines for every translator
 permalink: /videos/standards-and-benefits/pt-BR # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/ # Do not change this
+changelog: /videos/standards-and-benefits/changelog/
 layout: default
 github:
   repository: w3c/wai-video-standards-and-benefits
-  path: "index.pt-BR.md" # Add the language shortcode to the middle of the filename, for example index.fr.md
+  path: "content/index.pt-BR.md" # Add the language shortcode to the middle of the filename, for example index.fr.md
 footer:
   > # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
-  <p><strong>Data:</strong> Atualizado 21 Fevereiro 2019. Publicado inicialmente 4 December 2017. <a href="./changelog/">Log de mudanças</a>.</p>
+  <p><strong>Data:</strong> Atualizado em 4 de maio de 2021. Publicado inicialmente 4 December 2017. CHANGELOG.</p>
   <p>Diretor do projeto: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Colaboradores: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Gravação e edição do vídeo: Ulrich Grimm, av-design GmbH. Vídeos desenvolvidos com o suporte da <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-financiado pela Comissão Europeia. Traduções gerenciadas com o suporte da <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, financiado pela Ford Foundation.</p>
- 
-# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
+
+# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
 
 {% include video-player.html
            yt-id="20SHvU2PKsM"
            path="/content-images/wai-video-standards-and-benefits/"
            captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR|default,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR|default,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
            %}
 
 As informações sobre esse vídeo estão disponíveis:
 
 - **Em diferentes idiomas** — [Instruções para ver as legendas e transcrições](#traduções) estão abaixo
-- Abaixo com o **[Texto Transcrito com a Descrição das Imagens](#transcript)**
+- Abaixo com o **[Texto Transcrito com a Descrição das Imagens](#transcri
+)**
 - [No YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
 - No servidor do W3C — [vídeo (formato do arquivo: MP4, tamanho do arquivo: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [arquivo de legenda em português Brasileiro (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.pt-BR.vtt), [lista de outros arquivos de idioma](http://media.w3.org/wai/accessibility-intro/)
   {% comment %}# For translations, replace:

@@ -1,9 +1,9 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Video Pengenalan Aksesibilitas Web dan Standar W3C"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Video Pengenalan" # A short title that is used in the navigation
+title: "Video Pengantar Aksesibilitas Web dan Standar W3C"   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Video Pengantar" # A short title that is used in the navigation
 lang: id   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-05-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-11-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Fri Rasyidi"   # Replace @@ with name, add separate - name lines for every translator
 # contributors:
@@ -15,30 +15,31 @@ layout: default
 github:
    repository: w3c/wai-video-standards-and-benefits
    path: 'content/index.id.md'   # Add the language shortcode to the middle of the filename, for example index.fr.md
-   
+
 # In the footer below:
 # Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
 # Translate the other words below, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Tanggal:</strong> Diperbarui 24 Agustus 2020 (menambahkan berkas teks video). Pertama kali dipublikasikan 4 Desember 2017. CHANGELOG.</p>
-   <p>Pimpinan Proyek: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Kontributor: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videografer dan editor video: Ulrich Grimm, av-design GmbH. Klip video dibuat dengan dukungan dari <a href="https://www.w3.org/WAI/DEV/">proyek WAI-DEV</a>, didanai bersama dengan Komisi Eropa. Terjemahan dikelola dengan dukungan dari <a href="https://www.w3.org/WAI/expand-access/">proyek Ekspansi Akses WAI</a>, didanai oleh Ford Foundation.</p>
-# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
+   <p><strong>Tanggal:</strong> Diperbarui 4 Mei 2021. Pertama kali dipublikasikan 4 Desember 2017. CHANGELOG.</p>
+   <p>Pimpinan Proyek: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Kontributor: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videografer dan editor video: Ulrich Grimm, av-design GmbH. Klip video dibuat dengan dukungan dari <a href="https://www.w3.org/WAI/DEV/">proyek WAI-DEV</a>, didanai bersama oleh Komisi Eropa. Terjemahan dikelola dengan dukungan dari <a href="https://www.w3.org/WAI/expand-access/">proyek Ekspansi Akses WAI</a>, didanai oleh Ford Foundation.</p>
+
+# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
 
 {% include video-player.html 
            yt-id="20SHvU2PKsM" 
            path="/content-images/wai-video-standards-and-benefits/"
-           captions="W3C_INTRO_SFHI.vtt|en|default"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.cs.vtt|id,W3C_INTRO_SFHI.cs.vtt|fa"
+           captions="W3C_INTRO_SFHI.vtt|en"
+           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id|default,W3C_INTRO_SFHI.fa.vtt|fa"
            %}
 
 Informasi video tersedia:
-* **Dalam berbagai bahasa** — [Instruksi untuk melihat teks dan transkripsi](#translations) ada di bawah halaman
-* Dalam bentuk **[Transkripsi Teks dengan Deskripsi Visual](#transcript)** ada di bawah halaman
+* **Dalam berbagai bahasa** — [Instruksi untuk melihat teks dan transkripsi](#translations) di bawah
+* Dalam bentuk **[Transkripsi dan Deskripsi Visual](#transcript)** di bawah
 * [Di YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* Di server W3C — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [Berkas Teks Bahasa Indonesia (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.id.vtt), [daftar berkas bahasa lainnya](http://media.w3.org/wai/accessibility-intro/)
+* Di server W3C — [video (file format: MP4, file size: 28MB)](http://media.w3.org/wai/accessibility-intro/intro.mp4), [berkas takarir Bahasa Indonesia (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.id.vtt), [daftar berkas bahasa lainnya](http://media.w3.org/wai/accessibility-intro/)
 {% comment %}# For translations, replace:
 "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
 "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
@@ -48,7 +49,7 @@ Informasi video tersedia:
 
 Untuk Informasi Lebih Lanjut, lihat:
 
-* [[**Pengenalan pada Aksesibilitas Web**]](/fundamentals/accessibility-intro/)
+* [[**Pengantar Aksesibilitas Web**]](/fundamentals/accessibility-intro/)
 * [[**Video Perspektif Aksesibilitas**: Jelajahi Dampak dan Manfaatnya bagi Semua Orang]](/perspective-videos/) — video dan informasi mengenai topik aksesibilitas spesifik.
 * [**Situs WAI**](https://www.w3.org/WAI/) — untuk menemukan beragam sumber informasi mengenai berbagai aspek dari [standar](/standards-guidelines/), [pendidikan](/teach-advocate/), [pengujian/evaluasi](/test-evaluate/), [manajemen dan kebjakan proyek](/planning/) aksesibilitas web.
 
@@ -66,8 +67,7 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
 (Background is here:  https://github.com/w3c/wai-video-standards-and-benefits/issues/42.)
 {% endcomment %}
 
-
-## Transkripsi Teks dengan Deskripsi Visual {#transcript}
+## Transkripsi dan Deskripsi Visual {#transcript}
 
 <table>
   <thead>
@@ -107,11 +107,11 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
       <td>Seseorang menggunakan tongkat mulut untuk mengetik</td>
     </tr>
     <tr>
-      <td>Atau seseorang yang tidak bisa mendengar dengan baik, dan menggunakan teks untuk menonton video.</td>
+      <td>Atau seseorang yang tidak bisa mendengar dengan baik, dan menggunakan takarir untuk menonton video.</td>
       <td>Seseorang menggunakan alat bantu pendengaran</td>
     </tr>
     <tr>
-      <td>Atau seseorang yang tidak bisa melihat dengan baik, dan menggunakan pembaca teks untuk mendengarkan apa yang tertulis di layar.</td>
+      <td>Atau seseorang yang tidak bisa melihat dengan baik, dan menggunakan pembaca layar untuk mendengarkan apa yang tertulis di layar.</td>
       <td>Seseorang menggunakan pembaca layar</td>
     </tr>
     <tr>
@@ -119,8 +119,8 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
       <td>[Shadi berbicara]</td>
     </tr>
     <tr>
-      <td>Sebagai contoh, teks bermanfaat bagi semua orang pada lingkungan yang bising atau butuh keheningan.</td>
-      <td>Seseorang menonton video dengan teks di kantor</td>
+      <td>Sebagai contoh, takarir bermanfaat bagi semua orang pada lingkungan yang bising atau butuh keheningan.</td>
+      <td>Seseorang menonton video dengan takarir di kantor</td>
     </tr>
     <tr>
       <td>Dan kontras warna yang baik akan berguna ketika ada pantulan cahaya.</td>
@@ -175,11 +175,11 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
       <td>Seseorang berbicara ke komputernya</td>
     </tr>
     <tr>
-      <td>Dapat Dipahami - sebagai contoh, seseorang menerima dengan bahasa yang jelas dan sederhana.</td>
+      <td>Dapat Dimengerti - sebagai contoh, seseorang menerima dengan bahasa yang jelas dan sederhana.</td>
       <td>Dua orang terlihat bingung melihat layar komputer dengan situs yang padat</td>
     </tr>
     <tr>
-      <td>Dan Ulet - agar seseorang dapat menggunakan berbagai teknologi pembantu.</td>
+      <td>Dan Ulet - agar seseorang dapat menggunakan berbagai teknologi pendukung.</td>
       <td>Seseorang menggunakan pembesar layar untuk membesarkan tampilan komputernya</td>
     </tr>
     <tr>
@@ -204,11 +204,11 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
 
 ## Terjemahan {#translations}
 
-Ada beberapa terjemahan untuk seluruh halaman web ini. Tautan terdapat pada bagian atas halaman ini.<br>Ada **lebih banyak terjemahan khusus untuk video**. Tersedia juga dalam bentuk teks dan transkripsi.
+Ada beberapa terjemahan untuk seluruh halaman web ini. Merka tertaut pada bagian atas halaman ini.<br>Ada **lebih banyak terjemahan khusus untuk video**. Tersedia juga sebagai subtitel dan transkripsi.
 
-Untuk mendapatkan terjemahan pada area teks di bagian bawah video:
+Untuk mendapatkan terjemahan pada area takarir di bagian bawah video:
 
-1. Pilih <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Teks".
+1. Pilih <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Takarir".
 
 2. Pilih bahasa.
 
@@ -216,7 +216,7 @@ Untuk mendapatkan terjemahan di bagian transkripsi terpisah:
 
 1. Pilih "Tampilkan transkripsi".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Gunakan kotak pilihan "Bahasa" untuk memilih teks.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Gunakan kotak pilihan "Bahasa" untuk memilih takarir.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
 
 ### Terjemahkan ke Bahasa Lain
 

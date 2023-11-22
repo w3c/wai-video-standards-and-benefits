@@ -3,7 +3,7 @@
 title: "Video Introduction to Web Accessibility and W3C Standards"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video Introduction" # A short title that is used in the navigation
 lang: en   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-05-01   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-04   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 # translators: 
 # - name: "@@"   # Replace @@ with name, add separate - name lines for every translator
 # contributors:
@@ -22,9 +22,10 @@ github:
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Date:</strong> Updated 1 May 2021 (added video subtitle files). First published 4 December 2017. CHANGELOG.</p>
+   <p><strong>Date:</strong> Updated 4 May 2021. First published 4 December 2017. CHANGELOG.</p>
    <p>Project lead: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Contributors: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videographer and video editor: Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
-# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
+
+# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
 
 {% include video-player.html 

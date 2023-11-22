@@ -4,7 +4,7 @@ title: "مقدمة فيديو إلى ولوجية الويب ومعايير W3C"
 title_html: "مقدمة فيديو إلى ولوجية الويب ومعايير W3C"
 nav_title: "مقدمة فيديو" # A short title that is used in the navigation
 lang: ar   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-03-24   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-05-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "نجيب التونسي"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ar   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
@@ -21,16 +21,17 @@ github:
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-  <p><strong>االتاريخ:</strong> تم التحديث في 21 فبراير 2019. تم النشر لأول مرة في 4 ديسمبر 2017. CHANGELOG.</p>
-  <p>قيادة المشروع: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. المساهمة: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. مصور وناشر فيديو: Ulrich Grimm, av-design GmbH.</p>
-# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
+  <p><strong>االتاريخ:</strong>  تم التحديث في 4 مايو 2021. تم النشر لأول مرة في 4 ديسمبر 2017. CHANGELOG.</p>
+  <p>قيادة المشروع: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. المساهمة: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. مصور وناشر فيديو: Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
+
+# Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
 
 {% include video-player.html
           yt-id="20SHvU2PKsM"
           path="/content-images/wai-video-standards-and-benefits/"
-          captions="W3C_INTRO_SFHI.vtt|en|default"
-          subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru"
+          captions="W3C_INTRO_SFHI.vtt|en"
+          subtitles="W3C_INTRO_SFHI.ar.vtt|ar|default,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
           %}
 
 معلومات الفيديو هذه متاحة:
