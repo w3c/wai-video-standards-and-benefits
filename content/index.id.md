@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
-title: "Video Pengantar Aksesibilitas Web dan Standar W3C"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "Video Pengantar" # A short title that is used in the navigation
+title: "Video Pengenalan ke Aksesibilitas Web dan Standar W3C"   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "Video Pengenalan" # A short title that is used in the navigation
 lang: id   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2023-11-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
@@ -49,7 +49,7 @@ Informasi video tersedia:
 
 Untuk Informasi Lebih Lanjut, lihat:
 
-* [[**Pengantar Aksesibilitas Web**]](/fundamentals/accessibility-intro/)
+* [[**Pengenalan ke Aksesibilitas Web**]](/fundamentals/accessibility-intro/)
 * [[**Video Perspektif Aksesibilitas**: Jelajahi Dampak dan Manfaatnya bagi Semua Orang]](/perspective-videos/) — video dan informasi mengenai topik aksesibilitas spesifik.
 * [**Situs WAI**](https://www.w3.org/WAI/) — untuk menemukan beragam sumber informasi mengenai berbagai aspek dari [standar](/standards-guidelines/), [pendidikan](/teach-advocate/), [pengujian/evaluasi](/test-evaluate/), [manajemen dan kebjakan proyek](/planning/) aksesibilitas web.
 
