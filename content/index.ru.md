@@ -26,12 +26,10 @@ footer: >
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
 
-{% include video-player.html
-           yt-id="20SHvU2PKsM"
-           path="/content-images/wai-video-standards-and-benefits/"
-           captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru|default,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
-       	   %}
+{% include video-player-data.html
+    video-id="video-introduction"
+    yt-id="20SHvU2PKsM"
+%}
 
 Эта видеоинформация доступна:
 
@@ -215,4 +213,4 @@ w3.org/WAI</td>
 
 ### Перевести на другие языки
 
-Мы приветствуем дополнительные переводы. Если вы переводите [файл VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }}), отправьте его по адресу <public-wai-translations@w3.org>. Если вы хотите перевести всю эту веб-страницу или другие, см. [Перевод ресурсов WAI](/about/translating/).
+Мы приветствуем дополнительные переводы. Если вы переводите [файл VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }}), отправьте его по адресу <public-wai-translations@w3.org>. Если вы хотите перевести всю эту веб-страницу или другие, см. [Перевод ресурсов WAI](/about/translating/).

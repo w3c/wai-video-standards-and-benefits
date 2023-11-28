@@ -30,12 +30,10 @@ footer: >
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
 
-{% include video-player.html 
-           yt-id="20SHvU2PKsM" 
-           path="/content-images/wai-video-standards-and-benefits/"
-           captions="W3C_INTRO_SFHI.vtt|en"
-           subtitles="W3C_INTRO_SFHI.ar.vtt|ar,W3C_INTRO_SFHI.de.vtt|de,W3C_INTRO_SFHI.es.vtt|es,W3C_INTRO_SFHI.fr.vtt|fr,W3C_INTRO_SFHI.gu.vtt|gu,W3C_INTRO_SFHI.hi.vtt|hi,W3C_INTRO_SFHI.kok.vtt|kok,W3C_INTRO_SFHI.ko.vtt|ko|default,W3C_INTRO_SFHI.ml.vtt|ml,W3C_INTRO_SFHI.mr.vtt|mr,W3C_INTRO_SFHI.nl.vtt|nl,W3C_INTRO_SFHI.pt-BR.vtt|pt-BR,W3C_INTRO_SFHI.te.vtt|te,W3C_INTRO_SFHI.zh.vtt|zh,W3C_INTRO_SFHI.ja.vtt|ja,W3C_INTRO_SFHI.it.vtt|it,W3C_INTRO_SFHI.hu.vtt|hu,W3C_INTRO_SFHI.el.vtt|el,W3C_INTRO_SFHI.ru.vtt|ru,W3C_INTRO_SFHI.cs.vtt|cs,W3C_INTRO_SFHI.id.vtt|id,W3C_INTRO_SFHI.fa.vtt|fa"
-           %}
+{% include video-player-data.html
+    video-id="video-introduction"
+    yt-id="20SHvU2PKsM"
+%}
 
 해당 영상의 정보는 다음을 참고하세요 :
 * **다른 언어** — [자막과 대본 보는 방법](#translations)은 아래에 있습니다. 
@@ -223,4 +221,4 @@ footer: >
 
 ### 다른 언어로 번역하기
 
-여러분의 번역 참여를 환영합니다. [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt" | relative_url }})을 번역했다면, <public-wai-translations@w3.org>로 보내주세요. 현재 웹 페이지나 다른 페이지를 번역하고 싶으시다면, [[WAI 자료 번역하기]](/about/translating/)를 확인해주세요.
+여러분의 번역 참여를 환영합니다. [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }})을 번역했다면, <public-wai-translations@w3.org>로 보내주세요. 현재 웹 페이지나 다른 페이지를 번역하고 싶으시다면, [[WAI 자료 번역하기]](/about/translating/)를 확인해주세요.
