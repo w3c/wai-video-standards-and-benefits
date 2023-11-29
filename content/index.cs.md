@@ -215,15 +215,15 @@ https://github.com/w3c/wai-video-standards-and-benefits/blob/master/README.md
 
 Pro otevření překladů v prostoru pro titulky na spodní straně videa:
 
-1. Vyberte <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Captions".
+1. Vyberte <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "Titulky".
 
 2. Vyberte jazyk.
 
 Pro otevření překladů ve zvláštním prostoru pro přepis:
 
-1. Vyberte "Show transcript".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+1. Vyberte "Skrýt přepis".<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
 
-2. Použijte rozbalovací nabídku "Language" a vyberte titulky.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.png" | relative_url }}' alt="">
+2. Použijte rozbalovací nabídku "Jazyk" a vyberte titulky.<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.cs.png" | relative_url }}' alt="">
  
 ### Překlad do dalších jazyků
  
