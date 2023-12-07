@@ -208,4 +208,4 @@ w3.org/WAI</td>
 
 ### 翻译成其他语言
 
-我们欢迎更多的翻译。如果你翻译 [VTT 文件]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }})，请发送至 public-wai-translations@w3.org。如果你想翻译整个网页或其他内容，请参见 [WAI的资源翻译](/about/translating/)。
+我们欢迎更多的翻译。如果你翻译 [VTT 文件](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt)，请发送至 public-wai-translations@w3.org。如果你想翻译整个网页或其他内容，请参见 [WAI的资源翻译](/about/translating/)。

@@ -219,4 +219,4 @@ Untuk mendapatkan terjemahan di bagian transkripsi terpisah:
 
 ### Terjemahkan ke Bahasa Lain
 
-Kami menyambut tambahan terjemahan. Jika kamu menerjemahkan [berkas VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }}), mohon kirimkan ke <public-wai-translations@w3.org>. Jika kamu ingin menerjemahkan seluruh halaman web ini atau halaman lainnya, mohon lihat [[Menerjemahkan Sumber Informasi WAI]](/about/translating/).
+Kami menyambut tambahan terjemahan. Jika kamu menerjemahkan [berkas VTT](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt), mohon kirimkan ke <public-wai-translations@w3.org>. Jika kamu ingin menerjemahkan seluruh halaman web ini atau halaman lainnya, mohon lihat [[Menerjemahkan Sumber Informasi WAI]](/about/translating/).

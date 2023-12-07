@@ -227,4 +227,4 @@ Pro otevření překladů ve zvláštním prostoru pro přepis:
  
 ### Překlad do dalších jazyků
  
-Vítáme další překlady. Pokud přeložíte [soubor VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }}), zašlete ho prosím na <public-wai-translations@w3.org>. Pokud byste chtěli přeložit celou tuto webovou stránku a další, navštivte prosím [[Překládaní WAI zdrojů]](/about/translating/).
+Vítáme další překlady. Pokud přeložíte [soubor VTT](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt), zašlete ho prosím na <public-wai-translations@w3.org>. Pokud byste chtěli přeložit celou tuto webovou stránku a další, navštivte prosím [[Překládaní WAI zdrojů]](/about/translating/).

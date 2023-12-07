@@ -212,7 +212,7 @@ w3.org/WAI</td>
 
 ### 多言語の翻訳
 
-W3Cは他言語の翻訳を歓迎します。[VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }})の翻訳物は <public-wai-translations@w3.org>までお送り下さい。本ウェブページ全体や他資料を翻訳ご希望の方は[[Translating WAI Resources](https://www.w3.org/WAI/about/translating/)をご覧ください。
+W3Cは他言語の翻訳を歓迎します。[VTT file](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt)の翻訳物は <public-wai-translations@w3.org>までお送り下さい。本ウェブページ全体や他資料を翻訳ご希望の方は[[Translating WAI Resources](https://www.w3.org/WAI/about/translating/)をご覧ください。
 
 
 
