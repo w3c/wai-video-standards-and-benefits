@@ -205,4 +205,4 @@ Es sind verschiedene Übersetzungen dieser gesamten Seite verfügbar. Diese sind
 
 ### Übersetzungen in andere Sprachen
 
-Wir freuen uns über weitere Übersetzungen. Wenn Sie die [VTT-Datei](/wai-video-standards-and-benefits/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt) übersetzen, senden Sie sie bitte an <public-wai-translations@w3.org>. Falls Sie diese gesamte Seite oder andere übersetzen möchten, lesen Sie bitte [[WAI-Ressourcen übersetzen]](/about/translating/).
+Wir freuen uns über weitere Übersetzungen. Wenn Sie die [VTT-Datei](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt) übersetzen, senden Sie sie bitte an <public-wai-translations@w3.org>. Falls Sie diese gesamte Seite oder andere übersetzen möchten, lesen Sie bitte [[WAI-Ressourcen übersetzen]](/about/translating/).
