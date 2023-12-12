@@ -208,4 +208,4 @@ footer: > # translate the words below; do NOT change the dates.
 
 ### Μετάφραση σε άλλες γλώσσες
 
-Χαιρετίζουμε επιπλέον μεταφράσεις. Εάν μεταφράσετε το [VTT αρχείο]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }}), παρακαλούμε, στείλτε το στο <public-wai-translations@w3.org>. Αν θέλετε να μεταφράσετε ολόκληρη την ιστοσελίδα ή άλλες, παρακαλούμε, δείτε τις [[Οδηγίες Μετάφρασης του <span lang='en'>WAI</span>]](/about/translating/).
+Χαιρετίζουμε επιπλέον μεταφράσεις. Εάν μεταφράσετε το [VTT αρχείο](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt), παρακαλούμε, στείλτε το στο <public-wai-translations@w3.org>. Αν θέλετε να μεταφράσετε ολόκληρη την ιστοσελίδα ή άλλες, παρακαλούμε, δείτε τις [[Οδηγίες Μετάφρασης του <span lang='en'>WAI</span>]](/about/translating/).

@@ -216,4 +216,4 @@ Para habilitar traduções em uma área de transcrição separada:
 
 ### Traduzir para outros idiomas
 
-Agradecemos as traduções adicionais. Se você traduzir o [arquivo VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }}), por favor enviar para o email <public-wai-translations@w3.org>. Se você deseja traduzir essa página ou outras, por favor acesse [[Traduzindo recursos WAI]](/about/translating/).
+Agradecemos as traduções adicionais. Se você traduzir o [arquivo VTT](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt), por favor enviar para o email <public-wai-translations@w3.org>. Se você deseja traduzir essa página ou outras, por favor acesse [[Traduzindo recursos WAI]](/about/translating/).
