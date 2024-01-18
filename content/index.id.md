@@ -135,7 +135,7 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
       <td>Dua orang tersenyum bahagia pada situs yang didesain dengan baik</td>
     </tr>
     <tr>
-      <td>Banyak unsur aksesibilitas yang dapat dibangun pada kode dasar situs dan aplikasi.</td>
+      <td>Banyak unsur aksesibilitas yang bisa dibangun pada kode dasar situs dan aplikasi.</td>
       <td>[Shadi berbicara]</td>
     </tr>
     <tr>
@@ -167,15 +167,15 @@ Jika Anda ingin contoh video dengan deskripsi audio, lihat [Perspektif Aksesibil
       <td>Pedoman Aksesibilitas Konten Web - WCAG; ISO 40500; EN 301 549</td>
     </tr>
     <tr>
-      <td>Pertama, dapat diterima indra - sebagai contoh, seseorang bisa melihat sebuah konten, atau mendegarnya.</td>
+      <td>Pertama, bisa ditangkap - sebagai contoh, seseorang bisa melihat sebuah konten, atau mendegarnya.</td>
       <td>Seseorang mengetik dari komputer tablet dan mendengarkannya melalui headphone</td>
     </tr>
     <tr>
-      <td>Dapat Dioperasikan - sebagai contoh, seseorang bisa menggunakan komputer dengan mengetik, atau melalui suara.</td>
+      <td>Bisa Dioperasikan - sebagai contoh, seseorang bisa menggunakan komputer dengan mengetik, atau melalui suara.</td>
       <td>Seseorang berbicara ke komputernya</td>
     </tr>
     <tr>
-      <td>Dapat Dimengerti - sebagai contoh, seseorang menerima dengan bahasa yang jelas dan sederhana.</td>
+      <td>Bisa Dimengerti - sebagai contoh, seseorang menerima dengan bahasa yang jelas dan sederhana.</td>
       <td>Dua orang terlihat bingung melihat layar komputer dengan situs yang padat</td>
     </tr>
     <tr>
