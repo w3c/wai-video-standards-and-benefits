@@ -1,7 +1,7 @@
 ---
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
-title: "W3Cのアクセシビリティと標準技術"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: "紹介" # A short title that is used in the navigation
+title: "W3Cのアクセシビリティと標準技術の紹介動画"   # Do not translate "title:". Do translate the text after "title:".
+nav_title: "紹介動画" # A short title that is used in the navigation
 lang: ja   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2024-03-03   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
@@ -22,7 +22,7 @@ github:
 # Do not change the dates in the footer below.   
 footer: >
    <p><strong>更新日:</strong> 2021年5月4日初版2017年12月4日. CHANGELOG.</p>
-   <p>プロジェクトリーダー：<a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.寄稿者：<a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>.撮影・編集者：Ulrich Grimm, av-design GmbH. <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>の支援を受けて開発されたビデオクリップは欧州委員会の共同資金援助を受けています。各翻訳は、フォード財団が資金提供する<a href="https://www.w3.org/WAI/expand-access/">WAIアクセス拡大プロジェクト</a>の支援を受けて管理されています。</p>
+   <p>プロジェクトリーダー：<a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>。寄稿者：<a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>、<a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>、<a href="https://www.w3.org/People/yatil/">Eric Eggert</a>。撮影・編集者：Ulrich Grimm、av-design GmbH。<a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>の支援を受けて開発されたビデオクリップは欧州委員会の共同資金援助を受けています。各翻訳は、フォード財団が資金提供する<a href="https://www.w3.org/WAI/expand-access/">WAIアクセス拡大プロジェクト</a>の支援を受けて管理されています。</p>
 
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
@@ -33,183 +33,181 @@ footer: >
 %}
 
 本動画は下記でご覧いただけます：
-* **言語** — [字幕の使用説明書](#translations)は下記の通りです
-* **[画像の説明文](#transcript)**は下記の通りです
-* [YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* W3Cのサーバで — [動画（ファイル形式：MP4、ファイルサイズ：28MB）](http://media.w3.org/wai/accessibility-intro/intro.mp4), [日本語字幕ファイル（VTT）](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt), [その他の言語ファイルのリスト](http://media.w3.org/wai/accessibility-intro/)
+* **さまざまな言語で** — [字幕やトランスクリプトを見る手順](#translations)は下記の通りです
+* **[ビジュアルの説明を含む文字起こし](#transcript)**は下記の通りです
+* [YouTubeで見る](https://www.youtube.com/watch?v=20SHvU2PKsM)
+* W3Cのサーバで見る — [動画（ファイル形式：MP4、ファイルサイズ：28MB）](http://media.w3.org/wai/accessibility-intro/intro.mp4), [日本語字幕ファイル（VTT）](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt), [その他の言語ファイルのリスト](http://media.w3.org/wai/accessibility-intro/)
 {% comment %}# For translations, replace:
 "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
 "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
 {% endcomment %}
 
-## その他 {#moreinfo}
+## もっと詳しく知る {#moreinfo}
 
-その他詳細：
+詳細については以下を参照：
 
 -   [**ウェブアクセシビリティの紹介**](/fundamentals/accessibility-intro/)
--   [**ウェブアクセシビリティとは**：すべての人に対する影響とその価値](/perspective-videos/) ー本動画と情報は特定のアクセシビリティ要件に特化しています
--   [**WAIウェブサイト**](https://www.w3.org/WAI/)ーウェブアクセシビリティの異なる様々な状況を幅広くサポートするために [標準](/standards-guidelines/), [教育](/teach-advocate/), [テスト／評価](/test-evaluate/), [プロジェクト管理と指針](/planning/).
+-   [**ウェブアクセシビリティの観点からの動画**：すべての人に対する影響とその価値](/perspective-videos/) - 特定のアクセシビリティトピックに関するに情報を動画で紹介します
+-   [**WAIのWebサイト**](https://www.w3.org/WAI/) - Webアクセシビリティのさまざまな側面を幅広くサポートする [標準ガイドライン](/standards-guidelines/)、[教育](/teach-advocate/)、[テスト／評価](/test-evaluate/)、[プロジェクト管理と指針](/planning/)が見つかります。
 
-## 本動画使用許可 {#permission}
+## 本動画の使用許可 {#permission}
 
-本動画を使用したい場合は下記のリンクを添付して下さい。詳細: [WAI資料使用方法：属性使用の許可](/about/using-wai-material/).
+このビデオを使用する場合は、このページへのリンクを含めてください。詳細については [WAI資料の使用：帰属と共に使用する許可](/about/using-wai-material/)を参照してください。
 
-## 音声 {#audio-description}
+## 音声解説 {#audio-description}
 
-本動画は動画のみをサポートし音声描写を含んでいないため、視覚に難しさを持つ人や多くの人にとって物足りない音声情報である可能性がありますが、シナリオが視覚をサポートします。
+視覚的な情報は音声を補完するだけであり追加情報を提供していないため、このビデオには音声解説が含まれていません。このようなケースでの音声解説は、視覚的な情報が理解できない人を含むほとんどの人にとって、役立つというよりも気を散らすものになるでしょう。下記の説明付きトランスクリプトには、サポートするビジュアルの説明が含まれています。
 
-音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から - 音声解説（YouTubeプレイリスト）](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)を参照してください。また、[ウェブアクセシビリティの観点からの動画](/perspective-videos/)の中から動画を1つ選び、「オーディオ解説を有効にする（Enable Audio Description）」を選択することもできます。
+音声描写の一例を希望する際は、[Web Accessibility Perspectives - Audio Described Versions（YouTube再生リスト）](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)を参照してください。また、[ウェブアクセシビリティの観点からの動画](/perspective-videos/)の中から動画を1つ選び、「オーディオ解説を有効にする（Enable Audio Description）」を選択することもできます。
 
-## 視覚に対する説明文 {#transcript}
+## ビジュアルの説明を含む文字起こし {#transcript}
 
 <table>
   <thead>
     <tr>
       <th width="65%">音声</th>
-      <th>画像</th>
+      <th>映像</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>こんにちは。シャディ・アブーザラです。W3Cのアクセシビリティ戦略と技術のスペシャリストです。本日はウェブアクセシビリティについてお話しします。</td>
+      <td>こんにちは！私の名前はシャディ・アブザーラです。私はW3C（World Wide Web Consortium）のアクセシビリティ戦略と技術のスペシャリストであり、本日はウェブアクセシビリティについてお話ししたいと思います。</td>
       <td>ウェブアクセシビリティ<br>
         [シャディが話している]</td>
     </tr>
     <tr>
       <td>ウェブは多くの人々の日常に欠かせないものとなっています。</td>
-      <td>インターネットカフェにいる人たち</td>
+      <td>インターネットカフェにいる人々</td>
     </tr>
     <tr>
-      <td>仕事場</td>
+      <td>仕事中</td>
       <td>オフィスでコンピュータを使用している人々</td>
     </tr>
     <tr>
       <td>自宅で</td>
-      <td>ソファに座ってラップトップコンピュータを使っている人々</td>
+      <td>ソファに座ってラップトップを使用する人</td>
     </tr>
     <tr>
-      <td>路上でも</td>
+      <td>そして、外出先でも</td>
       <td>歩きながら携帯電話を使っている人々</td>
     </tr>
     <tr>
-      <td>ウェブアクセシビリティとは、障害を持つ人々にもウェブを平等に使うということを意味します。</td>
+      <td>ウェブアクセシビリティとは、障害を持つ人々がウェブを平等に利用できることを意味します。</td>
       <td>[シャディが話している]</td>
     </tr>
     <tr>
-      <td>例えば、手が使えない人はマウススティックを使ってタイプします。</td>
-      <td>マウススティックを使ってタイプしている人</td>
+      <td>たとえば、腕が使えない人はマウススティックを使ってタイピングします。</td>
+      <td>マウススティックを使ってタイミングをしている人</td>
     </tr>
     <tr>
-      <td>また聴覚に障害のある人は、キャプションを通して動画を見ます。</td>
+      <td>また、聞こえがよくない人はキャプションを通して動画を見ます。</td>
       <td>補聴器を使用している人</td>
     </tr>
     <tr>
-      <td>視覚に障害のある人は、スクリーン上の内容を大きな音で読み上げるスクリーンリーダーを使用します。</td>
-      <td>スクリーンリーダーを使用する人</td>
+      <td>さらに、視力が弱い人は、画面に表示されている内容を音声で読み上げるスクリーンリーダーを使用します。</td>
+      <td>スクリーンリーダーを使用している人</td>
     </tr>
     <tr>
-      <td>ウェブアクセシビリティは多くの利点があります。</td>
+      <td>アクセシビリティには多くの利点があります。</td>
       <td>[シャディが話している]</td>
     </tr>
     <tr>
-      <td>例えばキャプションは、騒々しかったり静かすぎる環境で、誰もがその利便性を享受できます。</td>
-      <td>オフィスでキャプションとともに動画を見ている人</td>
+      <td>たとえばキャプションは、うるさい環境でも静かな環境でも、誰もがその利便性を享受できます。</td>
+      <td>オフィスでキャプション付きの動画を見ている人</td>
     </tr>
     <tr>
-      <td>まぶしすぎる光には色のコントラストがサポートします。</td>
+      <td>あるいは、まぶしすぎる光には色のコントラストがサポートします。</td>
       <td>携帯電話の眩しいスクリーンを見ている人</td>
     </tr>
     <tr>
-      <td>また、年齢により発生する障害なども軽減します。</td>
-      <td>唇の震えにより不自由を感じている人</td>
+      <td>また、手先の器用さの低下など、加齢に伴う障害のある人にも効果があります。</td>
+      <td>震えがあり、マウスの操作が難しい人</td>
     </tr>
     <tr>
-      <td>すでに多くの人は改良されたレイアウトとデザインを通して、より良いユーザエクスペリエンスを経験しています。</td>
-      <td>アクセシブルに設計されたウェブサイトを見て微笑んでいる2人</td>
+      <td>事実、レイアウトとデザインが改善されると、誰もがより良いユーザー エクスペリエンスを得ることができます。</td>
+      <td>うまくデザインされたウェブサイトを見て幸せそうに微笑んでいる2人</td>
     </tr>
     <tr>
-      <td>ウェブサイトやアプリケーションのコードには、数多くのアクセシビリティ要件が実装できます。</td>
+      <td>多くのアクセシビリティは、ウェブサイトやアプリケーションの基礎となるコードに組み込むことができます。</td>
       <td>[シャディが話している]</td>
     </tr>
     <tr>
-      <td>W3Cのウェブ技術はHTMLをはじめ、多くのアクセシビリティの機能をサポートしています。</td>
+      <td>HTMLなどのW3CのWeb技術は、多くのアクセシビリティ機能を提供しています。</td>
       <td>ウェブページのHTMLコード</td>
     </tr>
     <tr>
-      <td>画像を言葉に置き換える機能はスクリーンリーダーが明確に読み上げますし、検索エンジンも使用できます。</td>
+      <td>たとえば、画像に対してテキストの説明を提供します。これはスクリーンリーダーによって音読され、検索エンジンにも使用されます。</td>
       <td>コードの一例</td>
     </tr>
     <tr>
-      <td>見出しやラベル、その他コードもアクセシビリティをサポートしており、全体を通して品質を担保しています。</td>
+      <td>また、見出し、ラベル、その他のコードもアクセシビリティをサポートしており、全体的な品質を向上させます。</td>
       <td>コードの一例</td>
     </tr>
     <tr>
-      <td>Wikiのような優れたオーサリングツールでは、コンテンツマネージメントシステムやコードエディターが自動的に必要なアクセシブル案件を実装したり、ウェブページ製作者がアクセシブルなコードを組込むことができます。</td>
-      <td>自動的にウェブコンテンツを生成する一例</td>
+      <td>Wikiやコンテンツマネジメントシステム、コードエディタなどの優れた制作ツールは、自動的に、または作成者からの入力によってアクセシブルなコードを作成するのに役立ちます。</td>
+      <td>ウェブコンテンツの作成に使用されるオーサリングツールの例</td>
     </tr>
     <tr>
-      <td>ウェブブラウザやメディアプレイヤー、アプリケーションは、アクセシビリティの機能をサポートする必要があります。</td>
-      <td>ウェブブラウザがウェブコンテンツを表示している</td>
+      <td>さらに、ウェブブラウザ、メディアプレーヤー、アプリもアクセシビリティ機能をサポートする必要があります。</td>
+      <td>ウェブコンテンツを表示するウェブブラウザの例</td>
     </tr>
     <tr>
-      <td>W3Cはウェブをアクセシブルにする標準を提供しています。これは国際的に政府や産業界で認識されているものです。</td>
+      <td>W3Cは、ウェブをアクセシブルにするための標準仕様を提供しており、これらは国際的に政府や企業によって認められているものです。</td>
       <td>[シャディが話している]</td>
     </tr>
     <tr>
-      <td>最も広く認知されている標準技術は、Web Content Accessibility Guidelineです。WCAGはISO40500にも準拠しており、ヨーロッパ標準でもあるEN301-549の要求案件も満たしています。これらは4つの原理から成り立っています。</td>
-      <td>Web Content Accessibility Guidelines - WCAG; ISO 40500; EN 301 549</td>
+      <td>最もよく知られているのは、Web Content Accessibility Guidelines（WCAG）です。WCAGはISO 40500でもあり、EN 301 549という欧州標準でも採用されています。これは、次の4つの基本原則を中心に構築されています。</td>
+      <td>Web Content Accessibility Guidelines（WCAG）、ISO 40500、EN 301 549</td>
     </tr>
     <tr>
-      <td>１つ目は知覚です。これでコンテンツを見たり聞いたりすることができます。</td>
-      <td>ヘッドフォンをしてタブレットをタイプしたり聞いたりしている人</td>
+      <td>1つ目は、知覚可能です。たとえば、人々がコンテンツを見たり、聞いたりできるようにします。</td>
+      <td>タブレットコンピュータで入力して聞いている人</td>
     </tr>
     <tr>
-      <td>2つ目は操作性です。タイピングや音声でコンピュータを使用します。</td>
+      <td>操作可能。たとえば、人々がタイピングや音声でコンピュータを使用できるようにします。</td>
       <td>コンピュータに向かって話しかけている人</td>
     </tr>
     <tr>
-      <td>3つ目は容易性です。明快でシンプルな言語を使用します。</td>
-      <td>難解なウェブサイトを見つめて困惑する2人</td>
+      <td>理解可能。たとえば、人々が明確でシンプルな言語を理解できるようにします。</td>
+      <td>要素が多く難解なウェブサイトを見つめて困惑する2人</td>
     </tr>
     <tr>
-      <td>4つ目は堅牢性です。これにより、異なる支援技術を利用できます。</td>
-      <td>大きなコンピュータスクリーンを拡大鏡で見る人</td>
+      <td>そして、堅牢。人々がさまざまな支援技術を使用できるようにします。</td>
+      <td>大きなPC画面で拡大鏡を使用している人</td>
     </tr>
     <tr>
-      <td>加えてWCAGでは、Authoring Tool Accessibility Guideline (ATAG)も兼ね備えています。これはコードマネージメントシステムやコードエディター、他ソフトウェアの要求項目を定義しています。</td>
-      <td>Authoring Tool Accessibility Guidelines - ATAG</td>
+      <td>WCAGのほかにも、W3Cはコード管理システム、コードエディタ、およびその他のソフトウェアに対する要件を定義するAuthoring Tool Accessibility Guidelines（ATAG）も提供しています。</td>
+      <td>Authoring Tool Accessibility Guidelines（ATAG）</td>
     </tr>
     <tr>
-      <td>またW3Cは、User Agent Accessibility Guidelines - UAAGも標準化しています。これはウェブブラウザとメディアプレイヤーの要求項目を定義しています。</td>
-      <td>User Agent Accessibility Guidelines - UAAG</td>
+      <td>さらにUser Agent Accessibility Guidelines（UAAG）では、ウェブブラウザやメディアプレーヤーに対する要件を定義しています。</td>
+      <td>User Agent Accessibility Guidelines（UAAG）</td>
     </tr>
     <tr>
-      <td>世界には10億人、言い換えると、人口の15から20％の割合で障害を持つ人がいます。国連は障害者の権利条約を定めており、人権としてウェブを含んだ情報へのアクセスはほとんどの国で国連条約として批准されています。また数カ国では政策として義務付けられています。法律や規制にも関わらずアクセシビリティ標準を実行するのは、障害を持つ人たちにも、全ての人達にも不可欠なことです。</td>
+      <td>世界には約10億人の障害を持つ人々がおり、人口の15〜20％を占めています。国連の障害者権利条約は、ウェブを含む情報へのアクセスを人権と定義しています。世界中のほとんどの国がこの国連条約を批准しており、拘束力のある政策を採用している国もいくつかあります。しかし、法律や規制に関わらず、アクセシビリティ基準の実装は障害のある人々にとって不可欠であり、すべての人にとって有益です。</td>
       <td>[シャディが話している]</td>
     </tr>
     <tr>
-      <td>ウェブアクセシビリティの詳細はw3.org/WAIをご覧ください。</td>
-      <td>W3C Web Accessibility Initiative<br>
-w3.org/WAI</td>
+      <td>ウェブアクセシビリティに関する詳細は、w3.org/WAIをご覧ください。</td>
+      <td>W3C Web Accessibility Initiative<br>w3.org/WAI</td>
     </tr>
   </tbody>
 </table>
 
 ## 翻訳 {#translations}
 
-本ウェブページは翻訳を備えています。そのリンクは本ページ冒頭にあります。<br>**動画の翻訳**には、字幕とシナリオがあります。
+このウェブページ全体の翻訳もいくつかあります。それらはこのページの上部からリンクされています。
+また、**動画だけの翻訳**もさらにいくつかあります。それらは字幕やテキストとして利用できます。
 
-キャプション翻訳の入手は本動画末尾をご覧ください：
+動画下部のキャプションエリアで翻訳を表示する方法：
 
-1. 選択 <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt=""> "キャプション".
+1. 「キャプション（Captions）」ボタンを押下 <img src='{{ "/content-images/wai-video-standards-and-benefits/show-cc.png" | relative_url }}' style="vertical-align: bottom;" alt="">
+2. 言語を選択
 
-2. 言語選択
+文字起こし翻訳を表示する方法：
 
-翻訳されたシナリオ：
-
-1. "字幕を見る"を選択<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
-
-2. ドロップダウンで選択した字幕の言語を使用<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.ja.png" | relative_url }}' alt="">
+1. 「文字起こしを見る（Show transcript）」を選択<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-transcript.png" | relative_url }}' alt="">
+2. ドロップダウンを使用し、文字起こしの言語を選択<br><img src='{{ "/content-images/wai-video-standards-and-benefits/show-language.ja.png" | relative_url }}' alt="">
 
 ### 多言語の翻訳
 
