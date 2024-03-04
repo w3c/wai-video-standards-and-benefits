@@ -1,11 +1,12 @@
 ---
 # Translation instructions are after the "#" character in this first section. (They are comments that do not show up in the web page.)
 title: "W3Cのアクセシビリティと標準技術"   # Do not translate "title:". Do translate the text after "title:".
-nav_title: “紹介" # A short title that is used in the navigation
+nav_title: "紹介" # A short title that is used in the navigation
 lang: ja   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-05-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-03-03   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Naomi Yoshizawa"   # Replace @@ with name or names separated with a comma
+- name: "Hiroya UGA"   # Replace @@ with name or names separated with a comma
 permalink: /videos/standards-and-benefits/ja   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
@@ -21,7 +22,7 @@ github:
 # Do not change the dates in the footer below.   
 footer: >
    <p><strong>更新日:</strong> 2021年5月4日初版2017年12月4日. CHANGELOG.</p>
-   <p>プロジェクトリーダー：<a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.寄稿者：<a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>.撮影・編集者：Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
+   <p>プロジェクトリーダー：<a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>.寄稿者：<a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>.撮影・編集者：Ulrich Grimm, av-design GmbH. <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>の支援を受けて開発されたビデオクリップは欧州委員会の共同資金援助を受けています。各翻訳は、フォード財団が資金提供する<a href="https://www.w3.org/WAI/expand-access/">WAIアクセス拡大プロジェクト</a>の支援を受けて管理されています。</p>
 
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
@@ -35,7 +36,7 @@ footer: >
 * **言語** — [字幕の使用説明書](#translations)は下記の通りです
 * **[画像の説明文](#transcript)**は下記の通りです
 * [YouTube](https://www.youtube.com/watch?v=20SHvU2PKsM)
-* W3C — [MP4、28MB](http://media.w3.org/wai/accessibility-intro/intro.mp4), [日本語字幕 (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt), [他言語翻訳](http://media.w3.org/wai/accessibility-intro/)
+* W3Cのサーバで — [動画（ファイル形式：MP4、ファイルサイズ：28MB）](http://media.w3.org/wai/accessibility-intro/intro.mp4), [日本語字幕ファイル（VTT）](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.ja.vtt), [その他の言語ファイルのリスト](http://media.w3.org/wai/accessibility-intro/)
 {% comment %}# For translations, replace:
 "[English captions file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.en.vtt)", with translation of:
 "[[your language] subtitle file (VTT)](http://media.w3.org/wai/accessibility-intro/W3C_INTRO_SFHI.[lang code].vtt)".
@@ -57,7 +58,7 @@ footer: >
 
 本動画は動画のみをサポートし音声描写を含んでいないため、視覚に難しさを持つ人や多くの人にとって物足りない音声情報である可能性がありますが、シナリオが視覚をサポートします。
 
-音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から ー 音声 (YouTubeプレイリスト)](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)、[ウェブアクセシビリティの観点から](/perspective-videos/)、”音声描写を有効化するために”を参照下さい。
+音声描写の一例を希望する際は、[ウェブアクセシビリティの観点から - 音声解説版（YouTube再生リスト）](https://www.youtube.com/watch?v=21yWr7evHTs&list=PLhDEeYUfW02Qo4r2KlzagxZxhYcZADee-)を参照してください。また、[ウェブアクセシビリティの観点からのページ](/perspective-videos/)の中から動画を1つ選び、「音声解説を有効にする（Enable Audio Description）」を選択することもできます。
 
 ## 視覚に対する説明文 {#transcript}
 
@@ -212,7 +213,4 @@ w3.org/WAI</td>
 
 ### 多言語の翻訳
 
-W3Cは他言語の翻訳を歓迎します。[VTT file](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt)の翻訳物は <public-wai-translations@w3.org>までお送り下さい。本ウェブページ全体や他資料を翻訳ご希望の方は[[Translating WAI Resources](https://www.w3.org/WAI/about/translating/)をご覧ください。
-
-
-
+W3Cは他言語の翻訳を歓迎します。[VTTファイル](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt)を翻訳する場合は、 <public-wai-translations@w3.org>までお送りください。本ウェブページ全体や他資料を翻訳ご希望の方は[[WAI資料の翻訳]](https://www.w3.org/WAI/about/translating/)をご覧ください。
