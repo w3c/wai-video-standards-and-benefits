@@ -2,7 +2,7 @@
 # translation notes are after the "#" character in this first section
 title: "Εισαγωγικό Βίντεο για την Προσβασιμότητα στον Παγκόσμιο Ιστό (Web Accessibility) και τα Πρότυπα του W3C" # translate this
 nav_title: "Εισαγωγή Βίντεο" # A short title that is used in the navigation
-last_updated: 2021-05-13 # update date of this translation
+last_updated: 2024-03-12 # update date of this translation
 translators: 
 - name: "Πάνος Κουτσοδημητρόπουλος" # replace @@ with name or names separated with a comma
   link: "https://gr.linkedin.com/in/panoskoutsodimitropoulos"
@@ -43,7 +43,7 @@ footer: > # translate the words below; do NOT change the dates.
 
 ## Δικαίωμα Χρήσης Βίντεο {#permission}
 
-Μπορείτε να χρησιμοποιήσετε αυτό το βίντεο εάν συμπεριλάβετε έναν σύνδεσμο προς αυτήν τη σελίδα. Περισσότερες πληροφορίες διατίθενται στο [[Χρησιμοποιώντας Υλικά του <span lang='en'>WAI</span>: Άδεια Χρήσης με Απόδοση (<span lang='en'>Attribution</span>)]](/about/using-wai-material/).
+Μπορείτε να χρησιμοποιήσετε αυτό το βίντεο εάν συμπεριλάβετε έναν σύνδεσμο προς αυτήν τη σελίδα. Περισσότερες πληροφορίες διατίθενται στο <a href="/WAI/about/using-wai-material/" hreflang="en">Χρησιμοποιώντας Υλικά του <span lang='en'>WAI</span>: Άδεια Χρήσης με Απόδοση (<span lang='en'>Attribution</span>)</a>.
 
 ## Περιγραφή Ήχου {#audio-description}
 
