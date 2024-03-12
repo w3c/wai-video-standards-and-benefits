@@ -2,7 +2,7 @@
 # translation notes are after the "#" character in this first section
 title: "Εισαγωγικό Βίντεο για την Προσβασιμότητα στον Παγκόσμιο Ιστό (Web Accessibility) και τα Πρότυπα του W3C" # translate this
 nav_title: "Εισαγωγή Βίντεο" # A short title that is used in the navigation
-last_updated: 2021-05-13 # update date of this translation
+last_updated: 2024-03-12 # update date of this translation
 translators: 
 - name: "Πάνος Κουτσοδημητρόπουλος" # replace @@ with name or names separated with a comma
   link: "https://gr.linkedin.com/in/panoskoutsodimitropoulos"
