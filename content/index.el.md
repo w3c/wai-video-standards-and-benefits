@@ -43,7 +43,7 @@ footer: > # translate the words below; do NOT change the dates.
 
 ## Δικαίωμα Χρήσης Βίντεο {#permission}
 
-Μπορείτε να χρησιμοποιήσετε αυτό το βίντεο εάν συμπεριλάβετε έναν σύνδεσμο προς αυτήν τη σελίδα. Περισσότερες πληροφορίες διατίθενται στο [[Χρησιμοποιώντας Υλικά του <span lang='en'>WAI</span>: Άδεια Χρήσης με Απόδοση (<span lang='en'>Attribution</span>)]](/about/using-wai-material/).
+Μπορείτε να χρησιμοποιήσετε αυτό το βίντεο εάν συμπεριλάβετε έναν σύνδεσμο προς αυτήν τη σελίδα. Περισσότερες πληροφορίες διατίθενται στο <a href="/WAI/about/using-wai-material/" hreflang="en">Χρησιμοποιώντας Υλικά του <span lang='en'>WAI</span>: Άδεια Χρήσης με Απόδοση (<span lang='en'>Attribution</span>)</a>.
 
 ## Περιγραφή Ήχου {#audio-description}
 
