@@ -3,7 +3,7 @@
 title: "Film Wprowadzenie do dostępności internetowej i standardów W3C"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Film Wprowadzenie" # A short title that is used in the navigation
 lang: pl  
-https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+
 last_updated: 2024-03-14   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Stefan Wajda"
