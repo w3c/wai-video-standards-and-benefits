@@ -24,7 +24,7 @@ github:
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: >
-   <p><strong>Data:</strong> Atualizacja 4 maja 2021. Pierwsza publikacja 4 grudnia 2017. CHANGELOG.</p>
+   <p><strong>Data:</strong> Aktualizacja 4 maja 2021. Pierwsza publikacja 4 grudnia 2017. CHANGELOG.</p>
    <p>Lider projektu: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Współpracownicy: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Filmowiec i montażysta wideo: Ulrich Grimm, av-design GmbH. Klipy wideo opracowane przy wsparciu <a href="https://www.w3.org/WAI/DEV/">projektu WAI-DEV</a>, współfinansowanego przez Komisję Europejską. Translacje zrealizowane przy wsparciu projektu  <a href="https://www.w3.org/WAI/expand-access/"> projektu WAI Expanding Access</a>, finansowanego przez Fundację Forda.</p>
 
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
