@@ -220,4 +220,4 @@ Aby uzyskać tłumaczenia w oddzielnym obszarze transkrypcji:
 
 ### Przetłumacz na inny język
 
-Zapraszamy do dodatkowych tłumaczeń. Jeśli tłumaczysz [plik VTT](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt), wyślij go na adres <public-wai-translations@w3.org>. Jeśli chcesz przetłumaczyć całą tę stronę lub inne strony, zobacz[[Tłumaczenie materiałów WAI]](/about/translating/).
+Zapraszamy do dodatkowych tłumaczeń. Jeśli tłumaczysz [plik VTT](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt), wyślij go na adres <public-wai-translations@w3.org>. Jeśli chcesz przetłumaczyć całą tę stronę lub inne strony, zobacz [[Tłumaczenie materiałów WAI]](/about/translating/).
