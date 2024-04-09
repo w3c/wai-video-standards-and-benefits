@@ -3,7 +3,7 @@
 title: "Video Pengantar Aksesibilitas Web dan Standar W3C"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video Pengantar" # A short title that is used in the navigation
 lang: id   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2023-11-22   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-04-09   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
 - name: "Fri Rasyidi"   # Replace @@ with name, add separate - name lines for every translator
 # contributors:
