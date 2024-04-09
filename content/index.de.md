@@ -3,11 +3,13 @@
 title: "Video-Einführung in Web-Accessibility und W3C-Standards"   # Do not translate "title:". Do translate the text after "title:".
 nav_title: "Video-Einführung"
 lang: de   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-05-13   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-01-29   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:
-- name: "Sandra Kallmeyer"   # Replace @@ with name or names separated with a comma
+- name: "Sandra Kallmeyer"
 contributors:
-- name: "Stefanie Hegele"  # Replace @@ with name(s) or delete this line
+- name: "Stefanie Hegele"
+- name: "Alexej Rotar"
+- name: "Jens Oliver Meiert"
 permalink: /videos/standards-and-benefits/de   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
@@ -17,7 +19,7 @@ github:
 changelog: /videos/standards-and-benefits/changelog/
 footer: >   # Translate all the words below, including "Date:" and "Editor:". Do not change these dates.
    <p><strong>Datum:</strong> Aktualisiert am 4. Mai 2021. Erstmals veröffentlicht am 4. Dezember 2017. CHANGELOG.</p>
-   <p>Projektleiter: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Mitwirkende: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videofilmer und -editor: Ulrich Grimm, av-design GmbH. Video clips developed with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Translations managed with support from the <a href="https://www.w3.org/WAI/expand-access/">WAI Expanding Access project</a>, funded by the Ford Foundation.</p>
+   <p>Projektleiter: <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>. Mitwirkende: <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/Brewer/">Judy Brewer</a>, <a href="https://www.w3.org/People/yatil/">Eric Eggert</a>. Videofilmer und -editor: Ulrich Grimm, av-design GmbH. Videoclips entwickelt mit Unterstützung vom <a href="https://www.w3.org/WAI/DEV/">WAI-DEV-Projekt</a>, kofinanziert von der Europäischen Kommission. Übersetzungen verwaltet mit Unterstützung vom <a href="https://www.w3.org/WAI/expand-access/">WAI-Projekt zur Erweiterung des Zugriffs</a>, finanziert von der Ford-Stiftung.</p>
 
 # Read Translations Notes at https://github.com/w3c/wai-video-standards-and-benefits#readme
 ---
@@ -205,4 +207,4 @@ Es sind verschiedene Übersetzungen dieser gesamten Seite verfügbar. Diese sind
 
 ### Übersetzungen in andere Sprachen
 
-Wir freuen uns über weitere Übersetzungen. Wenn Sie die [VTT-Datei](/wai-video-standards-and-benefits/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.vtt) übersetzen, senden Sie sie bitte an <public-wai-translations@w3.org>. Falls Sie diese gesamte Seite oder andere übersetzen möchten, lesen Sie bitte [[WAI-Ressourcen übersetzen]](/about/translating/).
+Wir freuen uns über weitere Übersetzungen. Wenn Sie die [VTT-Datei](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt) übersetzen, senden Sie sie bitte an <public-wai-translations@w3.org>. Falls Sie diese gesamte Seite oder andere übersetzen möchten, lesen Sie bitte [[WAI-Ressourcen übersetzen]](/about/translating/).

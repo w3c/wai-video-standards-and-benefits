@@ -209,5 +209,5 @@ Om de vertalingen weer te geven in een apart veld voor transcripties:
 
 ### Vertalen in andere talen
 
-We verwelkomen nieuwe vertalingen. Als u het [VTT-bestand]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }}) vertaalt, zend het naar <public-wai-translations@w3.org>. Als u deze hele pagina of andere pagina's wilt vertalen, kijk dan op [[WAI-hulpbronnen vertalen]](/about/translating/).
+We verwelkomen nieuwe vertalingen. Als u het [VTT-bestand](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt) vertaalt, zend het naar <public-wai-translations@w3.org>. Als u deze hele pagina of andere pagina's wilt vertalen, kijk dan op [[WAI-hulpbronnen vertalen]](/about/translating/).
 

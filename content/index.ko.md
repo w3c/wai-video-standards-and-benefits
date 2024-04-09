@@ -221,4 +221,4 @@ footer: >
 
 ### 다른 언어로 번역하기
 
-여러분의 번역 참여를 환영합니다. [VTT file]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }})을 번역했다면, <public-wai-translations@w3.org>로 보내주세요. 현재 웹 페이지나 다른 페이지를 번역하고 싶으시다면, [[WAI 자료 번역하기]](/about/translating/)를 확인해주세요.
+여러분의 번역 참여를 환영합니다. [VTT file](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt)을 번역했다면, <public-wai-translations@w3.org>로 보내주세요. 현재 웹 페이지나 다른 페이지를 번역하고 싶으시다면, [[WAI 자료 번역하기]](/about/translating/)를 확인해주세요.

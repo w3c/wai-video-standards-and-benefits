@@ -244,4 +244,4 @@ footer: >
 
 ### ترجمة إلى لغات أخرى
 
-نرحب بترجمات إضافية، إذا قمت بترجمة [ملف VTT]({{ "/content-images/wai-video-standards-and-benefits/W3C_INTRO_SFHI.en.vtt" | relative_url }})، يرجى إرسالها إلى <public-wai-translations@w3.org>. إذا كنت ترغب في ترجمة صفحة الويب هذه أو غيرها ، فيرجى الرجوع إلى [[ترجمة موارد WAI]](/about/translating/).
+نرحب بترجمات إضافية، إذا قمت بترجمة [ملف VTT](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt)، يرجى إرسالها إلى <public-wai-translations@w3.org>. إذا كنت ترغب في ترجمة صفحة الويب هذه أو غيرها ، فيرجى الرجوع إلى [[ترجمة موارد WAI]](/about/translating/).
