@@ -119,7 +119,7 @@ Jeśli szukasz przykładów filmów z audiodeskrypcją, zobacz [Perspektywy dost
       <td>[Shadi mówi]</td>
     </tr>
     <tr>
-      <td>Na przykład napisy przynoszą korzyści każdemu, kto pracuje w głośnym lub cichym otoczeniu.</td>
+      <td>Na przykład napisy przynoszą korzyści każdemu, kto znajduje się w głośnym lub cichym otoczeniu.</td>
       <td>Ktoś w biurze ogląda wideo z napisami</td>
     </tr>
     <tr>
