@@ -5,8 +5,11 @@ nav_title: "紹介動画" # A short title that is used in the navigation
 lang: ja   # Change "en" to the translated language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 last_updated: 2024-03-03   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators: 
-- name: "Naomi Yoshizawa"   # Replace @@ with name or names separated with a comma
-- name: "Hiroya UGA"   # Replace @@ with name or names separated with a comma
+- name: "Naomi Yoshizawa"
+- name: "Hiroya UGA"
+contributors:
+- name: "Takumi Ishihara"
+- name: "Naoki Nakamura"
 permalink: /videos/standards-and-benefits/ja   # Add the language shortcode to the end; for example /fundamentals/accessibility-intro/fr
 ref: /videos/standards-and-benefits/   # Do not change this
 layout: default
@@ -211,4 +214,4 @@ footer: >
 
 ### 多言語の翻訳
 
-W3Cは他言語の翻訳を歓迎します。[VTTファイル](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt)を翻訳する場合は、 <public-wai-translations@w3.org>までお送りください。本ウェブページ全体や他資料を翻訳ご希望の方は[[WAI資料の翻訳]](https://www.w3.org/WAI/about/translating/)をご覧ください。
+W3Cは他言語の翻訳を歓迎します。[VTTファイル](https://www.w3.org/WAI/wai-videos/video-introduction/video-introduction.en.vtt)を翻訳する場合は、 <public-wai-translations@w3.org>までお送りください。本ウェブページ全体や他資料を翻訳ご希望の方は[[WAI資料の翻訳]](/about/translating/)をご覧ください。
