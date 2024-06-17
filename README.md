@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This repository will soon been archived.
+> This repository has been archived 17 June 2024.
 >
 > [Video Introduction to Web Accessibility and W3C Standards](https://www.w3.org/WAI/videos/standards-and-benefits/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
 
